@@ -1,0 +1,82 @@
+{
+ "sets": [
+  {
+   "id": "g8-am-citizenship-2017",
+   "file": "2017-g8.json",
+   "level": "g8-amhara",
+   "subject": "citizenship",
+   "year": 2017,
+   "kind": "past-paper",
+   "title": "2017 E.C. Regional Examination",
+   "questions": 60,
+   "durationMinutes": 60,
+   "answerSource": "reasoned",
+   "status": "published"
+  },
+  {
+   "id": "g6-am-amharic-2018",
+   "file": "2018-g6.json",
+   "level": "g6-amhara",
+   "subject": "amharic",
+   "year": 2018,
+   "kind": "past-paper",
+   "title": "2018 E.C. Regional Examination",
+   "questions": 40,
+   "durationMinutes": 60,
+   "answerSource": "reasoned",
+   "status": "published"
+  },
+  {
+   "id": "g6-am-english-2018",
+   "file": "2018-g6.json",
+   "level": "g6-amhara",
+   "subject": "english",
+   "year": 2018,
+   "kind": "past-paper",
+   "title": "2018 E.C. Regional Examination",
+   "questions": 40,
+   "durationMinutes": 60,
+   "answerSource": "reasoned",
+   "status": "published"
+  },
+  {
+   "id": "g6-am-mathematics-2018",
+   "file": "2018-g6.json",
+   "level": "g6-amhara",
+   "subject": "mathematics",
+   "year": 2018,
+   "kind": "past-paper",
+   "title": "2018 E.C. Regional Examination",
+   "questions": 28,
+   "durationMinutes": 60,
+   "answerSource": "reasoned",
+   "status": "published"
+  },
+  {
+   "id": "g6-am-environmental-science-2018",
+   "file": "2018-g6.json",
+   "level": "g6-amhara",
+   "subject": "environmental-science",
+   "year": 2018,
+   "kind": "past-paper",
+   "title": "2018 E.C. Regional Examination",
+   "questions": 40,
+   "durationMinutes": 60,
+   "answerSource": "reasoned",
+   "status": "published"
+  },
+  {
+   "id": "g6-am-moral-education-2018",
+   "file": "2018-g6.json",
+   "level": "g6-amhara",
+   "subject": "moral-education",
+   "year": 2018,
+   "kind": "past-paper",
+   "title": "2018 E.C. Regional Examination",
+   "questions": 40,
+   "durationMinutes": 60,
+   "answerSource": "reasoned",
+   "status": "published"
+  }
+ ]
+}

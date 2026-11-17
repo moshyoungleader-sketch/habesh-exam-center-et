@@ -1,0 +1,84 @@
+/* Exam page rules (scoped to body[data-page="exam"]). */
+/* ---- exam ---- */
+:root:has(:where(body[data-page="exam"])) {--navy: #12346b; --blue: #2563eb; --pale: #eaf2ff; --bg: #f5f8fd; --text: #17243b; --muted: #64748b; --border: #dce5f1; --green: #15803d; --red: #b91c1c;}
+body:where([data-page="exam"]),
+:where(body[data-page="exam"]) * {box-sizing: border-box;}
+body:where([data-page="exam"]) {margin: 0; background: var(--bg); color: var(--text); font-family: Arial, Helvetica, sans-serif; line-height: 1.55;}
+:where(body[data-page="exam"]) button,
+:where(body[data-page="exam"]) select {font: inherit;}
+:where(body[data-page="exam"]) a {color: inherit; text-decoration: none;}
+:where(body[data-page="exam"]) .topbar {background: white; border-bottom: 1px solid var(--border);}
+:where(body[data-page="exam"]) .nav {max-width: 1050px; margin: auto; padding: 14px 18px; display: flex; justify-content: space-between; gap: 14px; align-items: center;}
+:where(body[data-page="exam"]) .brand {font-size: 18px; font-weight: 800; color: var(--navy);}
+:where(body[data-page="exam"]) .navlinks {display: flex; gap: 16px; flex-wrap: wrap; font-size: 14px; color: var(--muted);}
+:where(body[data-page="exam"]) .container {max-width: 1050px; margin: auto; padding: 24px 18px 45px;}
+:where(body[data-page="exam"]) .exam-head {display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; margin-bottom: 18px;}
+:where(body[data-page="exam"]) h1 {color: var(--navy); font-size: clamp(24px, 4vw, 32px); margin: 0;}
+:where(body[data-page="exam"]) .muted {color: var(--muted); font-size: 14px;}
+:where(body[data-page="exam"]) .timer {background: var(--navy); color: white; padding: 11px 16px; border-radius: 12px; font-size: 20px; font-weight: 800; min-width: 105px; text-align: center;}
+:where(body[data-page="exam"]) .timer.warning {background: #b91c1c;}
+:where(body[data-page="exam"]) .layout {display: grid; grid-template-columns: minmax(0, 1fr) 270px; gap: 18px; align-items: start;}
+:where(body[data-page="exam"]) .panel {background: white; border: 1px solid var(--border); border-radius: 16px; padding: 21px;}
+:where(body[data-page="exam"]) .question-number {color: var(--blue); font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: .6px;}
+:where(body[data-page="exam"]) .question-text {font-size: 20px; font-weight: 700; margin: 12px 0 20px; white-space: pre-wrap; overflow-wrap: anywhere;}
+:where(body[data-page="exam"]) .options {display: grid; gap: 11px;}
+:where(body[data-page="exam"]) .option {display: flex; align-items: flex-start; gap: 12px; padding: 13px; border: 1px solid var(--border); border-radius: 12px; cursor: pointer; background: white;}
+:where(body[data-page="exam"]) .option:hover {border-color: #91b7f8; background: #f8fbff;}
+:where(body[data-page="exam"]) .option.selected {border-color: var(--blue); background: var(--pale);}
+:where(body[data-page="exam"]) .option input {margin-top: 5px; accent-color: var(--blue);}
+:where(body[data-page="exam"]) .option-letter {width: 27px; height: 27px; flex: 0 0 27px; display: grid; place-items: center; border-radius: 8px; background: #edf2f8; color: var(--navy); font-size: 13px; font-weight: 800;}
+:where(body[data-page="exam"]) .option.selected .option-letter {background: var(--blue); color: white;}
+:where(body[data-page="exam"]) .option-text {white-space: pre-wrap; overflow-wrap: anywhere;}
+:where(body[data-page="exam"]) .question-controls {display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-top: 23px;}
+:where(body[data-page="exam"]) .btn {border: 0; border-radius: 10px; padding: 11px 15px; cursor: pointer; font-weight: 700; background: var(--blue); color: white;}
+:where(body[data-page="exam"]) .btn.secondary {background: var(--pale); color: var(--navy);}
+:where(body[data-page="exam"]) .btn.outline {border: 1px solid var(--border); background: white; color: var(--navy);}
+:where(body[data-page="exam"]) .btn.danger {background: #b91c1c; color: white;}
+:where(body[data-page="exam"]) .btn:disabled {opacity: .45; cursor: not-allowed;}
+:where(body[data-page="exam"]) .side-title {color: var(--navy); margin: 0 0 12px; font-size: 17px;}
+:where(body[data-page="exam"]) .question-grid {display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px;}
+:where(body[data-page="exam"]) .qjump {min-height: 38px; border: 1px solid var(--border); border-radius: 8px; background: white; color: var(--text); cursor: pointer; font-weight: 700;}
+:where(body[data-page="exam"]) .qjump.answered {background: #dbeafe; border-color: #93c5fd;}
+:where(body[data-page="exam"]) .qjump.current {outline: 2px solid var(--blue); outline-offset: 1px;}
+:where(body[data-page="exam"]) .legend {margin: 12px 0 17px; color: var(--muted); font-size: 12px;}
+:where(body[data-page="exam"]) .summary-row {display: flex; justify-content: space-between; gap: 10px; margin: 10px 0; font-size: 14px;}
+:where(body[data-page="exam"]) .summary-row strong {color: var(--navy);}
+:where(body[data-page="exam"]) .notice {border-radius: 12px; padding: 15px; margin-bottom: 17px; background: #eaf2ff; color: var(--navy);}
+:where(body[data-page="exam"]) .notice.error {background: #fff0f0; color: #991b1b;}
+:where(body[data-page="exam"]) .notice.success {background: #eaf8ef; color: #166534;}
+:where(body[data-page="exam"]) .hidden {display: none !important;}
+:where(body[data-page="exam"]) .setup-row {display: flex; align-items: end; gap: 12px; flex-wrap: wrap; margin-top: 16px;}
+:where(body[data-page="exam"]) .setup-row label {display: block; font-weight: 700; font-size: 13px; margin-bottom: 5px;}
+:where(body[data-page="exam"]) .setup-row select {border: 1px solid var(--border); padding: 10px; border-radius: 9px; min-width: 150px; background: white;}
+:where(body[data-page="exam"]) footer {text-align: center; color: var(--muted); font-size: 13px; padding: 22px;}
+@media (max-width: 780px) {
+:where(body[data-page="exam"]) .layout {grid-template-columns: 1fr;}
+:where(body[data-page="exam"]) .sidebar {order: -1;}
+:where(body[data-page="exam"]) .question-grid {grid-template-columns: repeat(8, 1fr);}
+:where(body[data-page="exam"]) .panel {padding: 16px;}
+}
+@media (max-width: 500px) {
+:where(body[data-page="exam"]) .nav {align-items: flex-start; flex-direction: column;}
+:where(body[data-page="exam"]) .container {padding: 18px 12px 32px;}
+:where(body[data-page="exam"]) .question-grid {grid-template-columns: repeat(6, 1fr);}
+:where(body[data-page="exam"]) .question-text {font-size: 18px;}
+:where(body[data-page="exam"]) .question-controls .btn {flex: 1;}
+}
+:where(body[data-page="exam"]) .exam-question-toolbar {display:flex;align-items:center;justify-content:space-between;gap:12px}
+:where(body[data-page="exam"]) .question-number {font-size:15px;font-weight:800}
+:where(body[data-page="exam"]) .layout {grid-template-columns:minmax(0,1fr)!important}
+:where(body[data-page="exam"]) .layout>.panel:first-child {min-height:calc(100vh - 250px);display:flex;flex-direction:column;justify-content:flex-start;padding:clamp(22px,5vw,54px)}
+:where(body[data-page="exam"]) .question-text {font-size:clamp(20px,3vw,27px);line-height:1.55;margin:28px 0}
+:where(body[data-page="exam"]) .options {max-width:900px;width:100%}
+:where(body[data-page="exam"]) .question-controls {margin-top:auto;padding-top:30px}
+:where(body[data-page="exam"]) .sidebar {position:fixed!important;z-index:1300;right:18px;top:95px;bottom:18px;width:min(360px,calc(100vw - 36px));overflow:auto;box-shadow:0 18px 55px #061d3950;display:none}
+:where(body[data-page="exam"]) .sidebar.open {display:block}
+:where(body[data-page="exam"]) .exam-nav-scrim {position:fixed;inset:78px 0 0;background:#061d3966;z-index:1299;display:none}
+:where(body[data-page="exam"]) .exam-nav-scrim.show {display:block}
+@media(max-width:650px) {
+:where(body[data-page="exam"]) .layout>.panel:first-child {min-height:calc(100vh - 190px);padding:18px}
+:where(body[data-page="exam"]) .question-controls {gap:8px;flex-wrap:wrap}
+:where(body[data-page="exam"]) .question-controls button {flex:1}
+:where(body[data-page="exam"]) .exam-head {align-items:flex-start}
+}
+

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f8fa">
+  <title>Resource Details | Habesha Exam Center</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/pages.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <script src="js/core/config.js"></script>
+</head>
+<body data-page="resource-detail">
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="index.html">Habesha Exam Center<small>LEARN · PRACTICE · SUCCEED</small></a>
+      <a class="top-link" href="resources.html">Learning resources</a>
+    </div>
+  </header>
+
+  <main class="resource-detail-page container">
+    <a class="resource-detail-back" href="resources.html">← Back to learning resources</a>
+    <section id="resourcePanel" class="resource-detail-card panel" hidden>
+      <div class="resource-detail-banner">
+        <div class="eyebrow" id="resourceType">Learning resource</div>
+        <h1 id="resourceTitle">Resource title</h1>
+        <p id="resourceDescription"></p>
+        <div class="resource-tags" id="resourceTags"></div>
+      </div>
+      <div class="resource-detail-content">
+        <div id="resourceStatus" class="resource-status-panel">This resource is not available yet.</div>
+        <h2>Resource information</h2>
+        <p id="resourceInformation"></p>
+        <div class="resource-detail-actions">
+          <a id="openResource" class="btn primary" href="#" target="_blank" rel="noopener noreferrer" hidden>Open learning material</a>
+          <a class="btn secondary" href="resources.html">Back to resources</a>
+          <a class="btn secondary" href="exams.html">Practice an exam</a>
+        </div>
+      </div>
+    </section>
+    <section id="missingPanel" class="resources-empty panel" hidden>
+      <h1>Resource not found</h1>
+      <p>This resource may have been removed or the link may be incorrect.</p>
+      <a class="btn primary" href="resources.html">Browse learning resources</a>
+    </section>
+  </main>
+
+  <footer class="hec-footer">Habesha Exam Center · Learn Today · Build Tomorrow</footer>
+    <script src="js/core/util.js"></script>
+  <script src="js/core/store.js"></script>
+  <script src="js/core/sync.js"></script>
+  <script src="js/core/auth.js"></script>
+  <script src="js/core/catalogue.js"></script>
+  <script src="js/core/content.js"></script>
+  <script src="js/core/shell.js"></script>
+  <script src="js/core/video.js"></script>
+  <script src="js/pages/resources.js"></script>
+</body>
+</html>

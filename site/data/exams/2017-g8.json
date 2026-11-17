@@ -1,0 +1,800 @@
+{
+ "year": 2017,
+ "grade": 8,
+ "sets": [
+  {
+   "id": "g8-am-citizenship-2017",
+   "level": "g8-amhara",
+   "subject": "citizenship",
+   "title": "2017 E.C. Regional Examination",
+   "kind": "past-paper",
+   "year": 2017,
+   "source": "ANRSEB Citizenship Regional Examination",
+   "answerSource": "reasoned",
+   "durationMinutes": 60,
+   "status": "published",
+   "questions": [
+    {
+     "id": "g8-am-citizenship-001",
+     "topic": "Citizenship",
+     "question": "The legal relationship between an individual and a state refers to",
+     "options": [
+      "subject",
+      "citizen",
+      "citizenship",
+      "right"
+     ],
+     "answer": 2,
+     "explanation": "Citizenship is the legal relationship between a person and a state, involving rights and responsibilities."
+    },
+    {
+     "id": "g8-am-citizenship-002",
+     "topic": "Good Citizenship",
+     "question": "If you look Ato Kebede unable to see in traffic areas, as a good citizen what action would you take?",
+     "options": [
+      "Waiting for others",
+      "Ignoring",
+      "Simply look at him",
+      "Helping him to cross the road"
+     ],
+     "answer": 3,
+     "explanation": "Helping a person who cannot see to cross safely shows kindness, responsibility, and respect for others."
+    },
+    {
+     "id": "g8-am-citizenship-003",
+     "topic": "Acquisition of Citizenship",
+     "question": "From the following ways of acquiring citizenship which one is the right of soil?",
+     "options": [
+      "Citizenship by naturalization",
+      "Citizenship by place of birth",
+      "Citizenship by marriage",
+      "Citizenship by descent"
+     ],
+     "answer": 1,
+     "explanation": "The right of soil means acquiring citizenship based on the place where a person is born."
+    },
+    {
+     "id": "g8-am-citizenship-004",
+     "topic": "Acquisition of Citizenship",
+     "question": "According to the Ethiopian Nationality Proclamation of 2003, the following are the requirements to grant citizenship by application EXCEPT one",
+     "options": [
+      "no criminal record",
+      "sufficient income",
+      "good moral character",
+      "Speaking English"
+     ],
+     "answer": 3,
+     "explanation": "Speaking English is not listed as a general requirement for citizenship by application in the question's context."
+    },
+    {
+     "id": "g8-am-citizenship-005",
+     "topic": "Democratic Government",
+     "question": "From the following, which one is the major function of democratic government in sustaining social stability?",
+     "options": [
+      "Maintaining social order",
+      "Delaying court decisions",
+      "Escalating conflict",
+      "Making unpractical law"
+     ],
+     "answer": 0,
+     "explanation": "Maintaining social order helps protect peace, security, and stability in society."
+    },
+    {
+     "id": "g8-am-citizenship-006",
+     "topic": "Forms of Government",
+     "question": "A form of government in which sovereign power is vested in a single individual is",
+     "options": [
+      "aristocracy",
+      "monarchy",
+      "dictatorship",
+      "democracy"
+     ],
+     "answer": 1,
+     "explanation": "In a monarchy, the position of head of state is held by one monarch, usually a king or queen."
+    },
+    {
+     "id": "g8-am-citizenship-007",
+     "topic": "State and Government",
+     "question": "What is the major difference between state and government?",
+     "options": [
+      "State is visible while government is abstract",
+      "State is concrete while government is invisible",
+      "State is relatively permanent while government is temporary",
+      "Membership in state is voluntary while compulsory in government"
+     ],
+     "answer": 2,
+     "explanation": "A state is a continuing political entity, while governments and their leaders can change."
+    },
+    {
+     "id": "g8-am-citizenship-008",
+     "topic": "Elements of State",
+     "question": "From the following elements of state which one is considered as a brain or machinery of state?",
+     "options": [
+      "Population",
+      "Territory",
+      "Sovereignty",
+      "Government"
+     ],
+     "answer": 3,
+     "explanation": "Government is the machinery through which a state makes and implements decisions."
+    },
+    {
+     "id": "g8-am-citizenship-009",
+     "topic": "Democracy",
+     "question": "From the following which one is the correct nature of Athenian democracy?",
+     "options": [
+      "There was an indirect popular participation",
+      "There was political inequality",
+      "Government was responsible",
+      "Invented the idea of subjects"
+     ],
+     "answer": 1,
+     "explanation": "Athenian democracy excluded many residents, including women, enslaved people, and foreigners, from political participation."
+    },
+    {
+     "id": "g8-am-citizenship-010",
+     "topic": "Social Democracy",
+     "question": "From the following which one is the main feature of social democracy?",
+     "options": [
+      "Free market economy",
+      "Gives priority to the rich",
+      "Attention to maximal economic system",
+      "Economic empowerment for the poor"
+     ],
+     "answer": 3,
+     "explanation": "Social democracy emphasizes social welfare and reducing economic inequality, including support for poorer people."
+    },
+    {
+     "id": "g8-am-citizenship-011",
+     "topic": "Democracy",
+     "question": "Indirect democracy refers to",
+     "options": [
+      "the participation of citizens directly.",
+      "making decisions through representatives.",
+      "participation of all adult citizens.",
+      "direct popular sovereignty."
+     ],
+     "answer": 1,
+     "explanation": "In indirect democracy, citizens elect representatives to make decisions on their behalf."
+    },
+    {
+     "id": "g8-am-citizenship-012",
+     "topic": "Types of Democracy",
+     "question": "Procedural democracy differs from substantive democracy. Procedural democracy is",
+     "options": [
+      "fundamental of electoral system.",
+      "focusing on the role of government",
+      "serving the interest of the rulers.",
+      "a functional democracy."
+     ],
+     "answer": 0,
+     "explanation": "Procedural democracy emphasizes democratic processes, especially elections and the rules for political participation."
+    },
+    {
+     "id": "g8-am-citizenship-013",
+     "topic": "Indigenous Conflict Resolution",
+     "question": "The indigenous conflict resolution mechanism of Benishangul-Gumuz is",
+     "options": [
+      "Jarsuma",
+      "Enashuma",
+      "Yojoka",
+      "Xeer"
+     ],
+     "answer": 0,
+     "explanation": "Jarsuma is the tentatively selected answer. Verify this indigenous institution against the Grade 8 textbook or a reliable regional source."
+    },
+    {
+     "id": "g8-am-citizenship-014",
+     "topic": "Justice",
+     "question": "As a genuine citizen, how do you practice justice in your daily life?",
+     "options": [
+      "Believe in stereotype",
+      "Provide equal opportunity",
+      "Favor for relatives",
+      "Support unjust acts"
+     ],
+     "answer": 1,
+     "explanation": "Providing equal opportunities means treating people fairly without discrimination or favoritism."
+    },
+    {
+     "id": "g8-am-citizenship-015",
+     "topic": "Honesty",
+     "question": "Assume that someone gives you to put goods in your house for an hour. What would you do?",
+     "options": [
+      "Return the goods",
+      "Stealing the goods",
+      "Denied him/her goods",
+      "Cheating some goods"
+     ],
+     "answer": 0,
+     "explanation": "Returning the goods as agreed demonstrates honesty and respect for another person's property."
+    },
+    {
+     "id": "g8-am-citizenship-016",
+     "topic": "Rule of Law",
+     "question": "How is rule law important to create democratic society?",
+     "options": [
+      "Rule of law believes in every citizen as equal.",
+      "Rule of men is one principle of democracy.",
+      "Rule of law violates individual freedom.",
+      "Rule of law advocates inequality."
+     ],
+     "answer": 0,
+     "explanation": "The rule of law requires everyone to be treated equally under the law."
+    },
+    {
+     "id": "g8-am-citizenship-017",
+     "topic": "Rule of Law",
+     "question": "How can we show respecting the rule of law?",
+     "options": [
+      "Supporting the interference of judges",
+      "Supporting anyone presumed innocent",
+      "Taking the law in to our own advantage",
+      "Encouraging for the absence of peace and order"
+     ],
+     "answer": 1,
+     "explanation": "Respecting the presumption of innocence means treating a person as innocent until proven guilty through a fair legal process."
+    },
+    {
+     "id": "g8-am-citizenship-018",
+     "topic": "Rule of Man",
+     "question": "How does the existence of rule of man affect the rights of citizens?",
+     "options": [
+      "Rulers are subject to the law.",
+      "It protects individual rights.",
+      "It gives chance for the participation of citizens",
+      "Laws are implemented by the will of rulers."
+     ],
+     "answer": 3,
+     "explanation": "Under rule of man, rulers may exercise power according to their own will instead of being limited by law."
+    },
+    {
+     "id": "g8-am-citizenship-019",
+     "topic": "Human Rights",
+     "question": "Which one of the following is the importance of respecting human rights in Ethiopia?",
+     "options": [
+      "It is the source of differences.",
+      "It helps people to live together.",
+      "It is a means for discrimination.",
+      "It denies equal work opportunities"
+     ],
+     "answer": 1,
+     "explanation": "Respecting human rights promotes dignity, equality, peaceful coexistence, and mutual respect."
+    },
+    {
+     "id": "g8-am-citizenship-020",
+     "topic": "Human Rights",
+     "question": "Which of the following is a regional human right instrument?",
+     "options": [
+      "Universal declaration of human right",
+      "Organization of African unity",
+      "African charter on people's rights",
+      "Intergovernmental African development"
+     ],
+     "answer": 2,
+     "explanation": "The African Charter on Human and Peoples' Rights is a regional African human rights instrument."
+    },
+    {
+     "id": "g8-am-citizenship-021",
+     "topic": "Human Rights Institutions",
+     "question": "From the following which one is a human right institution and instrument of Ethiopia?",
+     "options": [
+      "The Ethiopian Ombudsman",
+      "Ethiopian Youth Association",
+      "The Ethiopian Red Cross Society",
+      "The Ethiopian National Dialogue Commission"
+     ],
+     "answer": 0,
+     "explanation": "The Ethiopian Institution of the Ombudsman is a public institution that supports accountability and the protection of rights."
+    },
+    {
+     "id": "g8-am-citizenship-022",
+     "topic": "Human Rights",
+     "question": "From the following which one is the role of government in realizing human right in our country?",
+     "options": [
+      "Forbid freedom of speech",
+      "Physically beat the person",
+      "Protect the security of citizens",
+      "Provide private education"
+     ],
+     "answer": 2,
+     "explanation": "Protecting citizens' security is one of the government's responsibilities in protecting human rights."
+    },
+    {
+     "id": "g8-am-citizenship-023",
+     "topic": "Community Engagement",
+     "question": "Why community engagement is important?",
+     "options": [
+      "To eradicate local knowledge",
+      "To create communication barrier",
+      "To reduce citizens’ empowerment",
+      "To improve problem solving skills"
+     ],
+     "answer": 3,
+     "explanation": "Community engagement brings people together to identify issues and develop solutions."
+    },
+    {
+     "id": "g8-am-citizenship-024",
+     "topic": "Voluntary Service",
+     "question": "What is voluntary service? It is",
+     "options": [
+      "providing political services.",
+      "working for financial gains.",
+      "a form of community service.",
+      "a form of contractual activity."
+     ],
+     "answer": 2,
+     "explanation": "Voluntary service is work people freely provide to help others or their community."
+    },
+    {
+     "id": "g8-am-citizenship-025",
+     "topic": "Voluntary Service",
+     "question": "From the following which one is NOT the benefit of voluntary service?",
+     "options": [
+      "It separates people from all life",
+      "It builds self-confidence",
+      "It develops a sense of purpose",
+      "It paves the way for future employment opportunity"
+     ],
+     "answer": 0,
+     "explanation": "Voluntary service generally connects people with others; separating people is not a benefit."
+    },
+    {
+     "id": "g8-am-citizenship-026",
+     "topic": "Community Engagement",
+     "question": "From the following aspects of community engagement, which one is the goal of public service quality?",
+     "options": [
+      "Political aspect",
+      "Social aspect",
+      "Economic aspect",
+      "Military aspect"
+     ],
+     "answer": 1,
+     "explanation": "The social aspect of community engagement is concerned with people's welfare and the quality of public services."
+    },
+    {
+     "id": "g8-am-citizenship-027",
+     "topic": "Community Engagement",
+     "question": "Both Economic and social aspects of community engagement are similar in",
+     "options": [
+      "their goals are similar in nature.",
+      "they work for the benefit of some members.",
+      "their participants come from outside the country.",
+      "they need commitment to implement the issue."
+     ],
+     "answer": 3,
+     "explanation": "Both economic and social community activities require commitment and participation to achieve their goals."
+    },
+    {
+     "id": "g8-am-citizenship-028",
+     "topic": "Critical Thinking",
+     "question": "The objective of analysis in critical thinking is",
+     "options": [
+      "to search fun information",
+      "to make acceptable decision.",
+      "to find unsound able argument.",
+      "to collect irrelevant information."
+     ],
+     "answer": 2,
+     "explanation": "Analysis helps examine arguments and identify weaknesses or unsupported reasoning."
+    },
+    {
+     "id": "g8-am-citizenship-029",
+     "topic": "Critical Thinking",
+     "question": "True information differs from false information. It is",
+     "options": [
+      "a fake information.",
+      "an information without analyzing.",
+      "triangulated from different sources.",
+      "obtained from social media like Facebook."
+     ],
+     "answer": 2,
+     "explanation": "Checking information against different sources helps establish whether it is reliable."
+    },
+    {
+     "id": "g8-am-citizenship-030",
+     "topic": "Teamwork",
+     "question": "Of the skills of critical thinking which one is the benefit of team work?",
+     "options": [
+      "Decreases sense of responsibility",
+      "Establishes weak relationships",
+      "Creates unhealthy respect for differences",
+      "Increases the ability of collaborative skills"
+     ],
+     "answer": 3,
+     "explanation": "Teamwork helps people cooperate, share ideas, and improve their collaborative skills."
+    },
+    {
+     "id": "g8-am-citizenship-031",
+     "topic": "Virtue Ethics",
+     "question": "From the following which one refers to “virtue ethics”?",
+     "options": [
+      "It is the belief to do well for the well-being of the community.",
+      "It is the pursuit of understanding and living one’s personal life.",
+      "It is the concern of producing evil persons in the society.",
+      "It is personal innate character to act intentionally."
+     ],
+     "answer": 3,
+     "explanation": "Virtue ethics focuses on a person's moral character and the qualities that guide good actions."
+    },
+    {
+     "id": "g8-am-citizenship-032",
+     "topic": "Virtue and Vice",
+     "question": "Why is virtue different from vice? Because it is",
+     "options": [
+      "a habitual practice for learning evilness.",
+      "a personal disposition that develop immorality.",
+      "a kind of action done for the benefit of the society.",
+      "learning for developing undesired behaviors."
+     ],
+     "answer": 2,
+     "explanation": "Virtue refers to good moral qualities and actions that contribute positively to society."
+    },
+    {
+     "id": "g8-am-citizenship-033",
+     "topic": "Prudence",
+     "question": "Which one of the following correctly expresses the importance of prudence?",
+     "options": [
+      "It enables us to increase unnecessary risks.",
+      "It is a means for developing practical wisdom.",
+      "It is a source for personal moral conflict.",
+      "It retards the skill of critical thinking."
+     ],
+     "answer": 1,
+     "explanation": "Prudence helps people think carefully and make wise decisions in practical situations."
+    },
+    {
+     "id": "g8-am-citizenship-034",
+     "topic": "Prudence",
+     "question": "How do you become prudent to your society?",
+     "options": [
+      "Respecting the norms of the society",
+      "Disclosing society’s secrets",
+      "Wasting schools property",
+      "Providing unfair judgment"
+     ],
+     "answer": 0,
+     "explanation": "Respecting appropriate social norms shows careful judgment and responsibility toward the community."
+    },
+    {
+     "id": "g8-am-citizenship-035",
+     "topic": "Virtue Ethics",
+     "question": "How do you practice virtue ethic in your life?",
+     "options": [
+      "Doing whatever makes you happy",
+      "Stealing other people’s property",
+      "Ignoring other people’s opinion",
+      "Acting in ways that show good character"
+     ],
+     "answer": 3,
+     "explanation": "Virtue ethics is practiced by showing honesty, fairness, kindness, and other good character traits."
+    },
+    {
+     "id": "g8-am-citizenship-036",
+     "topic": "State Structures",
+     "question": "From the following state structures, which one allows different groups to share power over common interests?",
+     "options": [
+      "Regional",
+      "Federal",
+      "Confederal",
+      "Unitary"
+     ],
+     "answer": 2,
+     "explanation": "A confederation is an arrangement in which constituent political units cooperate and share authority in agreed areas."
+    },
+    {
+     "id": "g8-am-citizenship-037",
+     "topic": "Federalism",
+     "question": "One of the advantages of federal state structure is",
+     "options": [
+      "uniformity of administration",
+      "equal access of public services",
+      "accommodating diversity in society",
+      "deficiency of authority over constituent states"
+     ],
+     "answer": 2,
+     "explanation": "Federalism can accommodate cultural, linguistic, and regional diversity by sharing power among levels of government."
+    },
+    {
+     "id": "g8-am-citizenship-038",
+     "topic": "Systems of Government",
+     "question": "In presidential system of government",
+     "options": [
+      "the president is both the head of state and government.",
+      "the prime minister appoints the executive members.",
+      "the prime minister is elected directly by the people.",
+      "the president is accountable to the parliament."
+     ],
+     "answer": 0,
+     "explanation": "In a presidential system, the president normally serves as both head of state and head of government."
+    },
+    {
+     "id": "g8-am-citizenship-039",
+     "topic": "State and Government",
+     "question": "What is the relation between state and government?",
+     "options": [
+      "Government is permanent entity",
+      "State provides legitimacy to government",
+      "Government is made up of all people",
+      "State is an element of government"
+     ],
+     "answer": 1,
+     "explanation": "Government exercises authority within the state and derives its legal authority from the state's constitutional and political framework."
+    },
+    {
+     "id": "g8-am-citizenship-040",
+     "topic": "Principles of Democracy",
+     "question": "From the following principle of democracy, which one suggests about the ultimate political power in the hands of the people?",
+     "options": [
+      "Sovereignty of the people",
+      "Separation of power",
+      "Secularism",
+      "Popular sovereignty"
+     ],
+     "answer": 0,
+     "explanation": "Both 'sovereignty of the people' and 'popular sovereignty' express the idea that political power ultimately belongs to the people. The options are duplicates in meaning."
+    },
+    {
+     "id": "g8-am-citizenship-041",
+     "topic": "Citizen Participation",
+     "question": "If you donate your blood to the other sick person in a proper way, which principle of democracy do you apply?",
+     "options": [
+      "Sovereignty of government",
+      "The principle of transparency",
+      "Supremacy of constitution",
+      "Citizen participation"
+     ],
+     "answer": 3,
+     "explanation": "Helping another person through a voluntary community action demonstrates active participation in society."
+    },
+    {
+     "id": "g8-am-citizenship-042",
+     "topic": "Tolerance",
+     "question": "Accepting and respecting difference refers to",
+     "options": [
+      "liberty",
+      "tolerance",
+      "justice",
+      "equality"
+     ],
+     "answer": 1,
+     "explanation": "Tolerance means accepting and respecting people whose opinions, beliefs, or backgrounds differ from our own."
+    },
+    {
+     "id": "g8-am-citizenship-043",
+     "topic": "Indigenous Social Systems",
+     "question": "Which of the following is a socio-cultural administration system of Wejerat people to maintain their integrity and security?",
+     "options": [
+      "Kanchi system",
+      "Awassiya",
+      "Yojoka",
+      "Luwa"
+     ],
+     "answer": 1,
+     "explanation": "Awassiya is the tentatively selected answer. Verify the spelling and the system against the relevant textbook or regional source."
+    },
+    {
+     "id": "g8-am-citizenship-044",
+     "topic": "Constitutionalism",
+     "question": "How is constitutionalism prevailed in a given country?",
+     "options": [
+      "If there is a written constitution",
+      "If governmental power is unlimited",
+      "When government makes arbitrary decisions",
+      "When constitutional principles are implemented"
+     ],
+     "answer": 3,
+     "explanation": "Constitutionalism exists when government power is limited and constitutional principles are actually followed."
+    },
+    {
+     "id": "g8-am-citizenship-045",
+     "topic": "Constitutionalism",
+     "question": "Constitutionalism is important. Because it",
+     "options": [
+      "retards democratic system.",
+      "promotes the common good.",
+      "creates undemocratic government.",
+      "creates absolute monarchical government."
+     ],
+     "answer": 1,
+     "explanation": "Constitutionalism limits arbitrary power and supports the common good and protection of citizens."
+    },
+    {
+     "id": "g8-am-citizenship-046",
+     "topic": "Constitution",
+     "question": "Why is rigid constitution difficult to amend?",
+     "options": [
+      "Its constitutional amending procedures are simple.",
+      "It can easily adapt to changing circumstances.",
+      "It requires serious procedures to amend.",
+      "It cannot be amended forever."
+     ],
+     "answer": 2,
+     "explanation": "A rigid constitution requires special or more demanding procedures for amendments."
+    },
+    {
+     "id": "g8-am-citizenship-047",
+     "topic": "Constitutionalism",
+     "question": "Why is constitutionalism essential for peace and stability? It is",
+     "options": [
+      "a tool for providing lawlessness.",
+      "a source for endangered justice.",
+      "a guarantee for protecting individual rights.",
+      "a source for arbitrary rule of the government."
+     ],
+     "answer": 2,
+     "explanation": "Constitutionalism protects individual rights by placing legal limits on government power."
+    },
+    {
+     "id": "g8-am-citizenship-048",
+     "topic": "Generations of Human Rights",
+     "question": "Which one of the following right is categorized under second generation right?",
+     "options": [
+      "The right to good living",
+      "The right to security",
+      "The right to property",
+      "The right to power"
+     ],
+     "answer": 0,
+     "explanation": "Second-generation rights include economic, social, and cultural rights, which relate to people's living conditions."
+    },
+    {
+     "id": "g8-am-citizenship-049",
+     "topic": "Human Rights",
+     "question": "The 1995 Amhara National Regional State constitution under article 17 declares that “No person may be subjected to arbitrary arrest.” This right refers to",
+     "options": [
+      "the right to life",
+      "the right to security",
+      "the right to privacy",
+      "the right to liberty"
+     ],
+     "answer": 3,
+     "explanation": "Protection from arbitrary arrest is closely connected to the right to personal liberty and freedom from unlawful detention."
+    },
+    {
+     "id": "g8-am-citizenship-050",
+     "topic": "Human Rights Challenges",
+     "question": "From the following challenges of protecting human right in Ethiopia, which one forces people to leave their home unexpectedly?",
+     "options": [
+      "Conflict",
+      "Weak institution",
+      "Traditional harmful practice",
+      "Poverty and inequality"
+     ],
+     "answer": 0,
+     "explanation": "Conflict can force people to leave their homes and become displaced."
+    },
+    {
+     "id": "g8-am-citizenship-051",
+     "topic": "Human Rights Challenges",
+     "question": "Why democratic deficit is one of the challenges of human right in Ethiopia? Due to",
+     "options": [
+      "its majority of people live in poverty.",
+      "small number of judges in the country.",
+      "strong democratic institution.",
+      "low level of democratic culture."
+     ],
+     "answer": 3,
+     "explanation": "A low level of democratic culture can weaken participation, accountability, and respect for rights."
+    },
+    {
+     "id": "g8-am-citizenship-052",
+     "topic": "Peace",
+     "question": "Absence of war refers to",
+     "options": [
+      "conflict",
+      "violence",
+      "peace",
+      "justice"
+     ],
+     "answer": 2,
+     "explanation": "Peace generally refers to a condition without war or violence."
+    },
+    {
+     "id": "g8-am-citizenship-053",
+     "topic": "Conflict",
+     "question": "Which one of the following is the main cause of conflict of students at school?",
+     "options": [
+      "Language",
+      "Religion",
+      "Bullying",
+      "Race"
+     ],
+     "answer": 2,
+     "explanation": "Bullying can create fear, disagreement, and conflict among students."
+    },
+    {
+     "id": "g8-am-citizenship-054",
+     "topic": "Conflict Resolution",
+     "question": "From the following which one is best to solve conflict?",
+     "options": [
+      "Developing positive attitudes",
+      "Ignoring the opinion of others’",
+      "Thinking on the surface",
+      "Supporting unjust actions"
+     ],
+     "answer": 0,
+     "explanation": "Positive attitudes encourage respect, understanding, and peaceful solutions to disagreements."
+    },
+    {
+     "id": "g8-am-citizenship-055",
+     "topic": "Negotiation",
+     "question": "From the following which one is essential for resolving conflict through negotiation?",
+     "options": [
+      "The involvement of third party",
+      "The ability and culture of tolerance",
+      "Uncivilized behavior on both groups",
+      "Selfish behavior on both groups"
+     ],
+     "answer": 1,
+     "explanation": "Negotiation requires patience, listening, and tolerance so that the parties can work toward an agreement."
+    },
+    {
+     "id": "g8-am-citizenship-056",
+     "topic": "Indigenous Conflict Resolution",
+     "question": "Why does indigenous conflict resolution play for sustaining peace? Because of",
+     "options": [
+      "having compensation mechanism for the victim one.",
+      "the involvement of local actors to settle the conflict.",
+      "restoring the previous communication with the parties.",
+      "applying forceful punishment mechanism."
+     ],
+     "answer": 1,
+     "explanation": "Local actors understand the community and can help parties settle disputes through familiar processes."
+    },
+    {
+     "id": "g8-am-citizenship-057",
+     "topic": "Critical Thinking",
+     "question": "From the following critical thinking in decision making steps, which one expresses the need to define the nature of the decision that must be made?",
+     "options": [
+      "Gather relevant information",
+      "Identify the alternatives",
+      "Identifying the decisions",
+      "Review the decisions"
+     ],
+     "answer": 2,
+     "explanation": "Identifying the decision means clearly defining what needs to be decided before considering information and alternatives."
+    },
+    {
+     "id": "g8-am-citizenship-058",
+     "topic": "Problem Solving",
+     "question": "Which one of the following is a problem solving habit?",
+     "options": [
+      "Misinformed",
+      "Ambiguous reasoning",
+      "Being open-minded",
+      "Acting rashly"
+     ],
+     "answer": 2,
+     "explanation": "Being open-minded helps a person consider different ideas and possible solutions."
+    },
+    {
+     "id": "g8-am-citizenship-059",
+     "topic": "Problem Solving",
+     "question": "Which of the following strategies allows students to engage in some repeated attempts at problem solving?",
+     "options": [
+      "Trial and error method",
+      "Creating mental image",
+      "Seeking a pattern",
+      "Monitoring solution"
+     ],
+     "answer": 0,
+     "explanation": "Trial and error involves trying possible solutions, learning from the results, and making further attempts."
+    },
+    {
+     "id": "g8-am-citizenship-060",
+     "topic": "Critical Thinking",
+     "question": "From the following one is NOT the importance of critical thinking skills in problem solving. Which one?",
+     "options": [
+      "To make reasonable decision",
+      "To be self-directed thinker",
+      "To defend an incomplete argument",
+      "To become dependent on others"
+     ],
+     "answer": 3,
+     "explanation": "Critical thinking encourages independent judgment rather than dependence on others. Option C is also negatively worded, so the question should be checked for ambiguity."
+    }
+   ]
+  }
+ ]
+}

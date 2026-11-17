@@ -1,0 +1,6 @@
+{
+  "cleanUrls": false,
+  "rewrites": [
+    { "source": "/supabase/:path*", "destination": "https://evscdzahzfwzchmabxtl.supabase.co/:path*" }
+  ]
+}

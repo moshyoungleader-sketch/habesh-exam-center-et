@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f8fa">
+  <title>Subject | Habesha Exam Center</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/pages.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <script src="js/core/config.js"></script>
+</head>
+<body data-page="subject">
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="index.html">Habesha Exam Center<small>LEARN · PRACTICE · SUCCEED</small></a>
+      <a class="top-link" href="resources.html">Learning resources</a>
+    </div>
+  </header>
+
+  <main class="resources-page container">
+    <a class="resource-detail-back" href="resources.html">← All subjects and resources</a>
+    <section class="resources-header">
+      <div>
+        <div class="eyebrow" id="subjectLevel">Subject</div>
+        <h1 id="subjectName">Subject</h1>
+        <p id="subjectIntro">Videos, notes, past papers and exams for this subject, in one place.</p>
+      </div>
+    </section>
+
+    <div class="subject-tabs" role="tablist" aria-label="Subject sections">
+      <button type="button" role="tab" data-tab="videos" aria-selected="true">Videos</button>
+      <button type="button" role="tab" data-tab="notes" aria-selected="false">Notes and text books</button>
+      <button type="button" role="tab" data-tab="papers" aria-selected="false">Past papers</button>
+      <button type="button" role="tab" data-tab="exams" aria-selected="false">Practice and mock exams</button>
+    </div>
+
+    <section id="tab-videos" class="panel subject-pane" role="tabpanel"></section>
+    <section id="tab-notes" class="panel subject-pane" role="tabpanel" hidden></section>
+    <section id="tab-papers" class="panel subject-pane" role="tabpanel" hidden></section>
+    <section id="tab-exams" class="panel subject-pane" role="tabpanel" hidden></section>
+  </main>
+
+  <footer class="hec-footer">Habesha Exam Center · Learn Today · Build Tomorrow</footer>
+  <script src="js/core/util.js"></script>
+  <script src="js/core/store.js"></script>
+  <script src="js/core/sync.js"></script>
+  <script src="js/core/auth.js"></script>
+  <script src="js/core/catalogue.js"></script>
+  <script src="js/core/content.js"></script>
+  <script src="js/core/shell.js"></script>
+  <script src="js/core/video.js"></script>
+  <script src="js/pages/subject.js"></script>
+</body>
+</html>

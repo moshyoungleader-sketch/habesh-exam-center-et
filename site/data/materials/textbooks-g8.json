@@ -1,0 +1,118 @@
+{
+ "grade": 8,
+ "subjects": {
+  "english": [
+   {
+    "id": "g8-english-01",
+    "title": "English for Ethiopia — Student's Book — Grade 8",
+    "type": "textbook",
+    "url": "https://drive.google.com/file/d/13OGGNC6zANQcAg5UNlJfsnotqT6F0JLI/view?usp=drivesdk",
+    "region": "amhara",
+    "order": 1,
+    "language": "en",
+    "source": "Amhara regional bureau (ANRSEB) Grade 8 collection",
+    "permission": "link-only",
+    "status": "published",
+    "image": "assets/covers/g8-english-textbook.webp"
+   },
+   {
+    "id": "g8-english-02",
+    "title": "English for Ethiopia — Teacher's Guide — Grade 8",
+    "type": "teacher-guide",
+    "url": "https://drive.google.com/file/d/13OASyupW87ylEzwRFWvem42cVVTJmNn9/view?usp=drivesdk",
+    "region": "amhara",
+    "order": 2,
+    "language": "en",
+    "source": "Amhara regional bureau (ANRSEB) Grade 8 collection",
+    "permission": "link-only",
+    "status": "published",
+    "image": "assets/covers/g8-english-tg.webp"
+   }
+  ],
+  "general-science": [
+   {
+    "id": "g8-general-science-01",
+    "title": "General Science — Student Textbook — Grade 8",
+    "type": "textbook",
+    "url": "https://drive.google.com/file/d/13_kErX99EcBCRdRXieR7PHrA1TxQrDbZ/view?usp=drivesdk",
+    "region": "amhara",
+    "order": 1,
+    "language": "en",
+    "source": "Amhara regional bureau (ANRSEB) Grade 8 collection",
+    "permission": "link-only",
+    "status": "published",
+    "image": "assets/covers/g8-gs-textbook.webp"
+   },
+   {
+    "id": "g8-general-science-02",
+    "title": "General Science — Teachers Guide — Grade 8",
+    "type": "teacher-guide",
+    "url": "https://drive.google.com/file/d/13T5Kuf24jTcVHsY-L1xNyjPKxHTadonC/view?usp=drivesdk",
+    "region": "amhara",
+    "order": 2,
+    "language": "en",
+    "source": "Amhara regional bureau (ANRSEB) Grade 8 collection",
+    "permission": "link-only",
+    "status": "published",
+    "image": "assets/covers/g8-gs-tg.webp"
+   }
+  ],
+  "mathematics": [
+   {
+    "id": "g8-mathematics-01",
+    "title": "Mathematics — Textbook — Grade 8",
+    "type": "textbook",
+    "url": "https://drive.google.com/file/d/13hIbOqqh70kSC28RdE7_5Hp1NE_Btsmi/view?usp=drivesdk",
+    "region": "amhara",
+    "order": 1,
+    "language": "en",
+    "source": "Amhara regional bureau (ANRSEB) Grade 8 collection",
+    "permission": "link-only",
+    "status": "published"
+   }
+  ],
+  "social-studies": [
+   {
+    "id": "g8-social-studies-01",
+    "title": "የህብረተሰብ ትምህርት — የተማሪ መጽሐፍ — 8ኛ ክፍል",
+    "type": "textbook",
+    "url": "https://drive.google.com/file/d/13oTeMaSHKopPXPH9xSd0EmeE2TtPI9O4/view?usp=drivesdk",
+    "region": "amhara",
+    "order": 1,
+    "language": "am",
+    "source": "Amhara regional bureau (ANRSEB) Grade 8 collection",
+    "permission": "link-only",
+    "status": "published",
+    "image": "assets/covers/g8-social-textbook.webp"
+   },
+   {
+    "id": "g8-social-studies-02",
+    "title": "የህብረተሰብ ትምህርት — የመምህር መምሪያ — 8ኛ ክፍል",
+    "type": "teacher-guide",
+    "url": "https://drive.google.com/file/d/13nFfdw2ziwBmr70L5KytUX5LQ_ySJaiM/view?usp=drivesdk",
+    "region": "amhara",
+    "order": 2,
+    "language": "am",
+    "source": "Amhara regional bureau (ANRSEB) Grade 8 collection",
+    "permission": "link-only",
+    "status": "published",
+    "image": "assets/covers/g8-social-tg.webp"
+   }
+  ],
+  "art": [
+   {
+    "id": "g8-art-01",
+    "title": "ሥነ-ጥበባት — የተማሪ መጽሐፍ — 8ኛ ክፍል",
+    "type": "textbook",
+    "url": "https://drive.google.com/file/d/13KvK4iH79JRXRfEUDIrBO_9dPoDw5xL_/view?usp=drivesdk",
+    "region": "amhara",
+    "order": 1,
+    "language": "am",
+    "source": "Amhara regional bureau (ANRSEB) Grade 8 collection",
+    "permission": "link-only",
+    "status": "published",
+    "image": "assets/covers/g8-art-textbook.webp"
+   }
+  ]
+ }
+}

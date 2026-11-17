@@ -1,0 +1,814 @@
+{
+  "_readme": "Single source of truth for exam levels, subjects and resource types. Regions and streams are in js/core/config.js. See docs/CONTENT-GUIDE.md.",
+  "subjects": {
+    "english": {
+      "name": "English",
+      "description": "Reading, writing, grammar, and vocabulary",
+      "icon": "A"
+    },
+    "mathematics": {
+      "name": "Mathematics",
+      "description": "Numbers, measurement, and problem-solving",
+      "icon": "∑",
+      "aliases": [
+        "mathematics-natural",
+        "mathematics-social"
+      ]
+    },
+    "amharic": {
+      "name": "Amharic",
+      "description": "Language and reading practice",
+      "icon": "አ"
+    },
+    "afaan-oromo": {
+      "name": "Afaan Oromo",
+      "description": "Language and reading practice",
+      "icon": "ኦ"
+    },
+    "general-science": {
+      "name": "General Science",
+      "description": "Core science concepts",
+      "icon": "⚛"
+    },
+    "biology": {
+      "name": "Biology",
+      "description": "Living organisms and life processes",
+      "icon": "♧"
+    },
+    "chemistry": {
+      "name": "Chemistry",
+      "description": "Matter and chemical concepts",
+      "icon": "⚗"
+    },
+    "physics": {
+      "name": "Physics",
+      "description": "Motion, forces, energy, and more",
+      "icon": "↗"
+    },
+    "social-studies": {
+      "name": "Social Studies",
+      "description": "People, places, and society",
+      "icon": "◎"
+    },
+    "citizenship": {
+      "name": "Civics and Ethical Education",
+      "description": "Civic knowledge and responsibilities",
+      "icon": "◇",
+      "aliases": [
+        "citizenship-education",
+        "civics"
+      ]
+    },
+    "ict": {
+      "name": "Information and Communication Technology",
+      "description": "Digital skills and computing",
+      "icon": "⌘",
+      "aliases": [
+        "information-technology",
+        "it",
+        "information-and-communication-technology"
+      ]
+    },
+    "health-and-physical-education": {
+      "name": "Health and Physical Education",
+      "description": "Health and physical activity",
+      "icon": "↗",
+      "aliases": [
+        "hpe",
+        "physical-education"
+      ]
+    },
+    "art": {
+      "name": "Art Education",
+      "description": "Art and creative expression",
+      "icon": "✎",
+      "aliases": [
+        "visual-arts",
+        "pva",
+        "performing-and-visual-arts"
+      ]
+    },
+    "aptitude": {
+      "name": "General Aptitude",
+      "description": "Reasoning and problem-solving practice",
+      "icon": "◇",
+      "aliases": [
+        "general-aptitude"
+      ]
+    },
+    "geography": {
+      "name": "Geography",
+      "description": "Physical and human geography",
+      "icon": "◎"
+    },
+    "history": {
+      "name": "History",
+      "description": "Historical events and interpretation",
+      "icon": "▤"
+    },
+    "economics": {
+      "name": "Economics",
+      "description": "Economic principles and applications",
+      "icon": "↗"
+    },
+    "mother-tongue": {
+      "name": "Mother Tongue"
+    },
+    "environmental-science": {
+      "name": "Environmental Science"
+    },
+    "moral-education": {
+      "name": "Moral Education"
+    },
+    "cte": {
+      "name": "Career and Technical Education (CTE)"
+    },
+    "agriculture": {
+      "name": "Agriculture"
+    },
+    "amharic-mother-tongue": {
+      "name": "Amharic / Mother Tongue"
+    },
+    "specialized-cte": {
+      "name": "Specialized CTE fields"
+    }
+  },
+  "examLevels": [
+    {
+      "id": "g6-amhara",
+      "grade": 6,
+      "region": "amhara",
+      "exam": {
+        "name": "Grade 6 Regional Examination",
+        "modes": [
+          "practice",
+          "mock"
+        ]
+      },
+      "subjects": [
+        "english",
+        "mathematics",
+        "amharic",
+        "general-science",
+        "citizenship",
+        "ict",
+        "health-and-physical-education",
+        "art",
+        "environmental-science",
+        "moral-education"
+      ]
+    },
+    {
+      "id": "g6-addis-ababa",
+      "grade": 6,
+      "region": "addis-ababa",
+      "exam": {
+        "name": "Grade 6 Regional Examination",
+        "modes": [
+          "practice",
+          "mock"
+        ]
+      },
+      "subjects": [
+        "english",
+        "mathematics",
+        "amharic",
+        "afaan-oromo",
+        "general-science",
+        "citizenship",
+        "ict",
+        "health-and-physical-education",
+        "art"
+      ]
+    },
+    {
+      "id": "g8-amhara",
+      "grade": 8,
+      "region": "amhara",
+      "exam": {
+        "name": "Grade 8 Regional Examination",
+        "modes": [
+          "practice",
+          "mock"
+        ]
+      },
+      "subjects": [
+        "english",
+        "mathematics",
+        "amharic",
+        "biology",
+        "chemistry",
+        "physics",
+        "citizenship",
+        "ict",
+        "health-and-physical-education"
+      ]
+    },
+    {
+      "id": "g8-addis-ababa",
+      "grade": 8,
+      "region": "addis-ababa",
+      "exam": {
+        "name": "Grade 8 Regional Examination",
+        "modes": [
+          "practice",
+          "mock"
+        ]
+      },
+      "subjects": [
+        "english",
+        "mathematics",
+        "amharic",
+        "afaan-oromo",
+        "biology",
+        "chemistry",
+        "physics",
+        "citizenship",
+        "ict",
+        "health-and-physical-education"
+      ]
+    },
+    {
+      "id": "g12-natural",
+      "grade": 12,
+      "stream": "natural",
+      "exam": {
+        "name": "Ethiopian University Entrance Examination",
+        "modes": [
+          "practice",
+          "mock"
+        ]
+      },
+      "subjects": [
+        "english",
+        "mathematics",
+        "aptitude",
+        "physics",
+        "chemistry",
+        "biology"
+      ]
+    },
+    {
+      "id": "g12-social",
+      "grade": 12,
+      "stream": "social",
+      "exam": {
+        "name": "Ethiopian University Entrance Examination",
+        "modes": [
+          "practice",
+          "mock"
+        ]
+      },
+      "subjects": [
+        "english",
+        "mathematics",
+        "aptitude",
+        "geography",
+        "history",
+        "economics"
+      ]
+    }
+  ],
+  "materialLevels": [
+    {
+      "id": "g5",
+      "grade": 5,
+      "label": "Grade 5 · Upper Primary",
+      "subjects": [
+        {
+          "id": "mother-tongue",
+          "label": "Mother Tongue"
+        },
+        {
+          "id": "amharic",
+          "label": "Amharic"
+        },
+        {
+          "id": "english",
+          "label": "English"
+        },
+        {
+          "id": "mathematics",
+          "label": "Mathematics"
+        },
+        {
+          "id": "environmental-science",
+          "label": "Environmental Science"
+        },
+        {
+          "id": "social-studies",
+          "label": "Social Studies"
+        },
+        {
+          "id": "art",
+          "label": "Performing and Visual Arts (PVA)"
+        },
+        {
+          "id": "health-and-physical-education",
+          "label": "Health and Physical Education (HPE)"
+        },
+        {
+          "id": "moral-education",
+          "label": "Moral Education"
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "grade": 6,
+      "label": "Grade 6 · Upper Primary",
+      "subjects": [
+        {
+          "id": "mother-tongue",
+          "label": "Mother Tongue"
+        },
+        {
+          "id": "amharic",
+          "label": "Amharic"
+        },
+        {
+          "id": "english",
+          "label": "English"
+        },
+        {
+          "id": "mathematics",
+          "label": "Mathematics"
+        },
+        {
+          "id": "environmental-science",
+          "label": "Environmental Science"
+        },
+        {
+          "id": "social-studies",
+          "label": "Social Studies"
+        },
+        {
+          "id": "art",
+          "label": "Performing and Visual Arts (PVA)"
+        },
+        {
+          "id": "health-and-physical-education",
+          "label": "Health and Physical Education (HPE)"
+        },
+        {
+          "id": "moral-education",
+          "label": "Moral Education"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "grade": 7,
+      "label": "Grade 7 · Middle",
+      "subjects": [
+        {
+          "id": "mother-tongue",
+          "label": "Mother Tongue"
+        },
+        {
+          "id": "amharic",
+          "label": "Amharic"
+        },
+        {
+          "id": "english",
+          "label": "English"
+        },
+        {
+          "id": "mathematics",
+          "label": "Mathematics"
+        },
+        {
+          "id": "general-science",
+          "label": "General Science"
+        },
+        {
+          "id": "social-studies",
+          "label": "Social Studies"
+        },
+        {
+          "id": "citizenship",
+          "label": "Citizenship Education"
+        },
+        {
+          "id": "ict",
+          "label": "Information Technology (IT)"
+        },
+        {
+          "id": "cte",
+          "label": "Career and Technical Education (CTE)"
+        },
+        {
+          "id": "art",
+          "label": "Performing and Visual Arts (PVA)"
+        },
+        {
+          "id": "health-and-physical-education",
+          "label": "Health and Physical Education (HPE)"
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "grade": 8,
+      "label": "Grade 8 · Middle",
+      "subjects": [
+        {
+          "id": "mother-tongue",
+          "label": "Mother Tongue"
+        },
+        {
+          "id": "amharic",
+          "label": "Amharic"
+        },
+        {
+          "id": "english",
+          "label": "English"
+        },
+        {
+          "id": "mathematics",
+          "label": "Mathematics"
+        },
+        {
+          "id": "general-science",
+          "label": "General Science"
+        },
+        {
+          "id": "social-studies",
+          "label": "Social Studies"
+        },
+        {
+          "id": "citizenship",
+          "label": "Citizenship Education"
+        },
+        {
+          "id": "ict",
+          "label": "Information Technology (IT)"
+        },
+        {
+          "id": "cte",
+          "label": "Career and Technical Education (CTE)"
+        },
+        {
+          "id": "art",
+          "label": "Performing and Visual Arts (PVA)"
+        },
+        {
+          "id": "health-and-physical-education",
+          "label": "Health and Physical Education (HPE)"
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "grade": 9,
+      "label": "Grade 9 · General Secondary",
+      "subjects": [
+        {
+          "id": "english",
+          "label": "English"
+        },
+        {
+          "id": "mathematics",
+          "label": "Mathematics"
+        },
+        {
+          "id": "physics",
+          "label": "Physics"
+        },
+        {
+          "id": "chemistry",
+          "label": "Chemistry"
+        },
+        {
+          "id": "biology",
+          "label": "Biology"
+        },
+        {
+          "id": "geography",
+          "label": "Geography"
+        },
+        {
+          "id": "history",
+          "label": "History"
+        },
+        {
+          "id": "economics",
+          "label": "Economics"
+        },
+        {
+          "id": "citizenship",
+          "label": "Citizenship Education"
+        },
+        {
+          "id": "ict",
+          "label": "Information Technology (IT)"
+        },
+        {
+          "id": "health-and-physical-education",
+          "label": "Health and Physical Education (HPE)"
+        },
+        {
+          "id": "amharic-mother-tongue",
+          "label": "Amharic / Mother Tongue"
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "grade": 10,
+      "label": "Grade 10 · General Secondary",
+      "subjects": [
+        {
+          "id": "english",
+          "label": "English"
+        },
+        {
+          "id": "mathematics",
+          "label": "Mathematics"
+        },
+        {
+          "id": "physics",
+          "label": "Physics"
+        },
+        {
+          "id": "chemistry",
+          "label": "Chemistry"
+        },
+        {
+          "id": "biology",
+          "label": "Biology"
+        },
+        {
+          "id": "geography",
+          "label": "Geography"
+        },
+        {
+          "id": "history",
+          "label": "History"
+        },
+        {
+          "id": "economics",
+          "label": "Economics"
+        },
+        {
+          "id": "citizenship",
+          "label": "Citizenship Education"
+        },
+        {
+          "id": "ict",
+          "label": "Information Technology (IT)"
+        },
+        {
+          "id": "health-and-physical-education",
+          "label": "Health and Physical Education (HPE)"
+        },
+        {
+          "id": "amharic-mother-tongue",
+          "label": "Amharic / Mother Tongue"
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "grade": 11,
+      "label": "Grade 11 · Preparatory",
+      "subjects": [
+        {
+          "id": "mathematics",
+          "label": "Mathematics"
+        }
+      ],
+      "streams": {
+        "natural": [
+          {
+            "id": "english",
+            "label": "English"
+          },
+          {
+            "id": "mathematics",
+            "label": "Mathematics"
+          },
+          {
+            "id": "ict",
+            "label": "Information Technology (IT)"
+          },
+          {
+            "id": "physics",
+            "label": "Physics"
+          },
+          {
+            "id": "chemistry",
+            "label": "Chemistry"
+          },
+          {
+            "id": "biology",
+            "label": "Biology"
+          },
+          {
+            "id": "agriculture",
+            "label": "Agriculture"
+          },
+          {
+            "id": "amharic",
+            "label": "Amharic"
+          },
+          {
+            "id": "mother-tongue",
+            "label": "Mother Tongue"
+          },
+          {
+            "id": "health-and-physical-education",
+            "label": "Health and Physical Education (HPE)"
+          },
+          {
+            "id": "specialized-cte",
+            "label": "Specialized CTE fields"
+          }
+        ],
+        "social": [
+          {
+            "id": "english",
+            "label": "English"
+          },
+          {
+            "id": "mathematics",
+            "label": "Mathematics"
+          },
+          {
+            "id": "ict",
+            "label": "Information Technology (IT)"
+          },
+          {
+            "id": "geography",
+            "label": "Geography"
+          },
+          {
+            "id": "history",
+            "label": "History"
+          },
+          {
+            "id": "economics",
+            "label": "Economics"
+          },
+          {
+            "id": "amharic",
+            "label": "Amharic"
+          },
+          {
+            "id": "mother-tongue",
+            "label": "Mother Tongue"
+          },
+          {
+            "id": "health-and-physical-education",
+            "label": "Health and Physical Education (HPE)"
+          },
+          {
+            "id": "agriculture",
+            "label": "Agriculture"
+          },
+          {
+            "id": "specialized-cte",
+            "label": "Specialized CTE fields"
+          }
+        ]
+      }
+    },
+    {
+      "id": "g12",
+      "grade": 12,
+      "label": "Grade 12 · Preparatory",
+      "subjects": [],
+      "streams": {
+        "natural": [
+          {
+            "id": "english",
+            "label": "English"
+          },
+          {
+            "id": "mathematics",
+            "label": "Mathematics"
+          },
+          {
+            "id": "ict",
+            "label": "Information Technology (IT)"
+          },
+          {
+            "id": "physics",
+            "label": "Physics"
+          },
+          {
+            "id": "chemistry",
+            "label": "Chemistry"
+          },
+          {
+            "id": "biology",
+            "label": "Biology"
+          },
+          {
+            "id": "agriculture",
+            "label": "Agriculture"
+          },
+          {
+            "id": "amharic",
+            "label": "Amharic"
+          },
+          {
+            "id": "mother-tongue",
+            "label": "Mother Tongue"
+          },
+          {
+            "id": "health-and-physical-education",
+            "label": "Health and Physical Education (HPE)"
+          },
+          {
+            "id": "specialized-cte",
+            "label": "Specialized CTE fields"
+          }
+        ],
+        "social": [
+          {
+            "id": "english",
+            "label": "English"
+          },
+          {
+            "id": "mathematics",
+            "label": "Mathematics"
+          },
+          {
+            "id": "ict",
+            "label": "Information Technology (IT)"
+          },
+          {
+            "id": "geography",
+            "label": "Geography"
+          },
+          {
+            "id": "history",
+            "label": "History"
+          },
+          {
+            "id": "economics",
+            "label": "Economics"
+          },
+          {
+            "id": "amharic",
+            "label": "Amharic"
+          },
+          {
+            "id": "mother-tongue",
+            "label": "Mother Tongue"
+          },
+          {
+            "id": "health-and-physical-education",
+            "label": "Health and Physical Education (HPE)"
+          },
+          {
+            "id": "agriculture",
+            "label": "Agriculture"
+          },
+          {
+            "id": "specialized-cte",
+            "label": "Specialized CTE fields"
+          }
+        ]
+      }
+    }
+  ],
+  "resourceTypes": {
+    "video": {
+      "label": "Video links",
+      "aliases": [
+        "video-lessons",
+        "videos",
+        "video lessons"
+      ]
+    },
+    "notes": {
+      "label": "Short notes",
+      "aliases": [
+        "short-notes",
+        "note",
+        "short-note"
+      ]
+    },
+    "textbook": {
+      "label": "Text books",
+      "aliases": [
+        "textbooks",
+        "book"
+      ]
+    },
+    "teacher-guide": {
+      "label": "Teacher guides",
+      "aliases": [
+        "teacher-guides"
+      ]
+    },
+    "past-paper": {
+      "label": "Past papers",
+      "aliases": [
+        "past-papers"
+      ]
+    }
+  }
+}

@@ -1,0 +1,2559 @@
+{
+ "year": 2018,
+ "grade": 6,
+ "sets": [
+  {
+   "id": "g6-am-amharic-2018",
+   "level": "g6-amhara",
+   "subject": "amharic",
+   "title": "2018 E.C. Regional Examination",
+   "kind": "past-paper",
+   "year": 2018,
+   "source": "ANRSEB Grade 6 Amharic Regional Examination 2018 E.C.",
+   "answerSource": "reasoned",
+   "durationMinutes": 60,
+   "status": "published",
+   "passages": {
+    "p1": "ፀሐይ\n\nፀሐይ በጣም ከፍተኛ ሙቀት ታመነጫለች። ሙቀቷ የሚመነጨው ከውስጣዊ አካሏ ነው። ስለሆነም የውስጥ አካሏ ከውጫዊው የበለጠ ግለት አለው። የፀሐይ የውጪ አካል ግለት ወደ 6,000 ዲግሪ ሴንቲግሬድ ሲሆን የውስጥ ግለት ደግሞ እስከ 15,000,000 ዲግሪ ሴንቲግሬድ ይደርሳል። በዚህ ሙቀት ውስጥ ማንኛውም ነገር ይቀልጣል፣ ይተናል።\n\nበፀሐይ አካል ውስጥ ከፍተኛ አምቅታ ያለው ጋዝ እንጂ ጣር ወይም ፈሳሽ ነገር የለም። በዚህ ምክንያት ፀሐይ በትልቅ የጋዝ ኳስ ትመስላለች። ጠቅላላ ክብደቷም ከመሬት ክብደት 333,000 እጥፍ ይሆናል። በመጠን ደግሞ ከመሬት አንጻር ስትታይ እጅግ ግዙፍ ናት። ፀሐይ የ1,300,000 መሬት ያህል አካሎችን የሚያካትት ስፋት አላት። የፀሐይ የጎን ስፋት ብቻ ከመሬት እስከ ጨረቃ ያለውን ርቀት ያህል ሶስት እጅ ተኩል ይሆናል።\n\nፀሐይ ሙቀቷን የምትፈነጥቀው ወደ መሬት አቅጣጫ ብቻ አይደለም። በዙሪያዋ ያለውን ሁሉ ታሞቃለች። መሬት በ150,000,000 ኪሎ ሜትር ርቀት ላይ ሆና የሚደርሳት የፀሐይ ሙቀት ከ500,000,000 እጅ አንድ እጅ ብቻ ነው።\n\nፀሐይ ሙቀቷን የምታመነጨው ቀላል አተሞች ተገናኝተው ሲዋሃዱ ነው። በተለይ በሃይድሮጂን ጋዝ ውስጥ የሚገኙት አተሞች ሲዋሃዱ ከበድ ያለና ሂሊየም የተሰኘ ሌላ ጋዝ ያስገኛሉ። በዚህ ጊዜ እጅግ በርካታ ሙቀት ይመነጫል። የሃይድሮጂን ጋዝ ከፀሐይ አካል 80 በመቶ ያህሉን የያዘ ስለሆነ ውህደቱ በቀላሉ ይከናወናል።\n\nበመሬት ሕይወት ያለው ነገር ሊኖር የሚችለው ከፀሐይ በሚያገኘው ሙቀትና ብርሃን አማካኝነት ነው። ሙቀትና ብርሃን ከሌለ እጽዋት ምግባቸውን ሊያዘጋጁ አይችሉም፤ እንስሳትም የሚኖሩት በቀጥታም ሆነ በተዘዋዋሪ መንገድ እጽዋትን በመመገብ ነው። ያለ ፀሐይ ሙቀት ምድር ላይ ሕይወት ያለው ነገር ሊኖር አይችልም፤ ባጭሩ ይቀር ነበር።\n\n(ታፈሰ ሙሉነህ፣ 1986፤ ሌሎች ዓለማት፣ ከገጽ 41-42 ተሻሽሎ የተወሰደ)"
+   },
+   "questions": [
+    {
+     "id": "g6-am-amharic-001",
+     "topic": "Dialogue comprehension",
+     "question": "ዘይነብ፡- \"እንደምን ዋልሽ? የአማርኛ ማጠቃለያ ፈተና ውጤት ስንት ነው?\" አስቴር፡- \"ጥሩ ነው! ከአርባዎቹ ጥያቄዎች ሦስት አራተኛውን መልሻለሁ።\" አስቴር በትክክል የመለሰቻቸው ጥያቄዎች ስንት ናቸው?",
+     "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ 30 ነው። አስቴር የመለሰችው ከአርባው ጥያቄዎች ሦስት አራተኛውን ነው፤ አርባን በአራት ስንካፈል 10 ይሆናል፤ ይህ 10 ደግሞ በሦስት ሲባዛ 30 ይሰጣል። 10 የአንድ አራተኛ ብቻ ስለሆነ ትክክል አይደለም፤ 40 ደግሞ ሁሉንም ጥያቄዎች መመለስ ማለት ስለሆነ ስህተት ነው።"
+    },
+    {
+     "id": "g6-am-amharic-002",
+     "topic": "Dialogue comprehension",
+     "question": "ጌታቸው፡- \"ከክፍላችሁ ከአንደኛ እስከ ሦስተኛ የወጡ ተማሪዎችን ስም ንገረኝ።\" መሐመድ፡- \"አዳምጠኝ። በቅደም ተከተል ልጥራልህ። ሙሉጌታ፣ ረሀመት፣ አልማዝ እና ሙስጠፋ ከአንደኛ እስከ አራተኛ ደረጃ አግኝተዋል።\" ሁለተኛ የወጣው/የወጣችው ተማሪ ማን ነው/ናት?",
+     "options": [
+      "ሙሉጌታ",
+      "ረሀመት",
+      "አልማዝ",
+      "ሙስጠፋ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ ረሀመት ነው። መሐመድ ስሞቹን በቅደም ተከተል ከአንደኛ እስከ አራተኛ ጠርቷል፤ ስለዚህ የመጀመሪያው ሙሉጌታ፣ ሁለተኛው ረሀመት፣ ሦስተኛዋ አልማዝ፣ አራተኛው ሙስጠፋ ነው። ሙሉጌታ አንደኛ ስለሆነ ሁለተኛ ሊሆን አይችልም፤ አልማዝም ሦስተኛ ናት።"
+    },
+    {
+     "id": "g6-am-amharic-003",
+     "topic": "Dialogue comprehension",
+     "question": "አበባው፡- \"መሥፍን! ስንት እህቶችና ወንድሞች አሉህ?\" መሥፍን፡- \"አጠቃላይ ዘጠኝ ነን። ሦስቱ ሴቶች ናቸው።\" የመሥፍን ወንድሞች ስንት ናቸው?",
+     "options": [
+      "ሦስት",
+      "አራት",
+      "አምስት",
+      "ስድስት"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ አምስት ነው። መሥፍን \"ዘጠኝ ነን\" ሲል እርሱንም ይጨምራል፤ ከዘጠኙ ሦስቱ ሴቶች ስለሆኑ ወንዶቹ 9 − 3 = 6 ናቸው። ከእነዚህ ስድስት ወንዶች አንዱ መሥፍን ራሱ ስለሆነ ወንድሞቹ 6 − 1 = 5 ይሆናሉ። ስድስት የሚለው መልስ መሥፍንን ራሱን የቆጠረ ስህተት ነው።"
+    },
+    {
+     "id": "g6-am-amharic-004",
+     "topic": "Main idea of a dialogue",
+     "question": "ተማሪ፡- \"መምህር እባክዎ ስለዱባና ትል ይንገሩኝ።\" መምህር፡- \"ዱባና ትል መመሳሰልም ልዩነትም አላቸው። ዱባና ትል ሁለቱም በቅጠላቸው ይመሳሰላሉ። ዱባና ትል ሁለቱም ፍሬያቸው ይመሳሰላል። ከሁለቱ ውስጥ ዱባ ለምግብነት ያገለግላል፤ ትል ግን አይበላም።\" በመምህሩ ንግግር የተካተተውን ዋና ሐሳብ የያዘው ዓረፍተነገር የትኛው ነው?",
+     "options": [
+      "ዱባና ትል መመሳሰልም ልዩነትም አላቸው።",
+      "ዱባና ትል ሁለቱም በቅጠላቸው ይመሳሰላሉ።",
+      "ዱባና ትል ሁለቱም ፍሬያቸው ይመሳሰላሉ።",
+      "ከሁለቱ ውስጥ ዱባ ለምግብነት ያገለግላል።"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ \"ዱባና ትል መመሳሰልም ልዩነትም አላቸው\" የሚለው ነው። ይህ ዓረፍተነገር የንግግሩ መግቢያና ጠቅላላ ሐሳብ ሲሆን ሌሎቹ ዓረፍተነገሮች መመሳሰላቸውንና ልዩነታቸውን የሚያብራሩ ዝርዝሮች ናቸው። ሌሎቹ አማራጮች አንድ አንድ ዝርዝር ብቻ ስለሚናገሩ ዋና ሐሳብ ሊሆኑ አይችሉም።"
+    },
+    {
+     "id": "g6-am-amharic-005",
+     "topic": "Main idea of a dialogue",
+     "question": "መምህር፡- \"አንቀጽ ምንድን ነው?\" ተማሪ፡- \"አንቀጽ አነስተኛ ድርሰት ወይም የሙሉ ድርሰት አካል ነው። ዋናውን ሐሳብ የሚይዝ መንደርደሪያ ዓረፍተነገር ይኖረዋል። ዋናውን ሐሳብ የሚደግፉ ዓረፍተነገሮችንም ያካትታል። መደገፊያዎቹ ሁለት ወይም ከዚያ በላይ ሊሆኑ ይችላሉ።\" በተማሪው ንግግር የተካተተውን ዋና ሐሳብ የያዘው ዓረፍተነገር የትኛው ነው?",
+     "options": [
+      "መደገፊያዎቹ ሁለት ወይም ከዚያ በላይ ሊሆኑ ይችላሉ።",
+      "ዋናውን ሐሳብ የሚደግፉ ዓረፍተነገሮችንም ያካትታል።",
+      "ዋናውን ሐሳብ የሚይዝ መንደርደሪያ ዓረፍተነገር ይኖረዋል።",
+      "አንቀጽ አነስተኛ ድርሰት ወይም የሙሉ ድርሰት አካል ነው።"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ \"አንቀጽ አነስተኛ ድርሰት ወይም የሙሉ ድርሰት አካል ነው\" የሚለው ነው። መምህሩ የጠየቀው \"አንቀጽ ምንድን ነው?\" ስለሆነ የንግግሩ ዋና ሐሳብ የአንቀጽ ትርጉም ነው። ሌሎቹ ዓረፍተነገሮች የአንቀጽን አወቃቀር ክፍሎች ብቻ የሚያብራሩ ስለሆኑ ዝርዝር ሐሳቦች ናቸው።"
+    },
+    {
+     "id": "g6-am-amharic-006",
+     "topic": "Dialogue comprehension",
+     "question": "ሒሩት፡- \"ተሠማ ውዴ! ልጆቻችንን ወደትምህርት ቤት ልታደርሳቸው ትችላለህ?\" ተሠማ፡- \"በሚገባ የኔ ውድ! አታስቢ። አሁኑኑ ይዣቸው እሄዳለሁ። ኑ ልጆቼ!\" በምልልሱ መሠረት ትክክል የሆነው የትኛው ነው?",
+     "options": [
+      "ሒሩትና ተሠማ የሚዋደዱ ባልና ሚስት ናቸው።",
+      "ሒሩትና ተሠማ በጣም የሚዋደዱ ጎረቤቶች ናቸው።",
+      "ሒሩትና ተሠማ በደንብ የማይተዋወቁ ሰዎች ናቸው።",
+      "ሒሩት የልጆቹ እናት ናት፤ አባታቸው ግን አይታወቅም።"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ \"ሒሩትና ተሠማ የሚዋደዱ ባልና ሚስት ናቸው\" የሚለው ነው። ሒሩት \"ልጆቻችንን\" እና \"ውዴ\" ስትል ልጆቹ የሁለቱም መሆናቸውንና የፍቅር ግንኙነት እንዳላቸው ያሳያል፤ ተሠማም \"የኔ ውድ\" እና \"ልጆቼ\" ብሎ መልሷል። ጎረቤቶች ቢሆኑ \"ልጆቻችን\" አይሉም ነበር፤ አባታቸው አይታወቅም የሚለውም ከምልልሱ ጋር አይስማማም።"
+    },
+    {
+     "id": "g6-am-amharic-007",
+     "topic": "Reading comprehension",
+     "question": "የፀሐይ የውስጥ አካል ከውጭ አካሏ የበለጠ ግለት የሚኖረው በምን ምክንያት ነው?",
+     "options": [
+      "ግለቱ ከውጫዊ አካሏ ስለሚመነጭ",
+      "ግለቱ ከውስጣዊ አካሏ ስለሚመነጭ",
+      "በውጫዊ አካሏ ጣር ነገር ስላለ",
+      "በውስጣዊ አካሏ ፈሳሽ ነገር ስላለ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ \"ግለቱ ከውስጣዊ አካሏ ስለሚመነጭ\" የሚለው ነው። በአንቀጽ አንድ \"ሙቀቷ የሚመነጨው ከውስጣዊ አካሏ ነው፤ ስለሆነም የውስጥ አካሏ ከውጫዊው የበለጠ ግለት አለው\" ተብሎ ተጽፏል። \"ከውጫዊ አካሏ ይመነጫል\" የሚለው አማራጭ ከምንባቡ ተቃራኒ ነው፤ ጣርና ፈሳሽ ነገር ደግሞ በፀሐይ አካል ውስጥ እንደሌሉ አንቀጽ ሁለት ይናገራል።",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-amharic-008",
+     "topic": "Reading comprehension",
+     "question": "ጸሐፊው \"በዚህ ምክንያት\" (አንቀጽ 2፣ መስመር 2) ሲል ምን ማለቱ ነው?",
+     "options": [
+      "ጣር የሆነ ነገር በብዛት መኖሩ",
+      "ፈሳሽ የሆነ ነገር በመጠኑ መኖሩ",
+      "ከፍተኛ አምቅታ ያለው ጋዝ መኖሩ",
+      "ሕይወት ያለው ፍጡር በብዛት መኖሩ"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ \"ከፍተኛ አምቅታ ያለው ጋዝ መኖሩ\" ነው። \"በዚህ ምክንያት\" የሚለው ከፊቱ ያለውን ዓረፍተነገር ያመለክታል፤ እሱም በፀሐይ አካል ውስጥ ከፍተኛ አምቅታ ያለው ጋዝ እንጂ ጣር ወይም ፈሳሽ ነገር እንደሌለ ይናገራል። በዚህ ምክንያት ፀሐይ እንደ ትልቅ የጋዝ ኳስ ትመስላለች። ጣርና ፈሳሽ ነገር በፀሐይ ውስጥ ስለሌለ አማራጭ ሀና ለ ስህተት ናቸው።",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-amharic-009",
+     "topic": "Reading comprehension",
+     "question": "ፀሐይ ለእጽዋትና ለእንስሳት ያላትን ጠቀሜታ የሚገልጸው አንቀጽ የትኛው ነው?",
+     "options": [
+      "አንቀጽ ሁለት",
+      "አንቀጽ ሦስት",
+      "አንቀጽ አራት",
+      "አንቀጽ አምስት"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ አንቀጽ አምስት ነው። ይህ አንቀጽ ሕይወት ያለው ነገር ሊኖር የሚችለው ከፀሐይ በሚያገኘው ሙቀትና ብርሃን እንደሆነ፣ እጽዋት ምግባቸውን የሚያዘጋጁት በእሷ ብርሃን እንደሆነና እንስሳት እጽዋትን በመመገብ እንደሚኖሩ ይናገራል። አንቀጽ ሁለት የፀሐይን መጠንና ክብደት፣ አንቀጽ ሦስት የሙቀቷን መድረስ፣ አንቀጽ አራት ደግሞ ሙቀት እንዴት እንደሚመነጭ ያብራራሉ።",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-amharic-010",
+     "topic": "Reading comprehension",
+     "question": "\"ይቀልጣል\" (አንቀጽ 1፣ መስመር 4) የሚለው ቃል ተቃራኒ ትርጉም የትኛው ነው?",
+     "options": [
+      "ይጠጠራል",
+      "ይሟሟል",
+      "ይደበቃል",
+      "ይሰወራል"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ \"ይጠጠራል\" ነው። \"ይቀልጣል\" ጠንካራ ነገር ወደ ፈሳሽ መለወጥ ሲሆን ተቃራኒው ፈሳሽ ነገር ወደ ጠንካራነት መለወጥ ማለትም መጠጠር ነው። \"ይሟሟል\" ከመቅለጥ ጋር የሚቀራረብ ትርጉም ስላለው ተቃራኒ አይደለም፤ \"ይደበቃል\" እና \"ይሰወራል\" ደግሞ ከመቅለጥ ጋር ግንኙነት የላቸውም። (የአማራጭ ሀ ፊደል በፎቶው ላይ በትክክል አልተነበበም።)",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-amharic-011",
+     "topic": "Reading comprehension",
+     "question": "በሃይድሮጂን ጋዝ የተሞላው የፀሐይ አካል በመቶኛ ምን ያህል ነው?",
+     "options": [
+      "50",
+      "60",
+      "70",
+      "80"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ 80 ነው። በአንቀጽ አራት \"የሃይድሮጂን ጋዝ ከፀሐይ አካል 80 በመቶ ያህሉን የያዘ ስለሆነ ውህደቱ በቀላሉ ይከናወናል\" ተብሎ ተጽፏል። ሌሎቹ ቁጥሮች (50፣ 60፣ 70) በምንባቡ ውስጥ የሉም፤ ስለዚህ ስህተት ናቸው።",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-amharic-012",
+     "topic": "Reading comprehension",
+     "question": "ፀሐይ ሙቀቷን ባትሰጥ ኖሮ ምድር ላይ ምን ይከሰታል?",
+     "options": [
+      "ሕይወት ያላቸው ነገሮች በብዛት ይኖራሉ።",
+      "እጽዋት ምግባቸውን ሊያዘጋጁ አይችሉም።",
+      "እንስሳት ሁሉ እጽዋትን በመመገብ ይኖራሉ።",
+      "ምድር ሕይወት ላላቸው ነገሮች ምቹ ትሆናለች።"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ \"እጽዋት ምግባቸውን ሊያዘጋጁ አይችሉም\" የሚለው ነው። አንቀጽ አምስት ሙቀትና ብርሃን ከሌለ እጽዋት ምግባቸውን ማዘጋጀት እንደማይችሉና ያለ ፀሐይ ሙቀት ምድር ላይ ሕይወት ያለው ነገር ሊኖር እንደማይችል ይናገራል። እንስሳትም የሚኖሩት እጽዋትን በመመገብ ስለሆነ እጽዋት ከሌሉ እነርሱም ሊኖሩ አይችሉም፤ ስለዚህ አማራጭ ሐ፣ ሀና መ ስህተት ናቸው።",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-amharic-013",
+     "topic": "Reading comprehension",
+     "question": "የፀሐይ ውስጣዊ አካል ግለት ምን ያህል ዲግሪ ሴንቲግሬድ ነው?",
+     "options": [
+      "333,000",
+      "1,300,000",
+      "15,000,000",
+      "150,000,000"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ 15,000,000 ነው። አንቀጽ አንድ የፀሐይ የውጪ አካል ግለት ወደ 6,000 ዲግሪ ሴንቲግሬድ ሲሆን የውስጥ ግለት ደግሞ እስከ 15,000,000 ዲግሪ ሴንቲግሬድ እንደሚደርስ ይናገራል። 333,000 የክብደቷ እጥፍ ሲሆን 150,000,000 ደግሞ ከፀሐይ እስከ መሬት ያለው የኪሎ ሜትር ርቀት ስለሆነ እነዚህ ስህተት ናቸው።",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-amharic-014",
+     "topic": "Reading comprehension",
+     "question": "ፀሐይ ሙቀት የምታመነጨው መቼ ነው?",
+     "options": [
+      "ቀላል አተሞች ተገናኝተው ሲዋሃዱ",
+      "ሙቀቷን ወደ ውጭ ስትፈነጥቅ",
+      "ሕይወት ያላቸው ነገሮች ሲፈጠሩ",
+      "እጽዋት ምግባቸውን ሲያዘጋጁ"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ \"ቀላል አተሞች ተገናኝተው ሲዋሃዱ\" የሚለው ነው። አንቀጽ አራት \"ፀሐይ ሙቀቷን የምታመነጨው ቀላል አተሞች ተገናኝተው ሲዋሃዱ ነው\" ይላል። ሙቀትን ወደ ውጭ መፈንጠቅ ከማመንጨት በኋላ የሚከናወን ተግባር ነው፤ እጽዋት ምግብ ማዘጋጀታቸውም ሙቀቷን የሚጠቀሙበት እንጂ ፀሐይ ሙቀት የምታመነጭበት ጊዜ አይደለም።",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-amharic-015",
+     "topic": "Reading comprehension",
+     "question": "ፀሐይ ምን ያህል የመሬት አካሎችን የሚያካትት ስፋት አላት?",
+     "options": [
+      "333,000",
+      "1,300,000",
+      "15,000,000",
+      "500,000,000"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ 1,300,000 ነው። በአንቀጽ ሁለት \"ፀሐይ የ1,300,000 መሬት ያህል አካሎችን የሚያካትት ስፋት አላት\" ተብሎ ተጽፏል። 333,000 የክብደቷ እጥፍ እንጂ የስፋቷ ብዛት አይደለም፤ 500,000,000 ደግሞ ወደ መሬት የሚደርሰውን ሙቀት ክፍል የሚያመለክት ቁጥር ነው።",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-amharic-016",
+     "topic": "Reading comprehension",
+     "question": "ጸሐፊው \"የበለጠ ግለት\" (አንቀጽ 1፣ መስመር 2) ሲል ምን ማለቱ ነው?",
+     "options": [
+      "ከፍተኛ ፍላጎት",
+      "ኃይለኛ ንዴት",
+      "የማያቋርጥ ትጋት",
+      "ከፍተኛ ሙቀት"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ \"ከፍተኛ ሙቀት\" ነው። \"ግለት\" በምንባቡ ውስጥ ስለ ፀሐይ ሲነገር የሙቀት መጠን ማለት ነው፤ ዓረፍተነገሩም የውስጥ አካሏ ከውጫዊው የበለጠ ሞቃት እንደሆነ ይናገራል። ግለት በሌላ አውድ ፍላጎት ወይም ንዴት ሊያመለክት ይችላል፤ እዚህ ግን ስለ ፀሐይ ሙቀት እየተነገረ ስለሆነ እነዚህ አማራጮች አይስማሙም።",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-amharic-017",
+     "topic": "Reading comprehension",
+     "question": "የፀሐይ የጎን ስፋት ከመሬት እስከ ጨረቃ ካለው ርቀት ጋር ሲነጻጸር ምን ያህል ይሆናል?",
+     "options": [
+      "አንድ እጅ ተኩል",
+      "ሁለት እጅ ተኩል",
+      "ሶስት እጅ ተኩል",
+      "አራት እጅ ተኩል"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ \"ሶስት እጅ ተኩል\" ነው። አንቀጽ ሁለት የመጨረሻ ዓረፍተነገር \"የፀሐይ የጎን ስፋት ብቻ ከመሬት እስከ ጨረቃ ያለውን ርቀት ያህል ሶስት እጅ ተኩል ይሆናል\" ይላል። ሌሎቹ አማራጮች በምንባቡ ውስጥ ከተጠቀሰው ቁጥር የተለዩ ስለሆኑ ስህተት ናቸው።",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-amharic-018",
+     "topic": "Reading comprehension",
+     "question": "\"ባጭሩ ይቀር ነበር\" (አንቀጽ 5፣ መስመር 4) የሚለው ፈሊጣዊ አነጋገር ዐውዳዊ ትርጉም የትኛው ነው?",
+     "options": [
+      "መኖር አይችልም ነበር።",
+      "ቁመቱ በጣም ያጥር ነበር።",
+      "በጣም ይጎብጥ ነበር።",
+      "በጣም ይቀጭጭ ነበር።"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ \"መኖር አይችልም ነበር\" ነው። \"ባጭር መቅረት\" ፈሊጣዊ አነጋገር ሲሆን ያለጊዜው መጥፋት ወይም መኖር አለመቻል ማለት ነው። በአንቀጽ አምስት ያለ ፀሐይ ሙቀት ሕይወት ያለው ነገር ሊኖር እንደማይችል ስለተነገረ ትርጉሙ ከዚህ ጋር ይስማማል። \"ቁመቱ ያጥር ነበር\" የሚለው የቃል በቃል ትርጉም ብቻ ስለሆነ ከዐውዱ ጋር አይሄድም።",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-amharic-019",
+     "topic": "Grammar (agreement)",
+     "question": "\"ታናሽ ወንድሜ ወደ ደብረማርቆስ ________።\" ይህን ዓረፍተነገር በትክክል ማሟላት የሚችለው ቃል የትኛው ነው?",
+     "options": [
+      "ትሄዳለሽ",
+      "ይሄዳል",
+      "ትሄዳለች",
+      "እሄዳለሁ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ \"ይሄዳል\" ነው። ዓረፍተነገሩ ባለቤት \"ታናሽ ወንድሜ\" ሲሆን እሱ ሦስተኛ መደብ ወንድ ነጠላ ነው፤ ስለዚህ ግሱ \"ይሄዳል\" መሆን አለበት። \"ትሄዳለች\" ለሴት ሲሆን \"ትሄዳለሽ\" ለሁለተኛ መደብ ሴት፣ \"እሄዳለሁ\" ደግሞ ለራሴ ስለሆኑ ከባለቤቱ ጋር አይስማሙም።"
+    },
+    {
+     "id": "g6-am-amharic-020",
+     "topic": "Vocabulary",
+     "question": "\"ተደበቀ\" ብሎ \"ተሰወረ\" ካለ \"ተሞገሰ\" ብሎ \"________\" ይላል።",
+     "options": [
+      "ተረገመ",
+      "ተሰደበ",
+      "ተወቀሰ",
+      "ተመሰገነ"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ \"ተመሰገነ\" ነው። \"ተደበቀ\" እና \"ተሰወረ\" ተመሳሳይ ትርጉም ያላቸው ቃላት ናቸው፤ በተመሳሳይ ሁኔታ \"ተሞገሰ\" ማለት ተመሰገነ ማለት ነው። ተረገመ፣ ተሰደበና ተወቀሰ ተቃራኒ (መጥፎ) ትርጉም ስላላቸው ስህተት ናቸው።"
+    },
+    {
+     "id": "g6-am-amharic-021",
+     "topic": "Vocabulary",
+     "question": "\"ብርቱ\" ብሎ \"ጠንካራ\" ካለ \"ትጉህ\" ብሎ \"________\" ይላል።",
+     "options": [
+      "ታታሪ",
+      "ዝንጉ",
+      "ችክል",
+      "ደካማ"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ \"ታታሪ\" ነው። \"ብርቱ\" እና \"ጠንካራ\" ተመሳሳይ ትርጉም አላቸው፤ ስለዚህ \"ትጉህ\" ከሚለው ቃል ጋር ተመሳሳይ የሆነው \"ታታሪ\" ነው (ሁለቱም ሥራ የሚወድ ማለት ነው)። \"ዝንጉ\" እና \"ደካማ\" ተቃራኒ ትርጉም ያላቸው ሲሆኑ \"ችክል\" ደግሞ ግትር ማለት ስለሆነ አይስማማም።"
+    },
+    {
+     "id": "g6-am-amharic-022",
+     "topic": "Vocabulary",
+     "question": "\"ወላጆቹን የሚያከብር ልጅ በማኅበረሰቡ ይወደሳል።\" ከስሩ የተሰመረበት ቃል (ይወደሳል) ተቃራኒ ትርጉም የትኛው ነው?",
+     "options": [
+      "ይመረቃል",
+      "ይሞገሳል",
+      "ይነቀፋል",
+      "ይመሰገናል"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ \"ይነቀፋል\" ነው። \"ይወደሳል\" ማለት ይመሰገናል፣ ይሞገሳል ማለት ሲሆን ተቃራኒው ይነቀፋል (ይወቀሳል) ነው። \"ይሞገሳል\" እና \"ይመሰገናል\" ተመሳሳይ ትርጉም ስላላቸው ተቃራኒ አይደሉም፤ \"ይመረቃል\" ደግሞ ከዚህ ጋር ግንኙነት የለውም። (የተሰመረበት ቃል በፎቶው ላይ ግልጽ አይደለም።)"
+    },
+    {
+     "id": "g6-am-amharic-023",
+     "topic": "Vocabulary",
+     "question": "\"የጓደኛዬ እናት ደግ ናቸው።\" ከስሩ የተሰመረበት ቃል (ደግ) ተቃራኒ ትርጉም የትኛው ነው?",
+     "options": [
+      "በጎ",
+      "ቸር",
+      "ቀና",
+      "ክፉ"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ \"ክፉ\" ነው። \"ደግ\" ማለት መልካም፣ ቸር ማለት ሲሆን ተቃራኒው ክፉ ነው። \"በጎ\"፣ \"ቸር\" እና \"ቀና\" ሁሉም ከ\"ደግ\" ጋር ተመሳሳይ ትርጉም ያላቸው ስለሆኑ ተቃራኒ ሊሆኑ አይችሉም።"
+    },
+    {
+     "id": "g6-am-amharic-024",
+     "topic": "Vocabulary",
+     "question": "\"ሙሉነሽ በትምህርቷ እሳት ናት።\" ከስሩ የተሰመረበት ቃል (እሳት) ፍቻሬያዊ ፍቺ የትኛው ነው?",
+     "options": [
+      "ንቁ",
+      "ሰነፍ",
+      "ቁጡ",
+      "ደካማ"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ \"ንቁ\" ነው። እዚህ \"እሳት\" የሚለው ቃል በምሳሌያዊ (ፍካሬያዊ) መንገድ ጠንካራ፣ ንቁና ብርቱ ተማሪ ማለት ነው፤ ሙሉነሽ በትምህርቷ ጎበዝ መሆኗን ያሳያል። \"ሰነፍ\" እና \"ደካማ\" ተቃራኒ ትርጉም ሲሆኑ \"ቁጡ\" ደግሞ ለትምህርት ብቃት ያልተያያዘ ባሕርይ ነው።"
+    },
+    {
+     "id": "g6-am-amharic-025",
+     "topic": "Vocabulary",
+     "question": "\"በሰላም ለመኖር እርስ በእርስ መከባበር ያሻል።\" ከስሩ የተሰመረበት ቃል (ያሻል) ዐውዳዊ ፍቺ የትኛው ነው?",
+     "options": [
+      "ያፋትጋል",
+      "ያስፈልጋል",
+      "ያንገታታል",
+      "ያፍተለትላል"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ \"ያስፈልጋል\" ነው። \"ያሻል\" በዚህ ዓረፍተነገር ውስጥ \"አስፈላጊ ነው\" ማለት ነው፤ ዓረፍተነገሩም በሰላም ለመኖር መከባበር ያስፈልጋል ይላል። ሌሎቹ አማራጮች በዚህ ዐውድ ትርጉም የሚሰጥ ፍቺ ስለሌላቸው ስህተት ናቸው። (የአማራጮች ሐ እና መ ፊደላት በፎቶው ላይ በትክክል አልተነበቡም።)"
+    },
+    {
+     "id": "g6-am-amharic-026",
+     "topic": "Vocabulary",
+     "question": "\"የቆመን አወርዳለሁ ብላ ________።\" ይህን ዓረፍተነገር የሚያሟላው ምሳሌያዊ አነጋገር የያዘው ሐረግ የትኛው ነው?",
+     "options": [
+      "መሰላል ሰበረች",
+      "ጣራ ገነጠለች",
+      "የብብቷን ጣለች",
+      "ብዙ ተንገላታች"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ \"የብብቷን ጣለች\" ነው። ምሳሌው ሌላ ያልያዘውን ለማግኘት ሲጥሩ ያለውን ሁሉ ማጣትን ያመለክታል፤ ይህም \"የቆመን አወርዳለሁ ብላ የያዘችውን ጣለች\" ከሚለው አባባል ጋር ይስማማል። \"መሰላል ሰበረች\" እና \"ጣራ ገነጠለች\" የሌላ ድርጊት መግለጫዎች ናቸው፤ \"ብዙ ተንገላታች\" ደግሞ የምሳሌውን ትርጉም አይሰጥም። (የጥያቄው ጽሑፍ በፎቶው ላይ ብዥ ያለ ነው።)"
+    },
+    {
+     "id": "g6-am-amharic-027",
+     "topic": "Writing (sentence order)",
+     "question": "\"በእንክብካቤ ይገባል ማሳደግ አገር የነፃ ተረካቢ የሆኑ ህጻናትን።\" የሚሉት ቃላት ቅደም ተከተል ተስተካክሎ የሚገኘው በየትኛው ዓረፍተነገር ነው?",
+     "options": [
+      "አገር ተረካቢ የነፃ የሆኑ ህጻናትን ማሳደግ በእንክብካቤ ይገባል።",
+      "የነፃ አገር ተረካቢ የሆኑ ህጻናትን በእንክብካቤ ማሳደግ ይገባል።",
+      "ህጻናትን የሆኑ በእንክብካቤ ማሳደግ የነፃ አገር ተረካቢ ይገባል።",
+      "የነፃ ተረካቢ አገር ህጻናትን የሆኑ ማሳደግ በእንክብካቤ ይገባል።"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ \"የነፃ አገር ተረካቢ የሆኑ ህጻናትን በእንክብካቤ ማሳደግ ይገባል።\" የሚለው ነው። በአማርኛ ዓረፍተነገር ገላጮች ከሚገልጹት ስም በፊት ይመጣሉ (የነፃ አገር ተረካቢ የሆኑ ህጻናትን)፤ ተሳቢው ከግሱ በፊት፣ ግሱ (ይገባል) ደግሞ መጨረሻ ላይ ይቀመጣል። ሌሎቹ አማራጮች ቃላቱን አፈራርሰው ትርጉም አልባ ስላደረጉ ስህተት ናቸው።"
+    },
+    {
+     "id": "g6-am-amharic-028",
+     "topic": "Writing (sentence order)",
+     "question": "\"ተማሪዎች ለሁለቱ ደብተር ጎበዝ ሸልሟቸዋል መምህራችን።\" የሚሉት ቃላት ቅደም ተከተል ተስተካክሎ የሚገኘው በየትኛው ዓረፍተነገር ነው?",
+     "options": [
+      "ለሁለቱ ተማሪዎች ጎበዝ ደብተር መምህራችን ሸልሟቸዋል።",
+      "ጎበዝ ተማሪዎች መምህራችን ደብተር ለሁለቱ ሸልሟቸዋል።",
+      "መምህራችን ጎበዝ ተማሪዎች ለሁለቱ ደብተር ሸልሟቸዋል።",
+      "መምህራችን ለሁለቱ ጎበዝ ተማሪዎች ደብተር ሸልሟቸዋል።"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ \"መምህራችን ለሁለቱ ጎበዝ ተማሪዎች ደብተር ሸልሟቸዋል።\" የሚለው ነው። የአማርኛ ዓረፍተነገር ባለቤት (መምህራችን) መጀመሪያ፣ ከዚያ ተሳቢዎች፣ ግሱ (ሸልሟቸዋል) መጨረሻ ይመጣል፤ \"ለሁለቱ ጎበዝ ተማሪዎች\" ደግሞ አንድ ላይ መሆን አለበት። አማራጭ ሀ \"ጎበዝ ደብተር\" ብሎ ቃላቱን ስለሚያፈርስ፣ አማራጭ ሐ ደግሞ \"ለሁለቱ\"ን ከ\"ተማሪዎች\" ስለሚለይ ስህተት ናቸው። (የጥያቄው ቃላት በፎቶው ላይ ብዥ ያሉ ናቸው።)"
+    },
+    {
+     "id": "g6-am-amharic-029",
+     "topic": "Writing (sentence order)",
+     "question": "\"ንጽህና የአካባቢን መጠበቅ በሽታዎች በተላላፊ ከመጠቃት ያድናል።\" የሚሉት ቃላት ቅደም ተከተል ተስተካክሎ የሚገኘው በየትኛው ዓረፍተነገር ነው?",
+     "options": [
+      "የአካባቢን ንጽህና መጠበቅ በተላላፊ በሽታዎች ከመጠቃት ያድናል።",
+      "ንጽህናን የአካባቢ መጠበቅ በሽታዎች በተላላፊ ከመጠቃት ያድናል።",
+      "መጠበቅ ንጽህናን የአካባቢ በተላላፊ ከመጠቃት በሽታዎች ያድናል።",
+      "የአካባቢ መጠበቅ ንጽህናን ከመጠቃት በሽታዎች በተላላፊ ያድናል።"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ \"የአካባቢን ንጽህና መጠበቅ በተላላፊ በሽታዎች ከመጠቃት ያድናል።\" የሚለው ነው። ገላጭ \"በተላላፊ\" ከሚገልጸው ስም \"በሽታዎች\" በፊት ይመጣል፤ \"የአካባቢን ንጽህና መጠበቅ\" ደግሞ ባለቤቱ ሆኖ መጀመሪያ ይቀመጣል፣ ግሱ \"ያድናል\" መጨረሻ ላይ ይሆናል። ሌሎቹ አማራጮች \"በተላላፊ\"ን ከ\"በሽታዎች\" በኋላ ወይም ከሩቅ ስላስቀመጡ ትርጉማቸው ይበላሻል።"
+    },
+    {
+     "id": "g6-am-amharic-030",
+     "topic": "Vocabulary",
+     "question": "\"የትነበርሽ በከተማ አውቶብስ ________ ወደ ትምህርት ቤቷ ሄደች።\" ይህን ዓረፍተነገር በትክክል ማሟላት የሚችለው ቃል የትኛው ነው?",
+     "options": [
+      "ተሸክማ",
+      "ተሳፍራ",
+      "ታቅፋ",
+      "ታዝላ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ \"ተሳፍራ\" ነው። በአውቶብስ መሄድ ማለት በውስጡ መሳፈር ማለት ስለሆነ \"በከተማ አውቶብስ ተሳፍራ ሄደች\" ትክክለኛ ዓረፍተነገር ይሆናል። ተሸክማ፣ ታቅፋ እና ታዝላ ሰው ወይም ዕቃ ለመያዝ የሚውሉ ግሶች ስለሆኑ ከአውቶብስ ጋር አይሄዱም።"
+    },
+    {
+     "id": "g6-am-amharic-031",
+     "topic": "Word formation",
+     "question": "\"ትል\" የሚለው ቃል ወደ \"ትላትል\" ከተመሠረተ \"ስር\" ከሚለው ቃል የሚመሠረተው ቃል የትኛው ነው?",
+     "options": [
+      "ስርስር",
+      "ስርስራ",
+      "ስራስራ",
+      "ስራስር"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ \"ስራስር\" ነው። \"ትል\" ወደ \"ትላትል\" ሲሆን የመጀመሪያው ቃል ፊደላት መካከል አ ድምፅ ገብቶ ይደገማል (ት-ላ-ትል)፤ በዚሁ ሕግ \"ስር\" ወደ \"ስራስር\" ይቀየራል። \"ስርስር\" ይህን አ ድምፅ ስለሌለው፣ \"ስርስራ\" እና \"ስራስራ\" ደግሞ መጨረሻቸው ስለተለወጠ ስህተት ናቸው።"
+    },
+    {
+     "id": "g6-am-amharic-032",
+     "topic": "Writing (sentence order)",
+     "question": "\"ልጆች ልጆች እንጫወት በጣም! ________ ተመልሶ አይመጣም።\" ይህን ቃላዊ ግጥም የሚያሟላው ሐረግ የትኛው ነው?",
+     "options": [
+      "ያባረሩት ውሻ",
+      "የጠሉት ጓደኛ",
+      "ከእንግዲህ ልጅነት",
+      "ውጭ አገር የሄደ"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ \"ከእንግዲህ ልጅነት\" ነው። ግጥሙ ልጆች በጣም እንጫወት እያለ ልጅነት አንዴ ካለፈ ተመልሶ እንደማይመጣ ይናገራል፤ ስለዚህ \"ልጅነት ተመልሶ አይመጣም\" የሚለው ዋና ሐሳቡን ያሟላል። ውሻ፣ ጓደኛና ውጭ አገር የሄደ ሰው ከጨዋታና ከልጅነት ጋር ግንኙነት የሌላቸው ናቸው። (የጥያቄው ጽሑፍ በፎቶው ላይ ብዥ ያለ ነው።)"
+    },
+    {
+     "id": "g6-am-amharic-033",
+     "topic": "Compound words",
+     "question": "አጣማሪ \"ኧ\"ን በመጠቀም የተመሠረተው ጥምር ቃል የትኛው ነው?",
+     "options": [
+      "መዝገብቤት",
+      "ትምህርትቤት",
+      "ቤተመንግሥት",
+      "መጻሕፍትቤት"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ \"ቤተመንግሥት\" ነው። ጥምር ቃል ሲመሠረት አንዳንድ ጊዜ በሁለቱ ቃላት መካከል አጣማሪ ድምፅ ይገባል፤ \"ቤት + መንግሥት\" ሲጣመሩ \"ቤተ\" የሚለው ቅርጽ በ\"ኧ\" አጣማሪ ተፈጥሯል። መዝገብቤት፣ ትምህርትቤት እና መጻሕፍትቤት ደግሞ ሁለቱ ቃላት ያለ አጣማሪ ድምፅ በቀጥታ የተጣመሩ ናቸው።"
+    },
+    {
+     "id": "g6-am-amharic-034",
+     "topic": "Compound words",
+     "question": "ያለ አጣማሪ የተመሠረተው ጥምር ቃል የትኛው ነው?",
+     "options": [
+      "ሆደመጋዘ",
+      "ሥርወቃል",
+      "ቤተሰብ",
+      "ወጥቤት"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ \"ወጥቤት\" ነው። \"ወጥ + ቤት\" ሲጣመሩ በመካከል ምንም አጣማሪ ድምፅ አልገባም፤ ሁለቱ ቃላት በቀጥታ ተጣምረዋል። \"ሥርወቃል\" (ሥር + ወ + ቃል)፣ \"ቤተሰብ\" (ቤት + ኧ + ሰው) እና \"ሆደመጋዘ\" በመካከላቸው አጣማሪ ድምፅ ስላላቸው ስህተት ናቸው። (የአማራጭ መ ጽሑፍ በፎቶው ላይ በትክክል አልተነበበም።)"
+    },
+    {
+     "id": "g6-am-amharic-035",
+     "topic": "Punctuation",
+     "question": "ሥርዓተነጥቦችን በተገቢ ቦታቸው በማስገባት የተጻፈው ዓረፍተነገር የትኛው ነው?",
+     "options": [
+      "እናቴ ከትምህርት ቤት ስመለስ \"ልጂ እድግ በልልኝ!\" ትለኛለች።",
+      "\"እናቴ ከትምህርት ቤት ስመለስ ልጂ እድግ በልልኝ!\" ትለኛለች።",
+      "እናቴ ከትምህርት ቤት ስመለስ \"ልጂ እድግ በልልኝ! ትለኛለች።\"",
+      "እናቴ \"ከትምህርት ቤት ስመለስ ልጂ እድግ በልልኝ!\" ትለኛለች።"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ አማራጭ ሀ ነው። ትዕምርተ ጥቅስ (\" \") የሚገባው የተናጋሪዋን ቃል በቃል ንግግር ብቻ ነው፤ እናትየዋ የምትለው \"ልጂ እድግ በልልኝ!\" ብቻ ስለሆነ ጥቅሱ በዚህ ንግግር ዙሪያ ይሆናል። \"እናቴ ከትምህርት ቤት ስመለስ\" የጸሐፊው ራሱ ቃል ስለሆነ በጥቅስ ውስጥ መግባት የለበትም፤ በአማራጮች ለ፣ ሐ እና መ ጥቅሱ በተሳሳተ ቦታ ተከፍቷል ወይም ተዘግቷል።"
+    },
+    {
+     "id": "g6-am-amharic-036",
+     "topic": "Punctuation",
+     "question": "ሥርዓተነጥቦችን በተገቢ ቦታቸው በማስገባት በትክክል የተጻፈው ዓረፍተነገር የትኛው ነው?",
+     "options": [
+      "ፈተናውን በደንብ ሰርቻለሁ ነገርግን፤ ሰዓት አንሶኛል።",
+      "ፈተናውን በደንብ ሰርቻለሁ፤ ነገርግን ሰዓት አንሶኛል።",
+      "ፈተናውን በደንብ ሰርቻለሁ፣ ነገርግን ሰዓት አንሶኛል፡",
+      "ፈተናውን በደንብ፤ሰርቻለሁ። ነገርግን ሰዓት አንሶኛል።"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ \"ፈተናውን በደንብ ሰርቻለሁ፤ ነገርግን ሰዓት አንሶኛል።\" የሚለው ነው። ሁለት የተያያዙ ሐሳቦች በ\"ነገርግን\" ሲገናኙ ከመጀመሪያው ሐሳብ በኋላ ሰረዝ (፤) ይገባል፤ ዓረፍተነገሩም በአራት ነጥብ (።) ይጠናቀቃል። አማራጭ ሀ ሰረዙን ከ\"ነገርግን\" በኋላ ያስገባል፣ ሐ ዓረፍተነገሩን በአራት ነጥብ ሳይሆን በነጠላ ነጥብ ያጠናቅቃል፣ መ ደግሞ ግሱን ከተሳቢው በመለየት መሃል ያስገባል። (የሥርዓተነጥቦቹ ምልክቶች በፎቶው ላይ ትንሽ ናቸው።)"
+    },
+    {
+     "id": "g6-am-amharic-037",
+     "topic": "Grammar (morphology)",
+     "question": "\"የደብተራችሁን\" የሚለው ቃል የያዛቸው ምዕላዶች በትክክል ሲተነተኑ የሚኖረውን ክፍፍል የሚያሳየው የትኛው ነው?",
+     "options": [
+      "የ - ደብተራ - ችሁ - ን",
+      "የ - ደብተር - አችሁ - ን",
+      "የ - ደብ - ተራ - ችሁ - ን",
+      "የደብተር - አች - ሁ - ን"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ \"የ - ደብተር - አችሁ - ን\" ነው። ቃሉ ባለቤትነትን የሚያመለክተው \"የ\"፣ ዋናው ስም \"ደብተር\"፣ ባለቤቱን (የእናንተ) የሚያሳየው ቅጥያ \"አችሁ\" እና ተሳቢ መሆኑን የሚያሳየው \"ን\" ምዕላዶች አሉት። \"ደብተራ\" የሚል የቃሉ ሥር የለም፤ \"ደብ\" እና \"ተራ\" ደግሞ በራሳቸው ምዕላድ ሆነው አይሰሩም፤ ስለዚህ ሌሎቹ አማራጮች ስህተት ናቸው።"
+    },
+    {
+     "id": "g6-am-amharic-038",
+     "topic": "Grammar (morphology)",
+     "question": "ከሚከተሉት ውስጥ የብዙ ቁጥር አመልካች ቅጥያ ያልተጨመረበት ቃል የትኛው ነው?",
+     "options": [
+      "ፍርሃት",
+      "ሐረጋት",
+      "ሕጻናት",
+      "ቅዱሳት"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ \"ፍርሃት\" ነው። \"ፍርሃት\" ነጠላ ቁጥር ያለው የረቂቅ ስም ሲሆን \"ት\" የቃሉ የራሱ አካል እንጂ የብዙ ቁጥር ቅጥያ አይደለም። \"ሐረጋት\"፣ \"ሕጻናት\" እና \"ቅዱሳት\" ደግሞ በ\"-ኣት/-ት\" የብዙ ቁጥር ቅጥያ የተሠሩ ናቸው። (የ\"ሕጻናት\" ፊደል በፎቶው ላይ \"ሀጻናት\" ተብሎ ተነብቧል።)"
+    },
+    {
+     "id": "g6-am-amharic-039",
+     "topic": "Grammar (morphology)",
+     "question": "ከሚከተሉት ዓረፍተነገሮች ውስጥ የጊዜ ተውሳከግስን የያዘው የትኛው ነው?",
+     "options": [
+      "የበግ ጎጋዬው በመኪና ይመጣል።",
+      "የበግ ጎጋዬው ወደ ደሴ ይሄዳል።",
+      "የበግ ጎጋዬው በድንገት ታሟል።",
+      "የበግ ጎጋዬው ትናንት መጥቷል።"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ \"የበግ ጎጋዬው ትናንት መጥቷል።\" የሚለው ነው። \"ትናንት\" ድርጊቱ መቼ እንደተከናወነ ስለሚያሳይ የጊዜ ተውሳከግስ ነው። \"በመኪና\" የመንገድ (አኳኋን)፣ \"ወደ ደሴ\" የቦታ፣ \"በድንገት\" ደግሞ የአኳኋን ተውሳከግስ ስለሆኑ የጊዜ አይደሉም። (\"የበግ ጎጋዬው\" የሚለው ስም በፎቶው ላይ ግልጽ አይደለም።)"
+    },
+    {
+     "id": "g6-am-amharic-040",
+     "topic": "Grammar (morphology)",
+     "question": "\"ንጹህ ውኃ መጠጣት ጤናማ ያደርጋል።\" ከስሩ የተሰመረበት ቃል (ንጹህ) የቃል ክፍል የትኛው ነው?",
+     "options": [
+      "ስም",
+      "ግስ",
+      "ቅጽል",
+      "ተውሳከግስ"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ \"ቅጽል\" ነው። \"ንጹህ\" ስሙን \"ውኃ\" ይገልጻል፤ ስምን የሚገልጽ ቃል ደግሞ ቅጽል ይባላል። ስም አንድን ነገር የሚጠራ ቃል፣ ግስ ድርጊትን የሚያሳይ፣ ተውሳከግስ ደግሞ ግሥን የሚገልጽ ስለሆነ \"ንጹህ\" በእነዚህ ክፍሎች ውስጥ አይካተትም። (የተሰመረበት ቃል በፎቶው ላይ ግልጽ አይደለም፤ በ\"ንጹህ\" ተወስዷል።)"
+    }
+   ]
+  },
+  {
+   "id": "g6-am-english-2018",
+   "level": "g6-amhara",
+   "subject": "english",
+   "title": "2018 E.C. Regional Examination",
+   "kind": "past-paper",
+   "year": 2018,
+   "source": "ANRSEB Grade 6 English Regional Examination 2018 E.C.",
+   "answerSource": "reasoned",
+   "durationMinutes": 60,
+   "status": "published",
+   "passages": {
+    "p1": "(1) Effective study skills are essential for students to succeed in their academic pursuits. Developing good study habits starts with setting clear goals and creating a structured schedule. When students know what they need to learn and when they need to complete their tasks, they can manage their time more efficiently.\n\n(2) It is also important to find a quiet, comfortable place to study where distractions are minimized. This helps students stay focused and retain information better. Additionally, active learning techniques such as taking notes, summarizing key points, and teaching the material to someone else can greatly enhance understanding and memory.\n\n(3) Another key aspect of study skills is the use of different learning methods to suit individual needs. Some students may benefit from visual aids like diagrams or charts, while others may prefer listening to lectures or reading textbooks. It is important to experiment with various techniques to find what works best for each person. Regular review and practice are also crucial. Revisiting material periodically helps reinforce learning and prevents information from being forgotten. Using flashcards, practice tests, and self-quizzing can make review more effective and engaging.\n\n(4) Finally, maintaining a healthy lifestyle is an important part of developing strong study skills. Adequate sleep, proper nutrition, and regular exercise contribute to better concentration and overall well-being. Students who take care of their physical and mental health are more likely to stay motivated and perform well in their studies. By combining effective study strategies with a balanced lifestyle, students can achieve their academic goals and build a foundation for lifelong learning."
+   },
+   "questions": [
+    {
+     "id": "g6-am-english-001",
+     "topic": "Reading comprehension",
+     "question": "According to the passage, which one of the following is Not Correct?",
+     "options": [
+      "Developing good study habits starts with setting clear goals.",
+      "A healthy life style is part of effective study skills.",
+      "Effective study skills include finding a quiet and comfortable place.",
+      "Distractions are parts of effective study skills."
+     ],
+     "answer": 3,
+     "explanation": "The correct answer is D. The passage says we should find a quiet place 'where distractions are minimized', so distractions are not part of good study skills; they are something to reduce. Options A, B and C are all stated in paragraphs 1, 4 and 2. The question asks for the statement that is NOT correct, so be careful not to choose a true statement such as A.",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-english-002",
+     "topic": "Reading comprehension",
+     "question": "In the passage, which one is not mentioned as an active learning method?",
+     "options": [
+      "Taking notes",
+      "Simply listening to the teacher",
+      "Teaching materials to other people",
+      "Summarizing key points"
+     ],
+     "answer": 1,
+     "explanation": "The correct answer is B. Paragraph 2 lists active learning techniques: taking notes, summarizing key points and teaching the material to someone else. Simply listening to the teacher is not in that list, and listening is passive. Option C is tempting but wrong because the passage names teaching the material to others as an active method.",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-english-003",
+     "topic": "Reading comprehension",
+     "question": "What is the main idea of paragraph 2?",
+     "options": [
+      "The use of different suitable learning methods",
+      "The importance of revisiting leaning materials",
+      "The importance of setting goals and studying schedule",
+      "The importance of finding quiet and appropriate place to study"
+     ],
+     "answer": 3,
+     "explanation": "The correct answer is D. Paragraph 2 begins with 'It is also important to find a quiet, comfortable place to study' and then explains how this helps students focus. Option C is the main idea of paragraph 1, not paragraph 2. Option A is the main idea of paragraph 3, so it is also wrong here.",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-english-004",
+     "topic": "Reading comprehension",
+     "question": "What is the main idea of paragraph 3?",
+     "options": [
+      "The role of effective study strategies",
+      "The roles of diagrams and charts in learning",
+      "The role of using different suitable learning methods",
+      "Maintaining a healthy life style is part of effective study skills"
+     ],
+     "answer": 2,
+     "explanation": "The correct answer is C. Paragraph 3 begins with 'the use of different learning methods to suit individual needs' and then gives examples such as visual aids, listening and reviewing. Option B is only one small example inside the paragraph, so it is too narrow. Option D is the main idea of paragraph 4.",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-english-005",
+     "topic": "Reading comprehension",
+     "question": "As used in paragraph 1, line 3, the pronoun 'they' refers to",
+     "options": [
+      "study habits",
+      "academic pursuits",
+      "students",
+      "clear goals"
+     ],
+     "answer": 2,
+     "explanation": "The correct answer is C, students. The sentence says 'When students know what they need to learn and when they need to complete their tasks'. Only students can need to learn and complete tasks. Study habits and clear goals are things, so they cannot be the ones who learn.",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-english-006",
+     "topic": "Reading comprehension",
+     "question": "What does the pronoun 'This' in paragraph 2, line 2, refer to?",
+     "options": [
+      "Finding a quiet and comfortable study place",
+      "Managing time more effectively",
+      "Developing good study habits",
+      "Using active learning techniques"
+     ],
+     "answer": 0,
+     "explanation": "The correct answer is A. The sentence before 'This' says it is important to find a quiet, comfortable place to study. 'This helps students stay focused' means that finding such a place helps students focus. Option D comes after 'This' in the next sentence, so it cannot be what 'This' points back to.",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-english-007",
+     "topic": "Reading comprehension",
+     "question": "In paragraph 3, line 3, what does the pronoun 'others' refer to?",
+     "options": [
+      "Study skills",
+      "Learning methods",
+      "Students who prefer listening or reading books",
+      "Students who may benefit from visual aids"
+     ],
+     "answer": 2,
+     "explanation": "The correct answer is C. The sentence says 'Some students may benefit from visual aids..., while others may prefer listening to lectures or reading textbooks'. So 'others' means the other students, those who like listening or reading. Option D is wrong because those are the 'some students' in the first half of the sentence.",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-english-008",
+     "topic": "Vocabulary",
+     "question": "As used in paragraph 2, line 2, the word 'retain' means",
+     "options": [
+      "keep",
+      "lose",
+      "release",
+      "forget"
+     ],
+     "answer": 0,
+     "explanation": "The correct answer is A, keep. The passage says a quiet place helps students 'retain information better', which means they keep the information in their minds. Lose, release and forget have the opposite meaning. A quiet place would not help students forget information.",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-english-009",
+     "topic": "Vocabulary",
+     "question": "In paragraph 2, line 4, the word 'enhance' means",
+     "options": [
+      "diminish",
+      "improve",
+      "reduce",
+      "hinder"
+     ],
+     "answer": 1,
+     "explanation": "The correct answer is B, improve. The passage says active learning can greatly 'enhance understanding and memory', which means make them better. Diminish, reduce and hinder all mean to make something smaller or harder. These do not fit a sentence about a helpful learning technique.",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-english-010",
+     "topic": "Vocabulary",
+     "question": "As used in paragraph 3, line 6, what does the word 'reinforce' mean?",
+     "options": [
+      "Strengthen",
+      "Erode",
+      "Weaken",
+      "Undermine"
+     ],
+     "answer": 0,
+     "explanation": "The correct answer is A, strengthen. The passage says revisiting material 'helps reinforce learning and prevents information from being forgotten', so review makes learning stronger. Erode, weaken and undermine all mean to make something less strong. Those meanings do not fit because review is meant to help learning.",
+     "passage": "p1"
+    },
+    {
+     "id": "g6-am-english-011",
+     "topic": "Vocabulary",
+     "question": "Farmers cultivate \"teff\" and coffee in the fertile soil during the rainy season. In this sentence, the meaning of the word 'cultivate' is",
+     "options": [
+      "grow",
+      "destroy",
+      "cut",
+      "abandon"
+     ],
+     "answer": 0,
+     "explanation": "The correct answer is A, grow. Farmers plant and grow crops such as teff and coffee in fertile soil. Destroy, cut and abandon do not fit, because farmers would not destroy or leave their crops in good soil. Cultivate means to prepare land and grow plants."
+    },
+    {
+     "id": "g6-am-english-012",
+     "topic": "Vocabulary",
+     "question": "Lack of water for their animals is one of the big challenges for people who live in deserts. In this sentence, the meaning of the word 'challenges' is",
+     "options": [
+      "supports",
+      "advantages",
+      "resources",
+      "problems"
+     ],
+     "answer": 3,
+     "explanation": "The correct answer is D, problems. A lack of water is a difficulty for desert people, so 'challenges' means problems. Supports, advantages and resources are helpful things. Water shortage is the opposite of a help, so these options are wrong."
+    },
+    {
+     "id": "g6-am-english-013",
+     "topic": "Vocabulary",
+     "question": "Schools are the best places for students to gain the knowledge they need for their future careers. Here, the meaning of the word 'gain' can be",
+     "options": [
+      "get",
+      "forget",
+      "lose",
+      "control"
+     ],
+     "answer": 0,
+     "explanation": "The correct answer is A, get. Students go to school to get or receive knowledge for their future jobs. Forget and lose are the opposite of what school is for. Control does not fit well because we do not 'control' knowledge in this sentence."
+    },
+    {
+     "id": "g6-am-english-014",
+     "topic": "Vocabulary",
+     "question": "Success in learning demands hard work, motivation and commitment from students. The word 'demands' in this sentence means",
+     "options": [
+      "accepts",
+      "avoids",
+      "offers",
+      "requires"
+     ],
+     "answer": 3,
+     "explanation": "The correct answer is D, requires. The sentence says success needs hard work, motivation and commitment, so it demands or requires them. Accepts and offers are wrong because success does not give these things to students. Avoids is wrong because it has the opposite meaning."
+    },
+    {
+     "id": "g6-am-english-015",
+     "topic": "Vocabulary",
+     "question": "One of the characteristics of honest students is that they don't deny the mistake they have made. What is the meaning of the word 'deny' in this sentence?",
+     "options": [
+      "Admit",
+      "Confirm",
+      "Reject",
+      "Accept"
+     ],
+     "answer": 2,
+     "explanation": "The correct answer is C, reject. To deny something means to say that it is not true, which is to reject it. Honest students do not do that; they admit their mistakes. Admit, confirm and accept all mean the opposite of deny, so they are wrong even though they match the idea of an honest student."
+    },
+    {
+     "id": "g6-am-english-016",
+     "topic": "Grammar",
+     "question": "It is proved that water ______ at 100'C.",
+     "options": [
+      "boils",
+      "is boiling",
+      "boiled",
+      "boil"
+     ],
+     "answer": 0,
+     "explanation": "The correct answer is A, boils. We use the simple present tense for scientific facts that are always true. 'Water' is singular, so the verb takes -s: boils. 'Boil' is wrong because it does not agree with a singular subject, and 'is boiling' shows an action happening now, not a general fact."
+    },
+    {
+     "id": "g6-am-english-017",
+     "topic": "Grammar",
+     "question": "Mother: Is your brother at home?\nDaughter: ______",
+     "options": [
+      "Yes, he is not.",
+      "No, he is.",
+      "Yes, he does.",
+      "Yes, he is."
+     ],
+     "answer": 3,
+     "explanation": "The correct answer is D. The question 'Is your brother at home?' uses the verb 'is', so the short answer must also use 'is': 'Yes, he is.' Options A and B mix a positive and a negative word, so they contradict themselves. Option C uses 'does', which does not match the verb 'is' in the question."
+    },
+    {
+     "id": "g6-am-english-018",
+     "topic": "Grammar",
+     "question": "Among all the books I have read so far, this one is ______",
+     "options": [
+      "more interesting",
+      "the most interesting",
+      "interesting",
+      "less interesting"
+     ],
+     "answer": 1,
+     "explanation": "The correct answer is B, the most interesting. We use the superlative when one thing is compared with many things, here 'among all the books'. Long adjectives like interesting form the superlative with 'the most'. 'More interesting' is wrong because it compares only two things."
+    },
+    {
+     "id": "g6-am-english-019",
+     "topic": "Grammar",
+     "question": "Hanna: ______\nBeletu: No. I am doing my homework.",
+     "options": [
+      "Have you washed your clothes?",
+      "Are you washing your clothes?",
+      "Were you washing your clothes?",
+      "Did you wash your clothes?"
+     ],
+     "answer": 1,
+     "explanation": "The correct answer is B. Beletu replies 'I am doing my homework', which shows she is busy at this moment, so Hanna asked what she is doing now. The present continuous question 'Are you washing your clothes?' fits this reply. The other tenses ask about the past or a finished action, so 'No. I am doing my homework' would not be a natural answer."
+    },
+    {
+     "id": "g6-am-english-020",
+     "topic": "Grammar",
+     "question": "Teacher: ______ students are there in the classroom?\nStudent: There are ten students.",
+     "options": [
+      "How much",
+      "How often",
+      "How far",
+      "How many"
+     ],
+     "answer": 3,
+     "explanation": "The correct answer is D, How many. We use 'how many' to ask about the number of countable things, and students can be counted. The answer 'ten students' gives a number. 'How much' is for uncountable things, 'how often' asks about frequency and 'how far' asks about distance."
+    },
+    {
+     "id": "g6-am-english-021",
+     "topic": "Grammar",
+     "question": "Alemitu is a clever student and I like ______ handwriting.",
+     "options": [
+      "hers",
+      "she",
+      "her",
+      "herself"
+     ],
+     "answer": 2,
+     "explanation": "The correct answer is C, her. A possessive adjective is needed before the noun 'handwriting', and the possessive adjective for a girl is 'her'. 'Hers' is a pronoun that stands alone, so it cannot be followed by a noun. 'She' is a subject pronoun and 'herself' is a reflexive pronoun, so neither fits before a noun."
+    },
+    {
+     "id": "g6-am-english-022",
+     "topic": "Grammar",
+     "question": "Alemu: I feel sick. ______\nZenaw: You had better go to hospital and see a doctor.\nAlemu: Ok. Thanks.",
+     "options": [
+      "What should I do?",
+      "Do you feel the same?",
+      "When should I go?",
+      "Why I should go?"
+     ],
+     "answer": 0,
+     "explanation": "The correct answer is A. Alemu says he feels sick, and Zenaw gives advice: 'You had better go to hospital'. So Alemu must have asked for advice, and 'What should I do?' is the question that asks for advice. Option D is wrong because its word order is incorrect; it should be 'Why should I go?'."
+    },
+    {
+     "id": "g6-am-english-023",
+     "topic": "Grammar",
+     "question": "Teacher: ______ the class work?\nStudents: No, we haven't.",
+     "options": [
+      "Do you finish",
+      "Did you finish",
+      "Have you finished",
+      "Will you finish"
+     ],
+     "answer": 2,
+     "explanation": "The correct answer is C, Have you finished. The students answer 'No, we haven't', and a short answer must use the same helping verb as the question. 'Haven't' comes from 'have', so the question is in the present perfect tense. The other options would need answers with 'don't', 'didn't' or 'won't'."
+    },
+    {
+     "id": "g6-am-english-024",
+     "topic": "Grammar",
+     "question": "Almaz: ______ you come home and help me tomorrow? I have a lot to do.\nHanna: Ok.",
+     "options": [
+      "Do",
+      "Will",
+      "Did",
+      "Are"
+     ],
+     "answer": 1,
+     "explanation": "The correct answer is B, Will. The word 'tomorrow' shows a future time, and Almaz is making a request, so 'Will you come...?' is correct. 'Did' is past tense and cannot go with 'tomorrow'. 'Do' and 'Are' do not make a correct question with the base verb 'come' about tomorrow."
+    },
+    {
+     "id": "g6-am-english-025",
+     "topic": "Grammar",
+     "question": "The baby ______ loudly immediately after its mother leaves.",
+     "options": [
+      "cry",
+      "cries",
+      "crys",
+      "cryes"
+     ],
+     "answer": 1,
+     "explanation": "The correct answer is B, cries. The subject 'The baby' is singular, and the sentence is in the simple present tense, so the verb needs -s or -es. When a verb ends in a consonant plus y, we change y to i and add -es, so cry becomes cries. 'Crys' and 'cryes' are spelled wrongly, and 'cry' does not agree with a singular subject."
+    },
+    {
+     "id": "g6-am-english-026",
+     "topic": "Grammar",
+     "question": "There is a little cloud in the sky, but it ______ rain in the afternoon.",
+     "options": [
+      "should",
+      "has to",
+      "may",
+      "must"
+     ],
+     "answer": 2,
+     "explanation": "The correct answer is C, may. There is only a little cloud, so rain is possible but not certain, and 'may' shows possibility. 'Must' and 'has to' show that something is necessary or certain, which is too strong. 'Should' gives advice, which does not fit weather."
+    },
+    {
+     "id": "g6-am-english-027",
+     "topic": "Grammar",
+     "question": "My brother is good at language. He ______ speak three languages fluently.",
+     "options": [
+      "should",
+      "could",
+      "may",
+      "can"
+     ],
+     "answer": 3,
+     "explanation": "The correct answer is D, can. 'Can' shows ability in the present, and the sentence tells us what the brother is able to do now because he is good at language. 'Should' gives advice and 'may' shows possibility, so they do not fit. 'Could' is a past form of ability, but the sentence is about the present, so 'can' is the best choice."
+    },
+    {
+     "id": "g6-am-english-028",
+     "topic": "Grammar",
+     "question": "Yesterday, we ______ to school early.",
+     "options": [
+      "go",
+      "went",
+      "gone",
+      "goes"
+     ],
+     "answer": 1,
+     "explanation": "The correct answer is B, went. The word 'Yesterday' shows the past, so we need the simple past tense of 'go', which is 'went'. 'Go' and 'goes' are present tense forms. 'Gone' is the past participle and needs a helping verb such as 'have'."
+    },
+    {
+     "id": "g6-am-english-029",
+     "topic": "Grammar",
+     "question": "Active Voice: Many people speak English.\nPassive Voice: ______",
+     "options": [
+      "English is spoken by many people.",
+      "English has been spoken by many people.",
+      "English was spoken by many people.",
+      "English is being spoken by many people."
+     ],
+     "answer": 0,
+     "explanation": "The correct answer is A. The active sentence is in the simple present tense ('speak'), so the passive uses 'is/are' plus the past participle: 'English is spoken by many people'. The object English becomes the subject. Options B, C and D change the tense to present perfect, simple past and present continuous, so they do not mean the same as the original."
+    },
+    {
+     "id": "g6-am-english-030",
+     "topic": "Grammar",
+     "question": "Which of the following is conditional sentence Type 1?",
+     "options": [
+      "If she studies hard, she will pass the exam.",
+      "If she studied hard, she would pass the exam.",
+      "If she studied hard, she passed the exam.",
+      "If she had studied hard, she would have passed the exam."
+     ],
+     "answer": 0,
+     "explanation": "The correct answer is A. Type 1 conditional is used for real, possible situations in the future: 'If' + simple present, then 'will' + base verb. Option B is Type 2, which is for unreal situations, and option D is Type 3, which is for the past. Option C mixes tenses and is not a standard conditional type."
+    },
+    {
+     "id": "g6-am-english-031",
+     "topic": "Speaking and conversation",
+     "question": "Student 1: ______\nStudent 2: It is very warm.",
+     "options": [
+      "Do you like the weather of your village?",
+      "Do you think it will rain today?",
+      "How's the weather of your village?",
+      "Is the weather suitable to grow rice?"
+     ],
+     "answer": 2,
+     "explanation": "The correct answer is C. Student 2 answers 'It is very warm', which describes what the weather is like. So the question must ask 'How's the weather?'. The other questions are yes/no questions, so they would be answered with 'Yes' or 'No', not 'It is very warm'."
+    },
+    {
+     "id": "g6-am-english-032",
+     "topic": "Speaking and conversation",
+     "question": "I ______ today's lesson very much. It is very entertaining.",
+     "options": [
+      "dislike",
+      "like",
+      "hate",
+      "don't prefer"
+     ],
+     "answer": 1,
+     "explanation": "The correct answer is B, like. The second sentence says the lesson is 'very entertaining', which is a good thing, so the speaker enjoys it. Dislike, hate and don't prefer show negative feelings. They do not fit with the word 'entertaining'."
+    },
+    {
+     "id": "g6-am-english-033",
+     "topic": "Speaking and conversation",
+     "question": "Belay: ______\nHenok: I like bread with rice.",
+     "options": [
+      "When did you eat your breakfast?",
+      "Do you like to eat your breakfast?",
+      "What do you like for your breakfast?",
+      "How often do you eat your breakfast?"
+     ],
+     "answer": 2,
+     "explanation": "The correct answer is C. Henok answers with a kind of food, 'bread with rice', so Belay asked what he likes for breakfast. 'What' asks about things. 'When' would be answered with a time, 'how often' with a frequency, and 'Do you like...' with yes or no."
+    },
+    {
+     "id": "g6-am-english-034",
+     "topic": "Speaking and conversation",
+     "question": "Father: Do you like your new shoes?\nSon: Yes. They ______ comfortable and attractive.",
+     "options": [
+      "are",
+      "can",
+      "will",
+      "have"
+     ],
+     "answer": 0,
+     "explanation": "The correct answer is A, are. The sentence describes the shoes with the adjectives 'comfortable and attractive', so it needs a linking verb. 'They' is plural, so we use 'are'. 'Can', 'will' and 'have' cannot be followed by an adjective in this way."
+    },
+    {
+     "id": "g6-am-english-035",
+     "topic": "Speaking and conversation",
+     "question": "Person 1: ______, it is wrong to allow children to use mobile phones.\nPerson 2: You are right. It is not good for their health.",
+     "options": [
+      "I don't agree",
+      "I don't believe",
+      "In my opinion",
+      "I don't care"
+     ],
+     "answer": 2,
+     "explanation": "The correct answer is C, In my opinion. Person 1 gives their own view that children should not use mobile phones, and 'In my opinion' is the phrase used to introduce a view. Person 2 replies 'You are right', so Person 1 was not disagreeing. 'I don't agree' and 'I don't care' do not make sense before this statement."
+    },
+    {
+     "id": "g6-am-english-036",
+     "topic": "Speaking and conversation",
+     "question": "Student 1: Thanks to the government, these days big cities are becoming more attractive and comfortable.\nStudent 2: ______ and the same thing should be done to small cities.",
+     "options": [
+      "I don't agree with you",
+      "I agree with you",
+      "Good morning to you",
+      "I'm fine thank you"
+     ],
+     "answer": 1,
+     "explanation": "The correct answer is B, I agree with you. Student 2 says that the same thing should be done to small cities, which supports Student 1's good opinion. So Student 2 agrees. 'I don't agree with you' is wrong because the rest of the sentence is positive, and the greetings in C and D do not answer an opinion."
+    },
+    {
+     "id": "g6-am-english-037",
+     "topic": "Writing",
+     "question": "Which sentence is correctly punctuated?",
+     "options": [
+      "Do you know the answer of this question,",
+      "All of you stand up,",
+      "Our teacher is absent today;",
+      "They love their country so much."
+     ],
+     "answer": 3,
+     "explanation": "The correct answer is D. It is a statement, so it correctly ends with a full stop. Option A is a question, so it needs a question mark, not a comma. Options B and C end with a comma and a semicolon, but a complete sentence needs a full stop, question mark or exclamation mark at the end."
+    },
+    {
+     "id": "g6-am-english-038",
+     "topic": "Writing",
+     "question": "Read these disordered words: (brother / like / my / banana / doesn't). Which one is the correct order of the above words to make a meaningful and grammatically correct negative statement?",
+     "options": [
+      "Banana doesn't like my brother.",
+      "My brother not does like banana.",
+      "Banana my brother doesn't like.",
+      "My brother doesn't like banana."
+     ],
+     "answer": 3,
+     "explanation": "The correct answer is D. An English sentence follows the order subject, verb, object: 'My brother' (subject), 'doesn't like' (verb) and 'banana' (object). Option A changes the meaning, because it says the banana does not like the brother. Option B has the wrong negative form ('not does'), and option C has the wrong word order."
+    },
+    {
+     "id": "g6-am-english-039",
+     "topic": "Writing",
+     "question": "All the windows and the door are closed, ______ our classroom is very hot.",
+     "options": [
+      "but",
+      "so",
+      "and",
+      "for"
+     ],
+     "answer": 1,
+     "explanation": "The correct answer is B, so. The second part of the sentence is the result of the first part: the room is closed, therefore it is hot. 'So' joins a cause and its result. 'But' shows a contrast, 'and' only adds information, and 'for' gives a reason, which would reverse the meaning."
+    },
+    {
+     "id": "g6-am-english-040",
+     "topic": "Writing",
+     "question": "My uncle is a very rich man, ______ he is not happy.",
+     "options": [
+      "so",
+      "and",
+      "for",
+      "yet"
+     ],
+     "answer": 3,
+     "explanation": "The correct answer is D, yet. Being rich would usually make a person happy, but the uncle is not, so the two parts show a surprising contrast. 'Yet' joins ideas that contrast. 'So' shows a result, 'and' only adds, and 'for' gives a reason, so these do not fit the meaning."
+    }
+   ]
+  },
+  {
+   "id": "g6-am-mathematics-2018",
+   "level": "g6-amhara",
+   "subject": "mathematics",
+   "title": "2018 E.C. Regional Examination",
+   "kind": "past-paper",
+   "year": 2018,
+   "source": "ANRSEB Grade 6 Mathematics Regional Examination 2018 E.C.",
+   "answerSource": "reasoned",
+   "durationMinutes": 60,
+   "status": "published",
+   "questions": [
+    {
+     "id": "g6-am-math-003",
+     "topic": "Parts of a triangular prism",
+     "question": "ሥዕል-2 ላይ የተሰጠው ጠጣር ምስል ጎን-ሶስት ፕሪዝም ነው። ከሚከተሉት ውስጥ ስለ ፕሪዝሙ ክፍል ትክክል ያልሆነው የትኛው ነው? (ከፊደሎች በላይ ያለ መስመር ቀጥታ መስመርን ያመለክታል)",
+     "options": [
+      "መጠ መለያያ ነው።",
+      "መለሠጠ የጎን ገጽ ነው።",
+      "ሀለመ መሰረት ነው።",
+      "ሀወ ጠርዝ ነው።"
+     ],
+     "answer": 0,
+     "explanation": "ደረጃ 1: ጎን-ሶስት ፕሪዝም ሁለት ተመሳሳይ ሶስት ማዕዘን መሰረቶች (ወጠሠ እና ሀመለ) እና ሶስት አራት ማዕዘን የጎን ገጾች አሉት።\nደረጃ 2: ሀለመ የታችኛው ሶስት ማዕዘን መሰረት ነው፤ ስለዚህ 'ሀለመ መሰረት ነው' ትክክል ነው።\nደረጃ 3: መለሠጠ (መ፣ ለ፣ ሠ፣ ጠ) አራት ጫፎች ያሉት የጎን ገጽ ነው፤ ስለዚህ 'የጎን ገጽ ነው' ትክክል ነው።\nደረጃ 4: ሀወ በሁለት ገጾች መገናኛ ላይ ያለ የጎን ጠርዝ ነው፤ ስለዚህ 'ጠርዝ ነው' ትክክል ነው።\nደረጃ 5: መጠ ከላይኛው ጫፍ ጠ ወደ ታችኛው ጫፍ መ የሚወርድ የጎን ጠርዝ ነው፤ 'መለያያ' የሚል የፕሪዝም ክፍል ስም ግን ከዚህ ጋር አይገጥምም።\nመልስ: መጠ መለያያ ነው። (ይህ መግለጫ ትክክል አይደለም)\nቢ፣ ሲ እና ዲ ትክክል ናቸው፤ ስለዚህ ትክክል ያልሆነው ኤ ብቻ ነው። ቢ እና ዲ ትክክል የሚመስሉት የጎን ገጽ እና ጠርዝ ስሞች ስለሚገኙ ነው።",
+     "image": "assets/g6/math-q03.webp"
+    },
+    {
+     "id": "g6-am-math-004",
+     "topic": "Prime numbers",
+     "question": "ከሚከተሉት ውስጥ ብቸኛ ሙሉ ቁጥሮችን የሚገልጸው የትኛው ነው?",
+     "options": [
+      "ሶስት አብዥሮች ብቻ አሏቸው።",
+      "ከሁለት በላይ አብዥሮች አሏቸው።",
+      "አንድ አብዥር ብቻ አላቸው።",
+      "ሁለት አብዥሮች ብቻ አሏቸው።"
+     ],
+     "answer": 3,
+     "explanation": "ደረጃ 1: ብቸኛ ቁጥር (ዋና ቁጥር) ማለት ከ1 እና ከራሱ በስተቀር ሌላ አብዥር የሌለው ቁጥር ነው።\nደረጃ 2: ለምሳሌ 2 አብዥሮቹ 1 እና 2 ብቻ ናቸው፤ 3 አብዥሮቹ 1 እና 3 ብቻ ናቸው፤ 5 አብዥሮቹ 1 እና 5 ብቻ ናቸው።\nደረጃ 3: ስለዚህ ብቸኛ ቁጥሮች ሁለት አብዥሮች ብቻ አሏቸው።\nደረጃ 4: ለመፈተሽ 4 አብዥሮቹ 1፣ 2 እና 4 ናቸው (ሶስት)፤ ስለዚህ 4 ብቸኛ ቁጥር አይደለም።\nመልስ: ሁለት አብዥሮች ብቻ አሏቸው።\nአንድ አብዥር ብቻ ያለው 1 ብቻ ስለሆነ (ሐ) ብቸኛ ቁጥሮችን አይገልጽም። ከሁለት በላይ አብዥሮች ያሏቸው ቁጥሮች ውሁድ ቁጥሮች ናቸው (ለ)።"
+    },
+    {
+     "id": "g6-am-math-005",
+     "topic": "Definition of a coordinate system",
+     "question": "በሂሳብ ትምህርት ውስጥ ስለ ሥርዓተ-ውቅር ትርጓሜ አገላለጽ ትክክል ያልሆነው የትኛው ነው? (ሥርዓተ-ውቅር ማለት)",
+     "options": [
+      "ነጥቦችን ለማመልከት የሚያስችል ስርዓት ነው።",
+      "በሁለት ትይዩ መስመሮች የተሰራ ስርዓት ነው።",
+      "በአግዳሚ እና ቋሚ የቁጥር መስመሮች የተሰራ ስርዓት ነው።",
+      "ጠለልን አራት ቦታ የሚከፍል ስርዓት ነው።"
+     ],
+     "answer": 1,
+     "explanation": "ደረጃ 1: ሥርዓተ-ውቅር ማለት ነጥቦችን በቁጥሮች ለማመልከት የሚያገለግል ስርዓት ነው።\nደረጃ 2: ሥርዓተ-ውቅር በአግዳሚ (x) እና ቋሚ (y) የቁጥር መስመሮች የተሰራ ነው፤ ስለዚህ 'ነጥቦችን ለማመልከት' (ኤ) እና 'በአግዳሚ እና ቋሚ መስመሮች' (ሲ) ትክክል ናቸው።\nደረጃ 3: ሁለቱ መስመሮች ጠለሉን (አውሮፕላኑን) በአራት ክፍሎች ስለሚከፍሉ 'አራት ቦታ ይከፍላል' (ዲ) ትክክል ነው።\nደረጃ 4: ሁለቱ መስመሮች ትይዩ አይደሉም፤ በዜሮ ነጥብ ላይ ይገናኛሉ (ይቆራረጣሉ)። ስለዚህ 'በሁለት ትይዩ መስመሮች የተሰራ' (ቢ) ትክክል አይደለም።\nመልስ: በሁለት ትይዩ መስመሮች የተሰራ ስርዓት ነው። (ይህ ትክክል አይደለም)\nትይዩ መስመሮች ፈጽሞ አይገናኙም፤ ሥርዓተ-ውቅር ግን የሚሰራው በሚገናኙ ቀጥ ያሉ መስመሮች ነው።"
+    },
+    {
+     "id": "g6-am-math-006",
+     "topic": "Acute angle definition",
+     "question": "ከሚከተሉት ውስጥ ሹል አንግልን በትክክል የሚገልጸው የትኛው ነው?",
+     "options": [
+      "መጠኑ ከ0° ይበልጣል ከ90° ያንሳል።",
+      "መጠኑ ከ90° ይበልጣል ከ180° ያንሳል።",
+      "መጠኑ ከ180° ይበልጣል ከ270° ያንሳል።",
+      "መጠኑ ከ270° ይበልጣል ከ360° ያንሳል።"
+     ],
+     "answer": 0,
+     "explanation": "ደረጃ 1: ሹል (አጣዳፊ) አንግል መጠኑ ከ0° የሚበልጥ እና ከ90° የሚያንስ አንግል ነው፤ ማለትም 0° < አንግል < 90°።\nደረጃ 2: አማራጭ ኤ፡ 0° < አንግል < 90° ነው፤ ይህ ሁኔታ ትክክል ነው።\nደረጃ 3: ቢ (90° እስከ 180°) ዝርግ አንግል ነው፤ ሲ (180° እስከ 270°) እና ዲ (270° እስከ 360°) ደግሞ ከ180° በላይ ናቸው።\nመልስ: መጠኑ ከ0° ይበልጣል ከ90° ያንሳል።\nቢ ሹል አንግል ይመስላል፤ ነገር ግን መጠኑ ከ90° በላይ ስለሆነ ሹል አይደለም።"
+    },
+    {
+     "id": "g6-am-math-007",
+     "topic": "Classifying an angle of 178 degrees",
+     "question": "መጠኑ 178° የሆነ አንግል ከሚከተሉት ውስጥ ከየትኛው ይመደባል?",
+     "options": [
+      "ጥምዝ አንግል",
+      "ዝርግ አንግል",
+      "ዝርጥ አንግል",
+      "ሹል አንግል"
+     ],
+     "answer": 1,
+     "explanation": "ደረጃ 1: ሹል አንግል ከ0° እስከ 90° ያለ አንግል ነው።\nደረጃ 2: ዝርግ (ሰፊ) አንግል መጠኑ ከ90° በላይ እና ከ180° በታች የሆነ አንግል ነው።\nደረጃ 3: 178° ከ90° ይበልጣል እና ከ180° ያንሳል፤ ስለዚህ 90° < 178° < 180°።\nደረጃ 4: ስለዚህ 178° አንግል ዝርግ አንግል ነው።\nመልስ: ዝርግ አንግል\nሹል አንግል (ዲ) ከ90° ያነሰ ነው፤ 178° ግን ከ90° ይበልጣል። ኤ እና ሲ የሚሉት ስሞች ለ178° አንግል ትክክለኛ ምድብ አይደሉም።"
+    },
+    {
+     "id": "g6-am-math-008",
+     "topic": "Rounding a decimal to the nearest whole number",
+     "question": "846.791 ወደሚቀርበው ሙሉ ቁጥር ሲጠጋጋ ስንት ይሆናል?",
+     "options": [
+      "846",
+      "847",
+      "848",
+      "857"
+     ],
+     "answer": 1,
+     "explanation": "ደረጃ 1: ወደ ሙሉ ቁጥር ለመጠጋጋት የአስርዮሽ ክፍሉን ይመልከቱ፤ እዚህ የአስርዮሽ ክፍሉ 0.791 ነው።\nደረጃ 2: 0.791 ከ0.5 ይበልጣል (0.791 > 0.5)፤ ስለዚህ ሙሉውን ቁጥር ወደ ላይ ይጠጋጋል።\nደረጃ 3: 846 + 1 = 847።\nደረጃ 4: ቼክ: 846.791 ወደ 847 በጣም ይቀርባል (ልዩነቱ 0.209 ነው)።\nመልስ: 847\n846 (ኤ) የሚገኘው አስርዮሹ ብቻ ሲቆረጥ ነው፤ ይህ ስህተት ነው። 857 (ዲ) ደግሞ ከ10 ጋር የተዛባ ስሌት ነው።"
+    },
+    {
+     "id": "g6-am-math-009",
+     "topic": "Number of edges of a square pyramid",
+     "question": "ሥዕል-3 ላይ የተሰጠው ጠጣር ምስል ጎን-አራት ፒራሚድ ነው። የፒራሚዱ ጠቅላላ ጠርዝ ብዛት ስንት ነው?",
+     "options": [
+      "5",
+      "10",
+      "8",
+      "12"
+     ],
+     "answer": 2,
+     "explanation": "ደረጃ 1: ጎን-አራት ፒራሚድ መሰረቱ አራት ማዕዘን (ካሬ) ነው።\nደረጃ 2: የመሰረቱ ጠርዞች ብዛት 4 ነው።\nደረጃ 3: ከላይኛው ጫፍ ወደ መሰረቱ አራቱ ጫፎች የሚወጡ የጎን ጠርዞች ብዛት 4 ነው።\nደረጃ 4: ጠቅላላ ጠርዝ = 4 + 4 = 8።\nመልስ: 8\n5 የፒራሚዱ ገጾች ብዛት ነው (ጠርዝ አይደለም)። 12 የኩብ ጠርዞች ብዛት ነው፤ ፒራሚድ ግን 8 ጠርዞች አሉት።",
+     "image": "assets/g6/math-q09.webp"
+    },
+    {
+     "id": "g6-am-math-010",
+     "topic": "Multiplying fractions",
+     "question": "2/7 × 3/5 = ______ ።",
+     "options": [
+      "6/35",
+      "10/21",
+      "14/15",
+      "21/10"
+     ],
+     "answer": 0,
+     "explanation": "ደረጃ 1: ክፍልፋዮችን ስናባዛ የአሃዛቸውን ቁጥሮች እርስ በርስ እና የመለያዎቻቸውን ቁጥሮች እርስ በርስ እናባዛለን።\nደረጃ 2: አሃዞች: 2 × 3 = 6፤ መለያዎች: 7 × 5 = 35።\nደረጃ 3: ስለዚህ 2/7 × 3/5 = 6/35።\nደረጃ 4: ቼክ: 6/35 ሊቀነስ የሚችል ቁጥር የለውም፤ ስለዚህ በዚህ መልክ ነው።\nመልስ: 6/35\n21/10 የ3/5 ÷ 2/7 ውጤት ነው (ማባዛት ሲገባ መካፈል)፤ 10/21 እና 14/15 ደግሞ የስሌት ስህተት ውጤቶች ናቸው።"
+    },
+    {
+     "id": "g6-am-math-011",
+     "topic": "Dividing a decimal by a whole number",
+     "question": "4.8 ÷ 3 = ______ ።",
+     "options": [
+      "16",
+      "14.4",
+      "4.8",
+      "1.6"
+     ],
+     "answer": 3,
+     "explanation": "ደረጃ 1: 4.8 = 48 ÷ 10 ስለሆነ፤ 4.8 ÷ 3 = (48 ÷ 3) ÷ 10 ይሆናል።\nደረጃ 2: 48 ÷ 3 = 16 ነው፤ ስለዚህ 16 ÷ 10 = 1.6።\nደረጃ 3: ቼክ: 1.6 × 3 = 4.8 ✓\nመልስ: 1.6\n16 አስርዮሹን ሳናስገባ የተገኘ ውጤት ነው። 14.4 የ4.8 × 3 ውጤት ነው፤ ይህ መባዛት ነው እንጂ መካፈል አይደለም።"
+    },
+    {
+     "id": "g6-am-math-012",
+     "topic": "Converting a fraction to a percentage",
+     "question": "ክፍልፋይ ቁጥር 4/5 በፐርሰንት ሲገለጽ የትኛውን ይሆናል?",
+     "options": [
+      "80%",
+      "70%",
+      "60%",
+      "50%"
+     ],
+     "answer": 0,
+     "explanation": "ደረጃ 1: ክፍልፋይን ወደ ፐርሰንት ለመቀየር በ100 እናባዛለን።\nደረጃ 2: 4/5 × 100% = 400/5 % = 80%።\nደረጃ 3: ቼክ: 80% የ5 = 0.8 × 5 = 4 ✓።\nመልስ: 80%\n70%, 60% እና 50% ከ4/5 (= 0.8) ጋር አይጣጣሙም።"
+    },
+    {
+     "id": "g6-am-math-013",
+     "topic": "Evaluating an algebraic expression",
+     "question": "የተሰጠው አልጀብራዊ መግለጫ ዋጋ ስንት ነው? φ − 16 ፣ φ = 25",
+     "options": [
+      "8",
+      "9",
+      "11",
+      "12"
+     ],
+     "answer": 1,
+     "explanation": "ደረጃ 1: φ = 25 ስለሆነ በመግለጫው ውስጥ φ ያለበትን ቦታ በ25 እንተካለን።\nደረጃ 2: 25 − 16 = 9።\nደረጃ 3: ቼክ: 9 + 16 = 25 ✓\nመልስ: 9\n8, 11 እና 12 የስሌት ስህተት ውጤቶች ናቸው፤ ለምሳሌ 16ን ከ25 በትክክል አለመቀነስ።"
+    },
+    {
+     "id": "g6-am-math-014",
+     "topic": "Age word problem",
+     "question": "ከ10 ዓመት በኋላ የሠናይት ዕድሜ 25 ዓመት ይሆናል። ዛሬ ላይ የሠናይት ዕድሜ ስንት ነው?",
+     "options": [
+      "35",
+      "25",
+      "15",
+      "10"
+     ],
+     "answer": 2,
+     "explanation": "ደረጃ 1: ከ10 ዓመት በኋላ ዕድሜዋ 25 ዓመት ነው።\nደረጃ 2: ዛሬ ዕድሜዋ = ከ10 ዓመት በኋላ ያለው ዕድሜ − 10 = 25 − 10 = 15 ዓመት።\nደረጃ 3: ቼክ: 15 + 10 = 25 ✓\nመልስ: 15 ዓመት\n25 የወደፊት ዕድሜ ነው እንጂ ዛሬ ያለው ዕድሜ አይደለም። 35 ደግሞ 10 ዓመት ሲጨመር የተገኘ ስህተት ነው።"
+    },
+    {
+     "id": "g6-am-math-015",
+     "topic": "Midpoints of sides of a rectangle",
+     "question": "ሥዕል-4 ላይ ሬክታንግል ሀለመወ ተሰጥቷል። ነጥብ ሠ የጎን ሀለ፣ ነጥብ ዘ የጎን ለመ፣ ነጥብ ጠ የጎን መወ እና ነጥብ በ የጎን ወሀ እኩል ከፋይ ናቸው። ከሚከተሉት ውስጥ ለሬክታንግል ሀለመወ ምጥጥን መስመር የሚሆኑት የትኞቹ ናቸው?",
+     "options": [
+      "ሀመ እና ሠጠ",
+      "በዘ እና ሠጠ",
+      "ሀመ እና ለወ",
+      "ለወ እና በዘ"
+     ],
+     "answer": 1,
+     "explanation": "ደረጃ 1: ሠ፣ ዘ፣ ጠ እና በ የጎኖቹ መሃል (እኩል ከፋይ) ነጥቦች ናቸው።\nደረጃ 2: ሠጠ ከላይኛው ጎን መሃል ወደ ታችኛው ጎን መሃል የሚያገናኝ መስመር ነው፤ በዘ ደግሞ ከግራ ጎን መሃል ወደ ቀኝ ጎን መሃል የሚያገናኝ መስመር ነው።\nደረጃ 3: ሁለቱም መስመሮች የተቃራኒ ጎኖችን በእኩል ይከፍላሉ እና በቀጥታ ቀጥ ብለው ያቋርጣሉ፤ በሬክታንግሉ መሃል ይገናኛሉ።\nደረጃ 4: ሀመ እና ለወ ግን የተቃራኒ ጫፎችን የሚያገናኙ ሰያፍ መስመሮች ናቸው፤ ስለዚህ ኤ፣ ሲ እና ዲ ሰያፍ መስመር ይይዛሉ።\nመልስ: በዘ እና ሠጠ\nኤ እና ዲ ሰያፍ መስመር (ሀመ ወይም ለወ) ይዘዋል፤ ሲ ሁለቱም ሰያፍ መስመሮች ናቸው። ስለዚህ ሁለቱንም እኩል ከፋይ መስመሮች የያዘው ቢ ብቻ ነው።",
+     "image": "assets/g6/math-q15.webp"
+    },
+    {
+     "id": "g6-am-math-016",
+     "topic": "Volume of a rectangular prism",
+     "question": "ሥዕል-5 ላይ የተሰጠው ጠጣር ምስል ሬክታንግላር ፕሪዝም ነው። የፕሪዝሙ ይዘት ስንት ነው?",
+     "options": [
+      "22 ሳ.ሜ³",
+      "20 ሳ.ሜ³",
+      "18 ሳ.ሜ³",
+      "15 ሳ.ሜ³"
+     ],
+     "answer": 2,
+     "explanation": "ደረጃ 1: የሬክታንግላር ፕሪዝም ይዘት = ርዝመት × ወርድ × ቁመት።\nደረጃ 2: ከሥዕሉ: ርዝመት = 3 ሳ.ሜ፣ ወርድ = 2 ሳ.ሜ፣ ቁመት = 3 ሳ.ሜ።\nደረጃ 3: ይዘት = 3 × 2 × 3 = 18 ሳ.ሜ³።\nደረጃ 4: ቼክ: 6 × 3 = 18 ✓\nመልስ: 18 ሳ.ሜ³\n22 እና 20 የስሌት ስህተት ውጤቶች ናቸው። 15 ደግሞ ሁለት ልኬቶችን ብቻ (3 × 5) ሲባዙ የሚገኝ ስህተት ነው፤ ሶስቱም ልኬቶች መባዛት አለባቸው።",
+     "image": "assets/g6/math-q16.webp"
+    },
+    {
+     "id": "g6-am-math-017",
+     "topic": "Width of a rectangle from its area",
+     "question": "ስፋቱ 24ሜ² ሆኖ የሬክታንግል ቅርጽ ያለው መኝታ ቤት ለመስራት ርዝመቱ 6ሜ ቢሆን ወርዱ ስንት ይሆናል?",
+     "options": [
+      "3 ሜ",
+      "4 ሜ",
+      "5 ሜ",
+      "6 ሜ"
+     ],
+     "answer": 1,
+     "explanation": "ደረጃ 1: የሬክታንግል ስፋት = ርዝመት × ወርድ።\nደረጃ 2: ወርድ = ስፋት ÷ ርዝመት = 24 ÷ 6 = 4 ሜ።\nደረጃ 3: ቼክ: 6 × 4 = 24 ✓\nመልስ: 4 ሜ\n6 ሜ ርዝመቱ ነው እንጂ ወርዱ አይደለም። 3 ሜ እና 5 ሜ ሲባዙ ከ24 ጋር አይገጣጠሙም (6 × 3 = 18፣ 6 × 5 = 30)።"
+    },
+    {
+     "id": "g6-am-math-018",
+     "topic": "Divisibility by 3",
+     "question": "ከሚከተሉት ውስጥ ለ3 ያለ ቀሪ ተከፋይ የሚሆነው የትኛው ነው?",
+     "options": [
+      "640",
+      "916",
+      "7005",
+      "8012"
+     ],
+     "answer": 2,
+     "explanation": "ደረጃ 1: ቁጥር ለ3 ያለ ቀሪ የሚካፈለው የአሃዞቹ ድምር በ3 ሲካፈል ቀሪ ከሌለው ነው።\nደረጃ 2: 640: 6 + 4 + 0 = 10፤ 10 ÷ 3 ቀሪ 1 አለው ✗\nደረጃ 3: 916: 9 + 1 + 6 = 16፤ 16 ÷ 3 ቀሪ 1 አለው ✗\nደረጃ 4: 7005: 7 + 0 + 0 + 5 = 12፤ 12 ÷ 3 = 4 (ቀሪ 0) ✓\nደረጃ 5: 8012: 8 + 0 + 1 + 2 = 11፤ 11 ÷ 3 ቀሪ 2 አለው ✗\nመልስ: 7005\nቼክ: 7005 ÷ 3 = 2335 ያለ ቀሪ ✓። ሌሎቹ ቁጥሮች ቀሪ ስላላቸው ተከፋይ አይደሉም።"
+    },
+    {
+     "id": "g6-am-math-019",
+     "topic": "Sales tax",
+     "question": "የአንድ ሞባይል ስልክ መደበኛ ዋጋ 8000 ብር ሲሆን የሽያጭ ቀረጡ ደግሞ 5% ነው። የሞባይሉ ጠቅላላ ዋጋ ስንት ይሆናል?",
+     "options": [
+      "8800",
+      "8400",
+      "7800",
+      "7600"
+     ],
+     "answer": 1,
+     "explanation": "ደረጃ 1: የሽያጭ ቀረጡ = 8000 × 5 ÷ 100 = 400 ብር።\nደረጃ 2: ጠቅላላ ዋጋ = መደበኛ ዋጋ + ቀረጡ = 8000 + 400 = 8400 ብር።\nደረጃ 3: ቼክ: 400 ÷ 8000 = 5% ✓\nመልስ: 8400 ብር\n8800 የተገኘው 10% ቀረጥ ሲታሰብ ነው። 7800 እና 7600 ደግሞ ቀረጡን ከዋጋው ላይ ቀንሰው የተገኙ ስህተቶች ናቸው።"
+    },
+    {
+     "id": "g6-am-math-020",
+     "topic": "Adding a fraction and a decimal (time)",
+     "question": "ታዬ አማርኛ የቤት ስራን በ 4/5 ሰዓት፣ ሒሳብ የቤት ስራን በ1.25 ሰዓት ሰርቶ ጨረሰ። ታዬ ሁለቱን የቤት ስራዎች ለመስራት ስንት ሰዓት ወሰደበት?",
+     "options": [
+      "2.5 ሰዓት",
+      "2.33 ሰዓት",
+      "2.25 ሰዓት",
+      "2.05 ሰዓት"
+     ],
+     "answer": 3,
+     "explanation": "ደረጃ 1: 4/5 ን ወደ አስርዮሽ ቀይር: 4 ÷ 5 = 0.8 ሰዓት።\nደረጃ 2: ጠቅላላ ሰዓት = 0.8 + 1.25 = 2.05 ሰዓት።\nደረጃ 3: ቼክ: 2.05 − 1.25 = 0.8 ✓\nመልስ: 2.05 ሰዓት\n2.5፣ 2.33 እና 2.25 የስሌት ስህተት ውጤቶች ናቸው፤ የአስርዮሽ ቦታዎችን በትክክል ማሰለፍ ያስፈልጋል።"
+    },
+    {
+     "id": "g6-am-math-021",
+     "topic": "Fraction of a house painted in a given time",
+     "question": "አህመድ የአንድ ቤትን 1/2 ክፍል ቀለም ለመቀባት አንድ ሰዓት ይወስድበታል። አህመድ በ1.5 ሰዓት ውስጥ የቤቱን ምን ያህል ክፍል ይቀባል?",
+     "options": [
+      "3/5",
+      "3/4",
+      "4/5",
+      "7/8"
+     ],
+     "answer": 1,
+     "explanation": "ደረጃ 1: በ1 ሰዓት 1/2 የቤቱን ክፍል ይቀባል።\nደረጃ 2: በ1.5 ሰዓት = 1.5 × 1/2 = 3/2 × 1/2 = 3/4 የቤቱ ክፍል።\nደረጃ 3: ቼክ: 1/2 (በ1 ሰዓት) + 1/4 (በግማሽ ሰዓት) = 3/4 ✓\nመልስ: 3/4\n3/5፣ 4/5 እና 7/8 ከ3/4 ጋር አይገጣጠሙም፤ ትክክለኛው ስሌት 1.5 × 1/2 = 3/4 ነው።"
+    },
+    {
+     "id": "g6-am-math-022",
+     "topic": "Inequality from a word problem",
+     "question": "ሀሊና ባገኘችው የፈተና ውጤት ላይ 4 ሲጨመርበት ውጤቷ ከ17 ይበልጣል። ሀሊና መጀመሪያ ያገኘችው ውጤት ስንት ሊሆን ይችላል?",
+     "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+     ],
+     "answer": 3,
+     "explanation": "ደረጃ 1: መጀመሪያ ያገኘችው ውጤት x ይሁን፤ x + 4 > 17 ነው።\nደረጃ 2: x > 17 − 4 ስለዚህ x > 13።\nደረጃ 3: አማራጮቹን እንፈትሽ: 11 + 4 = 15 ✗፣ 12 + 4 = 16 ✗፣ 13 + 4 = 17 (ከ17 አይበልጥም) ✗፣ 14 + 4 = 18 ✓።\nመልስ: 14\n13 ሲጨመር ውጤቱ 17 ይሆናል፤ 'ከ17 ይበልጣል' ስለሚባል ተቀባይነት የለውም። 11 እና 12 ደግሞ ከ17 ያነሰ ውጤት ይሰጣሉ።"
+    },
+    {
+     "id": "g6-am-math-023",
+     "topic": "Angles on a straight line",
+     "question": "ሥዕል-6 ላይ ሀለ ቀጥታ መስመር ነው። የ 'φ' ዋጋ ስንት ነው?",
+     "options": [
+      "50°",
+      "60°",
+      "110°",
+      "140°"
+     ],
+     "answer": 2,
+     "explanation": "ደረጃ 1: ሀለ ቀጥታ መስመር ስለሆነ በመስመሩ ላይ ያሉ ተያያዥ አንግሎች ድምር 180° ነው።\nደረጃ 2: 40° + φ + 30° = 180°።\nደረጃ 3: φ = 180° − 40° − 30° = 110°።\nደረጃ 4: ቼክ: 40° + 110° + 30° = 180° ✓\nመልስ: 110°\n140° የሚገኘው 40° ብቻ ከ180° ሲቀነስ ነው፤ 50° ደግሞ ትክክለኛ ድምር አይደለም።",
+     "image": "assets/g6/math-q23.webp"
+    },
+    {
+     "id": "g6-am-math-024",
+     "topic": "Median of data",
+     "question": "የ9 ህጻናትን ዕድሜ የሚያሳይ መረጃ እንደሚከተለው ተሰብስቧል፦ 2፣ 3፣ 7፣ 4፣ 7፣ 1፣ 6፣ 7፣ 8። የመረጃው መሃል ክፋይ ስንት ነው?",
+     "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+     ],
+     "answer": 1,
+     "explanation": "ደረጃ 1: መረጃውን ከትንሽ ወደ ትልቅ እናስተካክለው: 1፣ 2፣ 3፣ 4፣ 6፣ 7፣ 7፣ 7፣ 8።\nደረጃ 2: ቁጥሩ 9 (ያልተለመደ) ስለሆነ መሃል ክፋዩ የ(9 + 1) ÷ 2 = 5ኛው ቁጥር ነው።\nደረጃ 3: 5ኛው ቁጥር 6 ነው።\nደረጃ 4: ቼክ: ከ6 በግራ 4 ቁጥሮች (1፣ 2፣ 3፣ 4) እና በቀኝ 4 ቁጥሮች (7፣ 7፣ 7፣ 8) አሉ ✓\nመልስ: 6\n7 የብዙ ጊዜ የሚደጋገም ቁጥር (ሞድ) ነው፤ መሃል ክፋይ አይደለም። 5 እና 8 ደግሞ በመሃል ላይ አይደሉም።"
+    },
+    {
+     "id": "g6-am-math-025",
+     "topic": "Ordering fractions",
+     "question": "ክፍልፋይ ቁጥሮች 4/5 ፣ 1/2 እና 2/3 ከትንሽ ወደ ትልቅ በቅደም ተከተል ሲጻፉ ትክክል የሆነው የትኛው ነው?",
+     "options": [
+      "2/3 ፣ 4/5 ፣ 1/2",
+      "2/3 ፣ 1/2 ፣ 4/5",
+      "4/5 ፣ 2/3 ፣ 1/2",
+      "1/2 ፣ 2/3 ፣ 4/5"
+     ],
+     "answer": 3,
+     "explanation": "ደረጃ 1: እያንዳንዱን ወደ አስርዮሽ እንቀይር: 4/5 = 0.8፣ 1/2 = 0.5፣ 2/3 ≈ 0.67።\nደረጃ 2: ከትንሽ ወደ ትልቅ: 0.5 < 0.67 < 0.8።\nደረጃ 3: ስለዚህ 1/2 ፣ 2/3 ፣ 4/5 ነው።\nመልስ: 1/2 ፣ 2/3 ፣ 4/5\nሲ ከትልቅ ወደ ትንሽ የተጻፈ ነው፤ ኤ እና ቢ ደግሞ በትክክል አልተደረደሩም።"
+    },
+    {
+     "id": "g6-am-math-026",
+     "topic": "Bar graph from a frequency table",
+     "question": "የ30 ተማሪዎች ፈተና ከ40% ታርም ያገኙትን ውጤት የሚያሳይ መረጃ እንደሚከተለው ተመዝግቧል፦ 34 30 30 35 34 35 36 35 36 36 / 35 34 34 30 30 36 34 34 35 35 / 30 36 35 35 34 36 35 36 35 36። መረጃውን በትክክል የሚገልጸው ባር ግራፍ የትኛው ነው?",
+     "options": [
+      "ግራፍ ኤ",
+      "ግራፍ ቢ",
+      "ግራፍ ሲ",
+      "ግራፍ ዲ"
+     ],
+     "answer": 0,
+     "explanation": "ደረጃ 1: ቁጥሮቹን በየውጤቱ ቆጥሩ: 30 → 5 ተማሪ፣ 34 → 7 ተማሪ፣ 35 → 10 ተማሪ፣ 36 → 8 ተማሪ።\nደረጃ 2: ቼክ: ድምር 5 + 7 + 10 + 8 = 30 ተማሪ ✓\nደረጃ 3: ይህ ከግራፍ ኤ ጋር ይገጣጠማል (5፣ 7፣ 10፣ 8)።\nመልስ: ግራፍ ኤ\nቢ (10፣ 8፣ 7፣ 5) እና ሲ (8፣ 10፣ 7፣ 5) ቁመቶቹ ከቆጠራው ጋር አይገጣጠሙም። ዲ (5፣ 7፣ 8፣ 10) ቁመቶቹ በተሳሳተ ቦታ ላይ ናቸው።",
+     "image": "assets/g6/math-q26.webp"
+    },
+    {
+     "id": "g6-am-math-027",
+     "topic": "Possible outcomes of a die",
+     "question": "ዳይን ስንወረውር 3 ቁጥር ወጣ። ዳይን ደግመን ብንወረውረው ሊወጣ የሚችለው ቁጥር ስንት ይሆናል ብላችሁ ትገምታላችሁ?",
+     "options": [
+      "1 ወይም 3 ወይም 5",
+      "2 ወይም 4 ወይም 5 ወይም 6",
+      "1 ወይም 2 ወይም 4 ወይም 5 ወይም 6",
+      "1 ወይም 2 ወይም 3 ወይም 4 ወይም 5 ወይም 6"
+     ],
+     "answer": 3,
+     "explanation": "ደረጃ 1: ዳይ 6 ፊቶች አሉት፤ ቁጥሮቹ 1፣ 2፣ 3፣ 4፣ 5 እና 6 ናቸው።\nደረጃ 2: ዳይን እንደገና ስንወረውር 3 ቢወጣም ሌላ ማንኛውም ቁጥር ሊወጣ ይችላል።\nደረጃ 3: ስለዚህ ሊወጡ የሚችሉት ቁጥሮች 1 ወይም 2 ወይም 3 ወይም 4 ወይም 5 ወይም 6 ናቸው።\nመልስ: 1 ወይም 2 ወይም 3 ወይም 4 ወይም 5 ወይም 6\nኤ፣ ቢ እና ሲ የተወሰኑ ቁጥሮችን ይጎድላሉ፤ ለምሳሌ ሲ 3ን ይጎድለዋል፣ ቢ ደግሞ 1 እና 3ን ይጎድለዋል።"
+    },
+    {
+     "id": "g6-am-math-028",
+     "topic": "Ordering numbers from largest to smallest",
+     "question": "የሚከተሉት ቁጥሮች ከትልቅ ወደ ትንሽ በቅደም ተከተል ሲጻፉ ትክክል የሆነው የትኛው ነው? 3/2 ፣ 1.35 ፣ 6/5 ፣ 1.31",
+     "options": [
+      "3/2 ፣ 1.35 ፣ 1.31 ፣ 6/5",
+      "3/2 ፣ 1.31 ፣ 1.35 ፣ 6/5",
+      "6/5 ፣ 1.35 ፣ 1.31 ፣ 3/2",
+      "6/5 ፣ 1.31 ፣ 1.35 ፣ 3/2"
+     ],
+     "answer": 0,
+     "explanation": "ደረጃ 1: ሁሉንም ወደ አስርዮሽ እንቀይር: 3/2 = 1.5፣ 6/5 = 1.2።\nደረጃ 2: ቁጥሮቹ: 1.5፣ 1.35፣ 1.2፣ 1.31።\nደረጃ 3: ከትልቅ ወደ ትንሽ: 1.5 > 1.35 > 1.31 > 1.2።\nደረጃ 4: ስለዚህ 3/2 ፣ 1.35 ፣ 1.31 ፣ 6/5 ነው። ቼክ: 1.35 > 1.31 ✓\nመልስ: 3/2 ፣ 1.35 ፣ 1.31 ፣ 6/5\nዲ ከትንሽ ወደ ትልቅ የተጻፈ ነው፤ ቢ እና ሲ ደግሞ 1.31 እና 1.35 ወይም 6/5 በትክክለኛ ቦታ አይደሉም።"
+    },
+    {
+     "id": "g6-am-math-029",
+     "topic": "Shape formed by three points",
+     "question": "ሥዕል-7 ላይ በአንድ መስመር ላይ ያልሆኑ ነጥቦች ተሰጥተዋል። ሁሉንም ነጥቦች በመጠቀም ምን አይነት ምስል መንደፍ/መሳል/ ይቻላል?",
+     "options": [
+      "ቀጥታ መስመር",
+      "ጎን-አራት ምስል",
+      "ጎን-ሶስት ምስል",
+      "ጎን-አምስት ምስል"
+     ],
+     "answer": 2,
+     "explanation": "ደረጃ 1: ሦስቱ ነጥቦች በአንድ ቀጥታ መስመር ላይ አይደሉም።\nደረጃ 2: ሦስቱን ነጥቦች በቀጥታ መስመሮች ብናገናኝ ሦስት ጎኖች ያሉት ምስል (ሶስት ማዕዘን) ይሆናል።\nደረጃ 3: ስለዚህ ምስሉ ጎን-ሶስት ምስል ነው።\nመልስ: ጎን-ሶስት ምስል\nቀጥታ መስመር የሚሆነው ነጥቦቹ በአንድ መስመር ላይ ቢሆኑ ብቻ ነው። ጎን-አራት እና ጎን-አምስት ምስሎች ተጨማሪ ነጥቦች ያስፈልጓቸዋል።",
+     "image": "assets/g6/math-q29.webp"
+    },
+    {
+     "id": "g6-am-math-030",
+     "topic": "Inverse proportion graph",
+     "question": "ቀጥሎ የተሰጠው ሰንጠረዥ 'φ' እና 'ሸ' ኢ-ርቱዕ ወደረኛ መሆናቸውን ያሳያል። ከሚከተሉት ውስጥ የ'φ'ን እና የ'ሸ'ን ኢ-ርቱዕ ወደረኛነት የሚገልጸው ስርዓተ ውቅር የትኛው ነው? (ሰንጠረዥ: ሸ = 1, 2, 3, 4, 6, 12 እና φ = 12/ሸ = 12, 6, 4, 3, 2, 1)",
+     "options": [
+      "ግራፍ ኤ",
+      "ግራፍ ቢ",
+      "ግራፍ ሲ",
+      "ግራፍ ዲ"
+     ],
+     "answer": 0,
+     "explanation": "ደረጃ 1: ሰንጠረዡ φ = 12/ሸ ያሳያል፤ ይህ የተገላቢጦሽ (ኢ-ርቱዕ) ወደረኛነት ነው።\nደረጃ 2: ነጥቦቹ: (1, 12)፣ (2, 6)፣ (3, 4)፣ (4, 3)፣ (6, 2)፣ (12, 1) ናቸው።\nደረጃ 3: ሸ ሲጨምር φ ይቀንሳል፤ ግራፉ ወደ ታች የሚወርድ ኩርባ መሆን አለበት።\nደረጃ 4: ግራፍ ኤ እነዚህን ነጥቦች ያሟላል።\nመልስ: ግራፍ ኤ\nቢ የ U ቅርጽ ያለው ግራፍ ነው፤ ሲ ሸ ሲጨምር φ ይጨምራል፤ ዲ ደግሞ ኮረብታ ቅርጽ ያለው ነው። ሶስቱም ከሰንጠረዡ ጋር አይገጣጠሙም።",
+     "image": "assets/g6/math-q30.webp"
+    }
+   ]
+  },
+  {
+   "id": "g6-am-environmental-science-2018",
+   "level": "g6-amhara",
+   "subject": "environmental-science",
+   "title": "2018 E.C. Regional Examination",
+   "kind": "past-paper",
+   "year": 2018,
+   "source": "ANRSEB Grade 6 Environmental Science Regional Examination 2018 E.C.",
+   "answerSource": "reasoned",
+   "durationMinutes": 60,
+   "status": "published",
+   "questions": [
+    {
+     "id": "g6-am-envsci-001",
+     "topic": "Drugs",
+     "question": "ከሚከተሉት የአደንዛዥ ዕፅ ምድቦች ውስጥ ጫት በየትኛው ይካተታል?",
+     "options": [
+      "በአደንዛዥ ዕጾች ምድብ",
+      "በአነቃቂ ዕጾች ምድብ",
+      "በሚያቃገፍ ዕጾች ምድብ",
+      "በሀመም ገዳይ ዕጾች ምድብ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ B ነው። ጫት ካቲን የተባለ ንጥረ ነገር ስላለው የነርቭ ሥርዓትን ያነቃቃል፤ ስለዚህ በአነቃቂ ዕጾች ምድብ ይመደባል። ተጠቃሚውን እንቅልፍ አልባ፣ ተነሳሽና ተደናጋጭ ያደርገዋል። ሀመም ገዳይ ዕጾች ህመምን የሚያስታግሱ ሲሆን ጫት ግን ህመምን ለማስታገስ አይጠቅምም፤ ስለዚህ D ትክክል አይደለም።"
+    },
+    {
+     "id": "g6-am-envsci-002",
+     "topic": "Drought",
+     "question": "በተደጋጋሚ ለድርቅ ተጋላጭ የሆኑት የኢትዮጵያ አካባቢዎች የትኞቹ ናቸው?",
+     "options": [
+      "የሰሜንና የሰሜን ምዕራብ ከፍተኛ ቦታዎች",
+      "የደቡብ ምዕራብ ኢትዮጵያ አብዛኛው ክፍል",
+      "የምስራቅና ደቡብ ምስራቅ ዝቅተኛ ቦታዎች",
+      "የመካከለኛው ኢትዮጵያ አብዛኛው ክፍል"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ C ነው። የምስራቅና የደቡብ ምስራቅ ዝቅተኛ ቦታዎች (ለምሳሌ ኦጋዴን፣ ቦረና፣ አፋር) ዝናብ አነስተኛና ያልተረጋጋ ስለሆነ በተደጋጋሚ ለድርቅ ይጋለጣሉ። እነዚህ አካባቢዎች ሞቃትና ደረቅ የአየር ንብረት አላቸው። የደቡብ ምዕራብ ኢትዮጵያ ብዙ ዝናብ የሚያገኝ ስለሆነ B ትክክል አይደለም።"
+    },
+    {
+     "id": "g6-am-envsci-003",
+     "topic": "Animals",
+     "question": "ከሚከተሉት አማራጮች ውስጥ ኢ-ደንደሴ (አከርካሪ የሌላቸው) እንሰሳትን ብቻ የያዘው የትኛው ነው?",
+     "options": [
+      "ጉንዳን፤ አንበጣ፤ በረሮ",
+      "ሸረሪት፤ አሳ፤ ጉርጥ",
+      "እንቁራሪት፤ ኤሊ፤ አዞ",
+      "ቀንድ አውጣ፤ እንሽላሊት"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ A ነው። ጉንዳን፣ አንበጣና በረሮ ነፍሳት ሲሆኑ ሁሉም የጀርባ አጥንት (አከርካሪ) የሌላቸው እንሰሳት ናቸው። በሌሎቹ አማራጮች ውስጥ አሳ፣ እንቁራሪት፣ ኤሊ፣ አዞና እንሽላሊት የጀርባ አጥንት ያላቸው እንሰሳት ተቀላቅለዋል። ስለዚህ B፣ C እና D ኢ-ደንደሴ እንሰሳትን ብቻ አልያዙም።"
+    },
+    {
+     "id": "g6-am-envsci-004",
+     "topic": "Human body",
+     "question": "ከሚከተሉት ውስጥ የወፍራም አንጀት ጠቀሜታን በትክክል የሚያብራራው የትኛው ነው?",
+     "options": [
+      "የንጥረ ምግቦች እንሸርሸርት ሂደት የሚጠናቀቅበት ክፍል ነው",
+      "ሃይድሮክሎሪክ አሲድ እና ኢንዛይሞች የሚመረቱበት ክፍል ነው",
+      "የተፈጩ ምግቦች የምጠት ሂደት የሚከናወንበት ክፍል ነው",
+      "አይነ ምድር ለመስራት የሚያገለግል የእንሸርሸርት ክፍል ነው"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ D ነው። ወፍራም አንጀት ውሃንና ጨዎችን ከቀሪው ምግብ ወስዶ ቆሻሻውን ወደ ጠጣር ሰገራ (አይነ ምድር) ይቀይራል። ሰገራውም በፊንጢጣ በኩል ከሰውነት ይወጣል። የተፈጩ ንጥረ ምግቦች በብዛት የሚመጠጡት በቀጭን አንጀት ስለሆነ C ትክክል አይደለም፤ አሲድና ኢንዛይሞች የሚመረቱት ደግሞ በጨጓራና በሌሎች የምግብ መፍጫ እጢዎች ነው።"
+    },
+    {
+     "id": "g6-am-envsci-005",
+     "topic": "Human body",
+     "question": "ከሚከተሉት ውስጥ የደም መላሽ ቧንቧዎችን ተግባር በትክክል የሚያብራራው የትኛው ነው?",
+     "options": [
+      "በኦክስጅን ያልበለጸገ ደም ከአካል ክፍሎች ወደ ልብ ያንጓጓሉ",
+      "ንጥረ ምግቦችን እና ኦክስጅንን ወደ ሕዋሳት ያደርሳሉ",
+      "በኦክስጅን የበለጸገ ደም ከልብ ወደ አካል ክፍሎች ያደርሳሉ",
+      "የተለያዩ ጽዳጆችን ወደ ሰውነት ሕዋሳት ያንጓጓሉ"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ A ነው። የደም መላሽ ቧንቧዎች (ደም መላሾች) ኦክስጅን የቀነሰውን ደም ከሰውነት ክፍሎች ሰብስበው ወደ ልብ ይመልሳሉ። ደም ከልብ ወደ አካል ክፍሎች የሚወስዱት ደም ወሳጅ ቧንቧዎች ናቸው፤ ስለዚህ C የደም ወሳጅ ቧንቧዎች ተግባር ነው። ንጥረ ምግብና ኦክስጅንን ወደ ሕዋሳት የሚያደርሱት ደግሞ ደም ስሮች ወይም ካፒላሪዎች ናቸው።"
+    },
+    {
+     "id": "g6-am-envsci-006",
+     "topic": "Matter",
+     "question": "ከሚከተሉት ውስጥ የቁስ አካል ምንነትን በትክክል የሚገልፀው የትኛው ነው?",
+     "options": [
+      "ቁሶች እርስ በርሳቸው እንዲሳሳቡ የሚያደርግ ሃይል ነው",
+      "ማንኛውም ቦታ የሚይዝ እና መጠነቁስ ያለው ነገር ነው",
+      "በቁሶች ውስጥ የሚተላለፍ የብርሃን አይነት ነው",
+      "ቅንጣቢቶች ከቦታ ቦታ እንዲንቀሳቀሱ የሚያደርግ ሃይል ነው"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ B ነው። ቁስ አካል ማለት ቦታ የሚይዝና መጠነቁስ (ክብደት) ያለው ማንኛውም ነገር ነው፤ ለምሳሌ ውሃ፣ አየርና ድንጋይ። ሃይል ቦታ አይይዝም፣ መጠነቁስም የለውም፤ ስለዚህ A እና D ሃይልን የሚገልጹ እንጂ ቁስን አይደሉም። ብርሃንም የሃይል ዓይነት ስለሆነ C ትክክል አይደለም።"
+    },
+    {
+     "id": "g6-am-envsci-007",
+     "topic": "Matter",
+     "question": "ከሚከተሉት ውስጥ የቁስ አካል ባህርይ ከምሳሌው ጋር በትክክል የተዛመደው በየትኛው ነው?",
+     "options": [
+      "ኬሚካዊ ባህርይ → እፍግታ",
+      "ኬሚካዊ ባህርይ → ሚሚነት",
+      "አካላዊ ባህርይ → ይዘት",
+      "አካላዊ ባህርይ → ዝገት"
+     ],
+     "answer": 1,
+     "explanation": "መልሱ B ነው (የአንድ ቃል ንባብ ግልጽ ስላልሆነ መምህር ሊያረጋግጥ ይገባል)። እፍግታ ንጥረ ነገሩን ሳይለውጥ የሚለካ አካላዊ ባህርይ ስለሆነ ከኬሚካዊ ባህርይ ጋር የተጣመረው A ስህተት ነው። ዝገት አዲስ ንጥረ ነገር የሚፈጥር ኬሚካዊ ለውጥ ስለሆነ ከአካላዊ ባህርይ ጋር የተጣመረው D ስህተት ነው። ስለዚህ ኬሚካዊ ባህርይን በትክክል የሚያመለክተው የተቀረው አማራጭ B ነው።"
+    },
+    {
+     "id": "g6-am-envsci-008",
+     "topic": "Matter",
+     "question": "ከሚከተሉት ውስጥ የቁስ አካል አካላዊ ለውጥን በትክክል የሚያሳየው የትኛው ነው?",
+     "options": [
+      "በአየር እና እርጥበት ንክኪ አማካኝነት ብረትን ማዛግ",
+      "ወተት ረዘም ላለ ጊዜ በማቆየት እንዲኮመጥጥ ማድረግ",
+      "ንጽህናን ለመጠበቅ የቀሸሹ ወረቀቶችን ሰብስቦ ማቃጠል",
+      "የጠጠር መንገድ ለመስራት ትልልቅ ድንጋይን መፍጨት"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ D ነው። ድንጋይን መፍጨት የድንጋዩን መጠንና ቅርጽ ብቻ ይቀይራል እንጂ አዲስ ንጥረ ነገር አይፈጥርም፤ ስለዚህ አካላዊ ለውጥ ነው። ብረት ማዛግ፣ ወተት መኮምጠጥና ወረቀት ማቃጠል ግን አዲስ ንጥረ ነገሮችን የሚፈጥሩ ኬሚካዊ ለውጦች ናቸው፤ ስለዚህ A፣ B እና C ስህተት ናቸው።"
+    },
+    {
+     "id": "g6-am-envsci-009",
+     "topic": "Climate",
+     "question": "ከሚከተሉት ውስጥ የአየር ንብረት አባላት ከምንላቸው መካከል የሚካተተው የትኛው ነው?",
+     "options": [
+      "የአየር ርጥበት",
+      "የኬክሮስ ልዩነት",
+      "የቦታው ከፍታ",
+      "የኬንትሮስ ልዩነት"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ A ነው። የአየር ንብረት አባላት የሙቀት መጠን፣ ዝናብ፣ የአየር ርጥበት፣ ግፊትና ንፋስ ናቸው፤ እነሱም የሚለኩ ናቸው። የኬክሮስ፣ የኬንትሮስና የቦታ ከፍታ ልዩነቶች ግን የአየር ንብረት አባላትን የሚወስኑ ሁኔታዎች (ተጽእኖ ፈጣሪዎች) ናቸው። ስለዚህ B፣ C እና D የአየር ንብረት አባላት አይደሉም።"
+    },
+    {
+     "id": "g6-am-envsci-010",
+     "topic": "Rivers of Ethiopia",
+     "question": "በኢትዮጵያ ውስጥ ከሚገኙ ወንዞች መካከል በደቡብ ምስራቅ ተፋሰስ ስር የሚካተተው የትኛው ነው?",
+     "options": [
+      "ኦሞ",
+      "አባይ",
+      "ባሮ",
+      "ዋቢ ሸበሌ"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ D ነው። ዋቢ ሸበሌ ከኢትዮጵያ ደጋማ ቦታዎች ተነስቶ ወደ ደቡብ ምስራቅ በመፍሰስ ወደ ሶማሊያ የሚደርስ ወንዝ ሲሆን የደቡብ ምስራቅ ተፋሰስ አካል ነው። አባይ በአባይ ተፋሰስ፣ ባሮ በባሮ-አኮቦ (ከአባይ ስርዓት ጋር) እንዲሁም ኦሞ በሩዶልፍ (ቱርካና) ሐይቅ ተፋሰስ ስር ይካተታሉ። ስለዚህ A፣ B እና C በደቡብ ምስራቅ ተፋሰስ ውስጥ አይደሉም።"
+    },
+    {
+     "id": "g6-am-envsci-011",
+     "topic": "Minerals of Ethiopia",
+     "question": "በኢትዮጵያ ትክክለኛውን የማዕድናትና በብዛት የሚገኙበትን ቦታ ጥምረት የሚያሳየው የትኛው ነው?",
+     "options": [
+      "የተፈጥሮ ጋዝ - አዶላ",
+      "ኦፓል - ሰሜን ወሎ",
+      "ፕላቲኒየም - አፋር ደናክል",
+      "ወርቅ - ኦጋዴን"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ B ነው። ኦፓል የከበረ ድንጋይ በሰሜን ወሎ (ወጌል ጠና) አካባቢ በብዛት ይገኛል። የተፈጥሮ ጋዝ በኦጋዴን (ካሉብና ሒላላ) ሲገኝ አዶላ በወርቅ ማዕድኑ ይታወቃል፤ ስለዚህ A ስህተት ነው። ፕላቲኒየም በወለጋ (ዮቡዶ) አካባቢ ሲገኝ በአፋር ደናክል ደግሞ ፖታሽና ጨው ይገኛል፤ ወርቅም በዋናነት በኦጋዴን ሳይሆን በአዶላ፣ ሌጌምቲና ቤንሻንጉል አካባቢ ነው።"
+    },
+    {
+     "id": "g6-am-envsci-012",
+     "topic": "Culture",
+     "question": "በኢትዮጵያ ከሚገኙ የባህል አባላት መካከል መንፈሳዊ ባህል የሆነው የትኛው ነው?",
+     "options": [
+      "የብሔረሰቦች አልባሳት",
+      "የጉራጌ ቤት አሰራር",
+      "የጥምቀት በዓል አከባበር",
+      "የኮንሶ እርከን አሰራር"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ C ነው። የጥምቀት በዓል ሃይማኖታዊ እምነትና አምልኮን የሚገልጽ ስለሆነ መንፈሳዊ ባህል ነው። አልባሳት፣ የቤት አሰራርና የእርከን አሰራር በእጅ የሚዳሰሱ ቁሳዊ ባህሎች ናቸው። ስለዚህ A፣ B እና D መንፈሳዊ ባህል አይደሉም።"
+    },
+    {
+     "id": "g6-am-envsci-013",
+     "topic": "Heritage",
+     "question": "ከሚከተሉት የኢትዮጵያ ባህላዊ ቅርሶች መካከል በማይዳሰሱ ቅርሶች ስር የሚመደበው የትኛው ነው?",
+     "options": [
+      "የሸህ ሁሴን መስጊድ",
+      "የአክሱም ሀውልቶች",
+      "የአገው ፈረስ ጉግስ ባህላዊ ጨዋታ",
+      "የላልይበላ ውቅር አብያተ ክርስቲያናት"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ C ነው። የአገው ፈረስ ጉግስ ባህላዊ ጨዋታ በእጅ የማይዳሰስ፣ ከትውልድ ወደ ትውልድ የሚተላለፍ ባህላዊ ጨዋታና ልማድ ስለሆነ የማይዳሰስ ቅርስ ነው። መስጊዱ፣ የአክሱም ሀውልቶችና የላልይበላ አብያተ ክርስቲያናት ግን በእጅ የሚዳሰሱ ቁሳዊ ቅርሶች ናቸው። ስለዚህ A፣ B እና D ስህተት ናቸው።"
+    },
+    {
+     "id": "g6-am-envsci-014",
+     "topic": "Industry",
+     "question": "በኢትዮጵያ ለዘመናዊ ኢንዱስትሪዎች መስፋፋት እንቅፋት ከሆኑት ውስጥ የማይመደበው የትኛው ነው?",
+     "options": [
+      "የህዝብ ቁጥር ማነስ",
+      "የካፒታል እጥረት",
+      "የመሰረተ ልማት እጥረት",
+      "የኢንዱስትሪዎች ደካማ ትስስር"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ A ነው። ኢትዮጵያ ብዙ ህዝብ ያላት ሀገር ስለሆነ ለኢንዱስትሪ የሚሆን የሰው ሀይልና የገበያ እጥረት የለባትም፤ ስለዚህ የህዝብ ቁጥር ማነስ እንቅፋት አይደለም። የካፒታል፣ የመሰረተ ልማት (መንገድ፣ ኤሌክትሪክ) እጥረትና የኢንዱስትሪዎች ደካማ ትስስር ግን የኢንዱስትሪ እድገትን የሚገቱ እውነተኛ እንቅፋቶች ናቸው። ስለዚህ B፣ C እና D እንቅፋቶች ናቸው።"
+    },
+    {
+     "id": "g6-am-envsci-015",
+     "topic": "Maps",
+     "question": "የኢትዮጵያ ፍጹማዊ መገኛ ከ 3° ሰሜን እስከ 15° ሰሜን እና ከ 33° ምስራቅ እስከ 48° ምስራቅ መሆኑ ይታወቃል። በዚህ መረጃ መሰረት የኢትዮጵያን ሰሜናዊ ጫፍ የሚያመለክተው የዲግሪ ልኬት የትኛው ነው?",
+     "options": [
+      "3° ሰሜን",
+      "15° ሰሜን",
+      "33° ምስራቅ",
+      "48° ምስራቅ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ B ነው። ሰሜናዊ ጫፍ የሚለካው በኬክሮስ ሲሆን ከምድር ወገብ በስተሰሜን ርቆ የሚገኘው 15° ሰሜን ነው። 3° ሰሜን የደቡባዊ ጫፍን ያመለክታል፤ ስለዚህ A ስህተት ነው። 33° እና 48° ምስራቅ ደግሞ የኬንትሮስ ልኬቶች ሲሆኑ ምዕራባዊና ምስራቃዊ ጫፎችን ያሳያሉ።"
+    },
+    {
+     "id": "g6-am-envsci-016",
+     "topic": "Maps",
+     "question": "ከሚከተሉት አማራጮች ውስጥ የኬክሮስና ኬንትሮስ አንግሎች ጠቀሜታ የሆነው የትኛው ነው?",
+     "options": [
+      "የቦታዎችን አንጻራዊ መገኛ ለማመላከት",
+      "የቦታዎችን ከፍታ ለመለካት",
+      "የቦታዎችን ስፋት ለመለካት",
+      "የቦታዎችን ፍጹማዊ መገኛ ለመግለጽ"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ D ነው። የኬክሮስና የኬንትሮስ መጋጠሚያዎች አንድን ቦታ በምድር ላይ በትክክል በዲግሪ ስለሚወስኑ ፍጹማዊ መገኛውን ይገልጻሉ። አንጻራዊ መገኛ ማለት ቦታን ከሌላ ቦታ ጋር በማነጻጸር (ለምሳሌ ከኬንያ በስተሰሜን) መግለጽ ስለሆነ A ስህተት ነው። ከፍታና ስፋት የሚለኩት በሌሎች ዘዴዎች ስለሆነ B እና C ትክክል አይደሉም።"
+    },
+    {
+     "id": "g6-am-envsci-017",
+     "topic": "Maps",
+     "question": "ጎግል መሬትን (Google Earth) ከጎግል ካርታ የተለየ የሚያደርገው የትኛው ነው?",
+     "options": [
+      "ቦታዎችን ለመፈለግ የሚያስችል መሆኑ",
+      "የዲጅታል መተግበሪያ መሆኑ",
+      "ለመኪና ጉዞ በስፋት ጥቅም ላይ መዋሉ",
+      "ኢንተርኔት በማይኖርበት ሁኔታ መስራት መቻሉ"
+     ],
+     "answer": 3,
+     "explanation": "የተመረጠው መልስ D ነው። ጎግል መሬት የወረዱ የሳተላይት ምስሎችን በመጠቀም ኢንተርኔት በሌለበትም ጊዜ ሊሰራ ይችላል። ቦታዎችን መፈለግና የዲጂታል መተግበሪያ መሆን ደግሞ ሁለቱም ፕሮግራሞች የሚጋሩት ባህርይ ስለሆነ A እና B አይለዩዋቸውም። ለመኪና ጉዞ በስፋት የሚጠቀሙት ጎግል ካርታን ስለሆነ C የጎግል ካርታ ባህርይ ነው። (ጥያቄው አሻሚ ስለሆነ መምህር ሊያረጋግጥ ይገባል።)"
+    },
+    {
+     "id": "g6-am-envsci-018",
+     "topic": "Plants",
+     "question": "ከሚከተሉት ውስጥ የግልብ ዘር እፅዋት ባህሪያትን የያዘው የትኛው ነው?",
+     "options": [
+      "በአይን የሚታይ ዘር አላቸው",
+      "ፍሬ የሚሰጥ አበባ አላቸው",
+      "ሰፋፊ ቅጠሎች አላቸው",
+      "ለምግብነት የሚያገለግሉ ናቸው"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ A ነው። ግልብ (ክፍት) ዘር እፅዋት ዘራቸው በፍሬ ያልተሸፈነ ስለሆነ በአይን በግልጽ ይታያል፤ ለምሳሌ ጥዕ እና ጽድ። ፍሬ የሚሰጥ አበባና ሰፋፊ ቅጠሎች የተሸፈነ ዘር ባላቸው አበባማ እፅዋት ባህርይ ስለሆነ B እና C ስህተት ናቸው። ለምግብነት መዋል ደግሞ የሁሉም ግልብ ዘር እፅዋት መለያ አይደለም፤ ስለዚህ D ትክክል አይደለም።"
+    },
+    {
+     "id": "g6-am-envsci-019",
+     "topic": "Animals",
+     "question": "ከሚከተሉት ውስጥ በእንቁራሪት እና ኤሊ መካከል የጋራ ባህርይ የሆነው የትኛው ነው?",
+     "options": [
+      "በውሃ ውስጥ ሲኖሩ ሁለቱም በስንጥባቸው መተንፈሳቸው",
+      "ደመ ቀዝቃዛ እና እንቁላል ጣይ እንሰሳት መሆናቸው",
+      "ውስጣዊ ፅንስት በማካሄድ መራባት መቻላቸው",
+      "አካላቸው ደረቅ እና በጠንካራ ሽፋን የተሸፈነ መሆን"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ B ነው። እንቁራሪት (አምፊቢያን) እና ኤሊ (ተሳቢ) ሁለቱም የሰውነታቸው ሙቀት እንደ አካባቢው የሚለዋወጥ ደመ ቀዝቃዛ ሲሆኑ እንቁላል በመጣል ይራባሉ። እንቁራሪት ቆዳዋ እርጥብ ስለሆነ D ለእሷ ስህተት ነው፤ በተጨማሪም ጉሮሮ (ስንጥብ) የሚጠቀሙት አሳዎች ናቸው። ኤሊ ሳንባ ስለሚጠቀም A ትክክል አይደለም።"
+    },
+    {
+     "id": "g6-am-envsci-020",
+     "topic": "Reproduction",
+     "question": "ከሚከተሉት ውስጥ የቆለጥ ተግባርን በትክክል የሚገልፀው ሀሳብ የትኛው?",
+     "options": [
+      "የፅንስ እድገት የሚካሄድበት መራቢያ ክፍል ነው",
+      "እንቁላል የሚያድግበት መራቢያ ክፍል ነው",
+      "ነባዘሮች የሚመረቱበት መራቢያ ክፍል ነው",
+      "ነባዘር እና ሽንት የሚያልፍበት መራቢያ ክፍል ነው"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ C ነው። ቆለጥ የወንድ መራቢያ አካል ሲሆን የወንድ የዘር ህዋሶችን (ስፐርም) ያመርታል። የፅንስ እድገት የሚካሄደው በሴት ማህጸን ውስጥ ስለሆነ A የማህጸን ተግባር ነው። እንቁላል የሚያድገው በሴት እንቁላል ማፍሪያ (ኦቫሪ) ውስጥ ስለሆነ B ስህተት ነው፤ D ደግሞ የሽንት ቱቦን ይገልጻል።"
+    },
+    {
+     "id": "g6-am-envsci-021",
+     "topic": "Puberty",
+     "question": "ከሚከተሉት በጉርምስና ወቅት የሚከሰቱ አካላዊ ለውጦች መካከል በወንዶች ላይ ብቻ የሚታየው የትኛው ነው?",
+     "options": [
+      "በብልት እና ብብት አካባቢ ፀጉር ማብቀል",
+      "የድምፅ መጎርነን እና የትከሻ መስፋት",
+      "የዳሌ መስፋት እና ጡት ማጎጥጎጥ",
+      "የድምፅ መቅጠን እና የጡንቻ መፈርጠም"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ B ነው። በወንዶች ጉርምስና ድምፅ ይጎረንናል (ይወፍራል)፤ ትከሻም ይሰፋል፤ እነዚህ የወንዶች ብቻ ለውጦች ናቸው። በብልትና በብብት አካባቢ ፀጉር ማብቀል በወንዶችም በሴቶችም ስለሚከሰት A ስህተት ነው። የዳሌ መስፋትና ጡት ማጎጥጎጥ የሴቶች ለውጦች ሲሆኑ የድምፅ መቅጠን ደግሞ የሴቶች ባህርይ ስለሆነ C እና D ትክክል አይደሉም።"
+    },
+    {
+     "id": "g6-am-envsci-022",
+     "topic": "Elements",
+     "question": "ከሚከተሉት ውስጥ ኮረንቲ ማስተላለፍ የሚችሉ ንጥረ ነገሮችን ብቻ አጣምሮ የያዘው የትኛው ነው?",
+     "options": [
+      "ባዚቃ፤ ብሮሚን፤ ድኝ",
+      "ኦክስጅን፤ ድኝ፤ አዮዲን",
+      "ብረት፤ መዳብ፤ ወርቅ",
+      "ብረት፤ ፍስፍረስ፤ ካርቦን"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ C ነው። ብረት፣ መዳብና ወርቅ ብረታ ብረቶች ስለሆኑ ኤሌክትሪክን በደንብ ያስተላልፋሉ። ኦክስጅን፣ ድኝ፣ አዮዲን፣ ብሮሚንና ፎስፈረስ ብረት ያልሆኑ ንጥረ ነገሮች ሲሆኑ ኤሌክትሪክን አያስተላልፉም፤ ስለዚህ A እና B ስህተት ናቸው። በD ውስጥ ብረት ቢኖርም ፎስፈረስና ካርቦን ብረት ያልሆኑ ስለሆኑ ጥምረቱ ትክክል አይደለም።"
+    },
+    {
+     "id": "g6-am-envsci-023",
+     "topic": "Acids and bases",
+     "question": "ከሚከተሉት ውስጥ የጨው አፈጣጠርን በትክክል የሚገልፀው ሀሳብ የትኛው?",
+     "options": [
+      "አሲድ ከውሃ ጋር ሲዋሃድ የሚፈጠር ውህድ ነው",
+      "አንድ ቤዝ ከሌላ ቤዝ ጋር ሲዋሃድ የሚፈጠር ውህድ ነው",
+      "አክሳይድ ከውሃ ጋር ሲዋሃድ የሚፈጠር ውህድ ነው",
+      "አሲድ ከቤዝ ጋር ሲዋሃድ የሚፈጠር ውህድ ነው"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ D ነው። አሲድ ከቤዝ (መሠረት) ጋር ሲቀላቀል ገለልተኛ ምላሽ (neutralization) ተከስቶ ጨውና ውሃ ይፈጠራሉ። ለምሳሌ ሃይድሮክሎሪክ አሲድና ሶዲየም ሃይድሮክሳይድ ሶዲየም ክሎራይድ (የገበታ ጨው) ይሰጣሉ። አሲድ ከውሃ ጋር ሲዋሃድ የአሲድ መፍትሄ እንጂ ጨው አይፈጠርም፤ ስለዚህ A ስህተት ነው። ሁለት ቤዝ ቢዋሃዱም ጨው አይፈጥሩም፤ ስለዚህ B ስህተት ነው።"
+    },
+    {
+     "id": "g6-am-envsci-024",
+     "topic": "Mixtures",
+     "question": "ከሚከተሉት ውስጥ የድብልቆችን ባህርይ በትክክል የሚያብራራው የትኛው ነው?",
+     "options": [
+      "ድብልቆች ስብጥራቸው ተለዋዋጭ ነው",
+      "ድብልቆች በጥጥር ሁኔታ ብቻ ይገኛሉ",
+      "ድብልቆች በአካላዊ ዘዴ ወደ ምንዝሮቻቸው አይለዩም",
+      "ድብልቆችን ወደ ምንዝሮቻቸው መቀልበስ አይቻልም"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ A ነው። በድብልቅ ውስጥ ያሉ ንጥረ ነገሮች መጠን ሊለያይ ይችላል፤ ለምሳሌ ጨው በውሃ ውስጥ ሊበዛ ወይም ሊያንስ ይችላል። ድብልቆች በአካላዊ ዘዴዎች (በማጣራት፣ በመትነን፣ በማግኔት) ወደ ንጥረ ነገሮቻቸው ሊለዩ ይችላሉ፤ ስለዚህ C እና D ስህተት ናቸው። ድብልቆች በጠጣር፣ በፈሳሽና በጋዝ ሁኔታ ሁሉ ስለሚገኙ B ትክክል አይደለም።"
+    },
+    {
+     "id": "g6-am-envsci-025",
+     "topic": "Heat",
+     "question": "የድስትና የመጥበሻ እጀታዎች አብዛኛውን ጊዜ በፕላስቲክ የሚሸፈኑት ለምንድነው?",
+     "options": [
+      "ፕላስቲክ የሙቀት አስተላላፊ ስለሆነ",
+      "ፕላስቲክ ከባድ ስለሆነ",
+      "ፕላስቲክ አንፀባራቂ ስላልሆነ",
+      "ፕላስቲክ የሙቀት አስተላላፊ ስላልሆነ"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ D ነው። ፕላስቲክ ሙቀትን በደንብ የማያስተላልፍ (ሙቀት ኢ-አስተላላፊ) ስለሆነ እጅ ሳይቃጠል እቃውን ለመያዝ ያስችላል። A ተቃራኒውን ስለሚል ስህተት ነው፤ ብረት ነው ሙቀትን የሚያስተላልፈው። የፕላስቲክ ክብደት ወይም አንፀባራቂነት ከሙቀት ጥበቃ ጋር ግንኙነት ስለሌላቸው B እና C ትክክል አይደሉም።"
+    },
+    {
+     "id": "g6-am-envsci-026",
+     "topic": "Magnetism",
+     "question": "አንድ ተማሪ የኤሌክትሮማግኔቱን ማብሪያ ማጥፊያ ሲዘጋ ሚስማሩ ትናንሽ አስፒሮችን መሳብ ቻለ። ማብሪያ ማጥፊያው ቢከፈት ከሚከተሉት ውስጥ የትኛው ክስተት ይፈጠራል?",
+     "options": [
+      "ሚስማሩ አስፒሮችን መሳቡን ያቆማል",
+      "ሚስማሩ ከበፊቱ በበለጠ አስፒሮችን ይስባል",
+      "ሚስማሩ ይቀልጣል",
+      "ባትሪው የበለጠ ጠንካራ ይሆናል"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ A ነው። ኤሌክትሮማግኔት የሚሰራው ኤሌክትሪክ በሽቦው ውስጥ ሲያልፍ ብቻ ነው፤ ማብሪያው ሲከፈት ኤሌክትሪክ ስለሚቋረጥ ማግኔትነቱ ይጠፋል። ስለዚህ ሚስማሩ አስፒሮችን መሳብ ያቆማል። ማብሪያ መክፈት የመሳብ ሀይልን ስለማይጨምር B ስህተት ነው፤ ሚስማሩም አይቀልጥም፤ ባትሪውም አይጠነክርም።"
+    },
+    {
+     "id": "g6-am-envsci-027",
+     "topic": "Water resources",
+     "question": "በምስራቅ አፍሪካ ዝቅተኛ የውሃ ሃብት እንክብካቤ መኖርን የሚጠቁም የውሃ ሃብት አጠቃቀም ችግር የትኛው ነው?",
+     "options": [
+      "በውሃ አካላት ላይ ዝቅተኛ የሆነ የደለል ክምችት መኖር",
+      "ከኬሚካሎች የፀዳ የግብርና አሰራርን በስፋት መከተል",
+      "የተለያዩ በካይ ኬሚካሎችን ወደ ውሃማ አካላት መልቀቅ",
+      "ሀገራት ድንበር አቋራጭ ወንዞችን ተስማምተው መጠቀም"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ C ነው። በካይ ኬሚካሎችን ወደ ወንዞችና ሐይቆች መልቀቅ ውሃን ስለሚበክል የውሃ ሃብት በበቂ ሁኔታ እንዳልተጠበቀ ያሳያል። ከኬሚካል የፀዳ ግብርናና ድንበር አቋራጭ ወንዞችን በስምምነት መጠቀም መልካም አሰራሮች ስለሆኑ B እና D ችግሮች አይደሉም። ዝቅተኛ የደለል ክምችትም ጥሩ ምልክት እንጂ ችግር አይደለም፤ ስለዚህ A ስህተት ነው።"
+    },
+    {
+     "id": "g6-am-envsci-028",
+     "topic": "East Africa minerals",
+     "question": "ምስራቅ አፍሪካዊቷ ሀገር ኬኒያ የምትታወቅባቸው ዋና ዋና ማዕድናት የትኞቹ ናቸው?",
+     "options": [
+      "ቆርቆሮ፤ ታንታለም እና ታንግስተን",
+      "ፍሉርስፓር፤ ሶዳ አሽ እና ካአሊን",
+      "ፑሚስ እና ፑሚሳይት",
+      "መዳብ፤ ወርቅና ፖታሽ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ B ነው። ኬንያ በማጋዲ ሐይቅ የሶዳ አሽ ክምችቷና በፍሉርስፓር እንዲሁም በካኦሊን (ሸክላ) ማዕድን ትታወቃለች። ቆርቆሮ፣ ታንታለምና ታንግስተን በዋናነት ከሩዋንዳና ከዲ.አር. ኮንጎ የሚገኙ ማዕድናት ስለሆኑ A ስህተት ነው። ፖታሽ በዋናነት የኢትዮጵያ ዳናክል መገለጫ ስለሆነ D ትክክል አይደለም።"
+    },
+    {
+     "id": "g6-am-envsci-029",
+     "topic": "East Africa vegetation",
+     "question": "በሶማሊያ ጠረፋማ አካባቢዎች እና በኢትዮጵያ አፋር ክልል የሚበቅሉ የዕፅዋት አይነቶች የትኞቹ ናቸው?",
+     "options": [
+      "የከፍተኛ ቦታ ዕፅዋት",
+      "የሳር ምድር ዕፅዋት",
+      "የረግረጋማ አካባቢ ዕፅዋት",
+      "የበርሀማ አካባቢ ዕፅዋት"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ D ነው። የሶማሊያ ጠረፍና የአፋር ክልል ሞቃትና በጣም ዝናብ አልባ ስለሆኑ እዚያ የሚበቅሉት ድርቅን የሚቋቋሙ የበርሀ እፅዋት (እሾሃማ ቁጥቋጦዎች) ናቸው። የከፍተኛ ቦታ እፅዋት በቀዝቃዛ ደጋ ይበቅላሉ፤ ስለዚህ A ስህተት ነው። ረግረጋማ እፅዋት ብዙ ውሃ በሚኖርበት ቦታ የሚበቅሉ ስለሆኑ C ትክክል አይደለም።"
+    },
+    {
+     "id": "g6-am-envsci-030",
+     "topic": "East Africa ecosystems",
+     "question": "ሳር እና ስጋ በል እንሰሳት በአንድነት ከተፈጥሮ ዕፅዋት ጋር ተደጋግፈው በብዛት የሚኖሩበት የምስራቅ አፍሪካ ስነ ምህዳር የትኛው ነው?",
+     "options": [
+      "በሞቃት አካባቢዎችና የሳር ምድሮች",
+      "በበርሀማና ከፊል በርሃማ ስነ ምህዳር",
+      "በከፍተኛ ስፍራ ደኖች",
+      "በህንድ ውቅያኖስ ጠረፋማ አካባቢዎች"
+     ],
+     "answer": 0,
+     "explanation": "የተመረጠው መልስ A ነው። የምስራቅ አፍሪካ ሳቫና ሳር ምድሮች (ለምሳሌ ሰሬንጌቲ) ብዙ ሳር በል እንሰሳት (ዝሆን፣ አህያ ሜዳ) እና እነሱን የሚያድኑ ስጋ በል እንሰሳት (አንበሳ፣ ነብር) በአንድነት የሚኖሩባቸው ናቸው። በርሃዎች ዕፅዋትና እንሰሳት አነስተኛ ስለሆኑ B ስህተት ነው። በከፍተኛ ስፍራ ደኖች እንዲህ ያለ ብዙ ሳር በልና ስጋ በል በአንድነት አይኖሩም፤ ስለዚህ C ትክክል አይደለም።"
+    },
+    {
+     "id": "g6-am-envsci-031",
+     "topic": "Sustainable development",
+     "question": "በተባበሩት መንግስታት ድርጅት የአጀንዳ 2030 ዘላቂ ልማት ግቦች ዝርዝር ውስጥ የሚካተተው የትኛው ነው?",
+     "options": [
+      "በሀገራት መካከል ያለውን የእድገት ልዩነት ማስፋት",
+      "ኢታዳሽ የሀይል ምንጮችን በብዛት መጠቀም",
+      "የምግብ ዋስትናን በማረጋገጥ ርሃብን ማስወገድ",
+      "የኒኩሊየር የጦር መሳሪያን ለሁሉም ሀገሮች ማዳረስ"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ C ነው። ዘላቂ ልማት ግቦች ሁለተኛ ግብ 'ርሃብን ማስወገድ' ሲሆን የምግብ ዋስትናን ማረጋገጥን ያካትታል። ግቦቹ በሀገራት መካከል ያለውን ልዩነት ለመቀነስ እንጂ ለማስፋት አይደሉም፤ ስለዚህ A ስህተት ነው። የኑክሊየር የጦር መሳሪያ ማዳረስም ሰላምን ስለሚጻረር D ትክክል አይደለም። ለታዳሽ ሀይል ቅድሚያ ይሰጣል እንጂ ኢ-ታዳሽ ሀይልን በብዛት መጠቀም አይበረታታም፤ ስለዚህ B አይሆንም።"
+    },
+    {
+     "id": "g6-am-envsci-032",
+     "topic": "East Africa population",
+     "question": "ከሚከተሉት የምስራቅ አፍሪካ ሀገራት መካከል ዝቅተኛ የህዝብ ጥግግት የሚገኘው በየትኛው ነው?",
+     "options": [
+      "በብሩንዲ",
+      "በሶማሊያ",
+      "በኡጋንዳ",
+      "በኢትዮጵያ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ B ነው። ሶማሊያ ሰፊ ደረቅና በርሃማ መሬት ስላላት በአንድ ስኩየር ኪሎ ሜትር የሚኖረው ሰው ቁጥር ከአራቱ ሀገራት ዝቅተኛ ነው። ብሩንዲ ትንሽ ግዛት ሆና ብዙ ህዝብ ስላላት ከፍተኛ ጥግግት አላት፤ ስለዚህ A ስህተት ነው። ኡጋንዳና ኢትዮጵያም ለምለም ደጋ ስላላቸው ከሶማሊያ የበለጠ ጥግግት አላቸው፤ ስለዚህ C እና D ትክክል አይደሉም።"
+    },
+    {
+     "id": "g6-am-envsci-033",
+     "topic": "Heritage tourism",
+     "question": "ከቅርስ ሀብት ጋር በተያያዘ ኢትዮጵያ ከሌሎች የምስራቅ አፍሪካ ሀገሮች በምን ትለያለች?",
+     "options": [
+      "በሁሉም ክልሎቿ ተስማሚ የአየር ንብረት ያላት መሆኑ",
+      "ታሪክ ጠገብ የሆኑ ቅርሶች በብዛት ያላት መሆኗ",
+      "የዱር እንሰሳት ሀብቷ ከሌሎቹ እጅግ የበዛ መሆኑ",
+      "የውሃ ዳርቻ መዝናኛ ቦታዎች በብዛት ያላት መሆኗ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ B ነው። ኢትዮጵያ እንደ ላልይበላ፣ አክሱም፣ ፋሲል ግንብና ሐረር ጀጎል ያሉ ብዙ የዓለም ቅርሶችን በመያዝ ከሌሎች የምስራቅ አፍሪካ ሀገሮች ትለያለች። የዱር እንሰሳት ሀብት በኬንያና ታንዛኒያ የበለጠ ስለሚታወቅ C ስህተት ነው። የባህር ዳርቻ መዝናኛ የሌላት ወደብ አልባ ሀገር ስለሆነች D ትክክል አይደለም፤ ሁሉም ክልሎቿ ተመሳሳይ የአየር ንብረት ስለሌላቸው A ስህተት ነው።"
+    },
+    {
+     "id": "g6-am-envsci-034",
+     "topic": "East Africa economy",
+     "question": "ከሚከተሉት ውስጥ በምስራቅ አፍሪካ ሀገራት ለሚታየው የኢኮኖሚ እድገት ችግር ምክንያት የሆነው የትኛው ነው?",
+     "options": [
+      "የእርስ በርስ ጦርነት",
+      "ለእርሻ የሚውል መሬት ጥበት",
+      "ብዙ ምርቶችን ወደ ውጭ መላክ",
+      "የመሰረተ ልማት በበቂ መስፋፋት"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ A ነው። የእርስ በርስ ጦርነት ንብረትን ያወድማል፣ ሰዎችን ያፈናቅላል፣ ኢንቨስትመንትንም ይገታል፤ ስለዚህ የኢኮኖሚ እድገትን ይጎዳል። ብዙ ምርት ወደ ውጭ መላክና የመሰረተ ልማት መስፋፋት ለእድገት የሚረዱ በጎ ነገሮች ስለሆኑ C እና D ችግር አይደሉም። የምስራቅ አፍሪካ ሰፊ የእርሻ መሬት ስላለው B እንደ ዋና ምክንያት አይቆጠርም።"
+    },
+    {
+     "id": "g6-am-envsci-035",
+     "topic": "HIV/AIDS",
+     "question": "ኤችአይቪ / ኤድስ በምስራቅ አፍሪካ ሀገራት ማህበራዊና ኢኮኖሚያዊ ሁኔታ ላይ በምን መልኩ ተፅዕኖ ሊያደርስ ይችላል?",
+     "options": [
+      "አምራች የሰው ሀይል ቁጥርን በመጨመር",
+      "የመሬት ይዞታ መጠንን በማሳነስ",
+      "የዜጎችን የነፍስ ወከፍ ገቢ በመጨመር",
+      "የወላጅ አልባ ህፃናትን ቁጥር በመጨመር"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ D ነው። ኤችአይቪ/ኤድስ ብዙ ወላጆችን ስለሚገድል የወላጅ አልባ ህፃናት ቁጥር ይጨምራል። በሽታው አምራች የሰው ሀይልን ስለሚቀንስ A ስህተት ነው፤ የነፍስ ወከፍ ገቢንም ይቀንሳል እንጂ አይጨምርም፤ ስለዚህ C ስህተት ነው። የመሬት ይዞታ መጠን ከበሽታው ጋር ቀጥተኛ ግንኙነት የለውም፤ ስለዚህ B ትክክል አይደለም።"
+    },
+    {
+     "id": "g6-am-envsci-036",
+     "topic": "Motion",
+     "question": "አንድ ተማሪ ሦስት አካላት ሲንቀሳቀሱ አስተዋለ። 1. መኪና በቀጥታ መስመር ላይ ሲጓዝ፤ 2. ኳስ ቦታዋን ሳትለቅ ባለችበት ስትሽከረከር፤ 3. ዥዋዥዌ ላይ ያለ ልጅ ደጋግሞ ወደኋላና ወደፊት ሲንቀሳቀስ። ከሚከተሉት ውስጥ እንቅስቃሴዎቹ በትክክል የተመደቡት በየትኛው ነው?",
+     "options": [
+      "1-ሽክርክሪታዊ፤ 2-ርግብግበታዊ፤ 3-ቀጤ መስመራዊ",
+      "1-ሽክርክሪታዊ፤ 2-ቀጤ መስመራዊ፤ 3-ርግብግበታዊ",
+      "1-ቀጤ መስመራዊ፤ 2-ሽክርክሪታዊ፤ 3-ርግብግበታዊ",
+      "1-ርግብግበታዊ፤ 2-ሽክርክሪታዊ፤ 3-ቀጤ መስመራዊ"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ C ነው። በቀጥታ መስመር የሚሄድ መኪና ቀጤ መስመራዊ እንቅስቃሴ አለው፤ ባለበት የሚሽከረከር ኳስ ሽክርክሪታዊ ነው፤ ዥዋዥዌ ደግሞ ደጋግሞ ወደፊትና ወደኋላ ስለሚሄድ ርግብግበታዊ (ንዝረታዊ) እንቅስቃሴ ነው። በA እና B መኪናው ሽክርክሪታዊ ተብሎ ስለተመደበ ስህተት ናቸው፤ በD ደግሞ መኪናው ርግብግበታዊ ተብሏል፤ ይህም ስህተት ነው።"
+    },
+    {
+     "id": "g6-am-envsci-037",
+     "topic": "Maps",
+     "question": "ከዚህ በታች የቀረበው ካርታ ብሄራዊ ፍርግርግ ዘዴን ተጠቅሞ የቦታዎችን መገኛ ለማሳየት የቀረበ ነው። (በካርታው በግራ በኩል 50፣ 51፣ 52 እና ከታች 16፣ 17፣ 18 የሚሉ ቁጥሮች አሉ።) በካርታው መሰረት በፊደል \"ሀ\" የተወከለው ቦታ መገኛ (በጥቁር የተቀለመው) በባለ ስድስት አሀዝ ሲገለጽ ከሚከተሉት ውስጥ ትክክል የሆነው የትኛው ነው?",
+     "options": [
+      "184528",
+      "165502",
+      "512175",
+      "175512"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ D ነው። በፍርግርግ ማጣቀሻ መጀመሪያ አግድም ቁጥር (ምስራቅ) ከዚያም ቋሚ ቁጥር (ሰሜን) ይነበባል። ነጥቡ በ17 መስመር በስተቀኝ በ5 ትናንሽ ክፍሎች ርቀት ላይ ስለሆነ ምስራቃዊው ክፍል 175 ነው፤ ከ51 መስመር በላይ በ2 ክፍሎች ርቀት ላይ ስለሆነ ሰሜናዊው ክፍል 512 ነው፤ በጥምረት 175512 ይሆናል። C (512175) የሰሜኑን ቁጥር በመጀመሪያ ስለሚያስቀምጥ ስህተት ነው፤ A እና B ደግሞ ከካርታው ቁጥሮች ጋር አይመሳሰሉም።",
+     "image": "assets/g6/envsci-q37.webp"
+    },
+    {
+     "id": "g6-am-envsci-038",
+     "topic": "Maps",
+     "question": "በባህርዳር እና በወልዲያ መካከል ያለው ትክክለኛ የመሬት ላይ ርቀት 350 ኪ.ሜ. ቢሆንና በካርታ ላይ በሁለቱ ከተሞች መካከል ያለውን ርቀት በ10 ሴ.ሜ. ወክለን ብናቀርበው፤ የካርታው መስፈርት ስንት ይሆናል?",
+     "options": [
+      "1 ሴ.ሜ. ለ 35 ሴ.ሜ",
+      "1 ሴ.ሜ. ለ 350 ኪ.ሜ",
+      "1 ሴ.ሜ. ለ 35 ኪ.ሜ",
+      "1 ሴ.ሜ. ለ 350 ሴ.ሜ"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ C ነው። የካርታ መስፈርት የካርታ ላይ ርቀት ከመሬት ላይ ርቀት ጋር ያለው ንፅፅር ነው፤ 350 ኪ.ሜ. ÷ 10 ሴ.ሜ. = 35 ኪ.ሜ. ስለሆነ 1 ሴ.ሜ. በካርታው 35 ኪ.ሜ. ይወክላል። A እና D ኪሎ ሜትርን ወደ ሴንቲ ሜትር ሳይቀይሩ ስለተጻፉ ስህተት ናቸው፤ B ደግሞ 1 ሴ.ሜ. ለ 350 ኪ.ሜ. ሲል የ10 ሴ.ሜ. ክፍፍልን ስለረሳ ስህተት ነው።"
+    },
+    {
+     "id": "g6-am-envsci-039",
+     "topic": "Simple machines",
+     "question": "ከታች በሥዕሉ የተመለከተው መፈንቅል (የእጅ ጋሪ) ስንተኛ ደረጃ መፈንቅል ነው?",
+     "options": [
+      "አንደኛ ደረጃ መፈንቅል",
+      "ሁለተኛ ደረጃ መፈንቅል",
+      "ሦስተኛ ደረጃ መፈንቅል",
+      "አራተኛ ደረጃ መፈንቅል"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ B ነው። በእጅ ጋሪ ውስጥ ድጋፍ (መጋጠሚያ) የፊተኛው ጎማ ሲሆን፣ ጭነቱ በጋሪው መሃል፣ ሀይሉ ደግሞ በእጀታዎቹ ጫፍ ላይ ይገኛል። ጭነቱ በድጋፍና በሀይል መካከል ሲሆን መፈንቅሉ ሁለተኛ ደረጃ ይባላል። አንደኛ ደረጃ መፈንቅል ድጋፉ በጭነትና በሀይል መካከል ሲሆን ነው፤ ሦስተኛ ደረጃ ደግሞ ሀይሉ በመሃል ሲሆን ነው፤ ስለዚህ A እና C ስህተት ናቸው።",
+     "image": "assets/g6/envsci-q39.webp"
+    },
+    {
+     "id": "g6-am-envsci-040",
+     "topic": "Human body",
+     "question": "ከታች በሥዕሉ የተመለከተው የሰው ሳንባ ሞዴል ሥዕል ላይ ፊደል \"A\"ን ወደ ታች ብትጎትቱት ከሚከተሉት ውስጥ የትኛው ሊከሰት ይችላል?",
+     "options": [
+      "ፊደል A ወደታች ሲጎተት ሳንባው ይወጠራል",
+      "የሳንባው ይዘት እየቀነሰ ይሄዳል",
+      "በሳንባው ውስጥ የአየር ግፊት ይጨምራል",
+      "አየር ከሳንባው ወደ ውጭ ይወጣል"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ A ነው። A የሚያመለክተውን የጎማ ሽፋን (ድያፍራም) ወደ ታች ስንጎትት በመስታወት ቤቱ ውስጥ ያለው ቦታ ይጨምራል፤ ግፊቱ ይቀንሳል፤ ከውጭ አየር ገብቶ ፊኛዎቹ (ሳንባዎቹ) ይወጠራሉ። ይህ ሰው ሲተነፍስ ድያፍራም ወደ ታች ወርዶ ሳንባ እንደሚሰፋ ያሳያል። B፣ C እና D ደግሞ ሳንባ ሲሰበሰብ (አየር ሲወጣ) የሚከሰቱ ነገሮች ስለሆኑ ስህተት ናቸው።",
+     "image": "assets/g6/envsci-q40.webp"
+    }
+   ]
+  },
+  {
+   "id": "g6-am-moral-education-2018",
+   "level": "g6-amhara",
+   "subject": "moral-education",
+   "title": "2018 E.C. Regional Examination",
+   "kind": "past-paper",
+   "year": 2018,
+   "source": "ANRSEB Grade 6 Moral Education Regional Examination 2018 E.C.",
+   "answerSource": "reasoned",
+   "durationMinutes": 60,
+   "status": "published",
+   "questions": [
+    {
+     "id": "g6-am-moral-001",
+     "topic": "Responsibility",
+     "question": "በስሜት ውስጥ የሚወሰድ አሉታዊ የኃላፊነት ውጤት የትኛው ነው?",
+     "options": [
+      "ክብርን መጎናጸፍ",
+      "ሌሎችን መጉዳት",
+      "ሽልማት መቀበል",
+      "እምነት መጨመር"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ «ሌሎችን መጉዳት» ነው። ኃላፊነትን በአግባቡ ካልተወጣን በሌሎች ሰዎች ላይ ጉዳት ይደርሳል፤ ይህ አሉታዊ ውጤት ነው። ክብር፣ ሽልማትና እምነት ኃላፊነትን በመወጣት የሚገኙ አዎንታዊ ውጤቶች ናቸው። ስለዚህ «ሽልማት መቀበል» አሉታዊ ውጤት አይደለም።"
+    },
+    {
+     "id": "g6-am-moral-002",
+     "topic": "Responsibility",
+     "question": "ግለሰባዊ ኃላፊነት እና ሀገራዊ ኃላፊነት ያላቸው ዝምድና ምንድን ነው?",
+     "options": [
+      "ኃላፊነታችን ብንወጣም ለሃገር አስተዋጽዖ የለውም",
+      "ግለሰቦች በሃገራዊ ኃላፊነት ላይ ሚና የላቸውም",
+      "ግላዊ ኃላፊነታችንን ስንወጣ ሀገር ትጠናከራለች",
+      "ግለሰቦች ለሀገር ምንም አበርክቶ የላቸውም"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ «ግላዊ ኃላፊነታችንን ስንወጣ ሀገር ትጠናከራለች» ነው። ሀገር የምትገነባው በዜጎች ነው፤ እያንዳንዱ ሰው የራሱን ኃላፊነት ሲወጣ የሀገር ኃላፊነት ይሟላል። «ኃላፊነታችን ብንወጣም ለሃገር አስተዋጽዖ የለውም» የሚለው ስህተት ነው፤ ምክንያቱም የግለሰቦች ተግባር ተጠራቅሞ ሀገራዊ ለውጥ ያመጣል።"
+    },
+    {
+     "id": "g6-am-moral-003",
+     "topic": "Hard work",
+     "question": "ከሚከተሉት ተግባራት ውስጥ በትምህርታችሁ የላቀ ደረጃ ለመድረስ እናንተ ምን ተግባር ማከናወን አለባችሁ?",
+     "options": [
+      "አሳይመንትን በሌላ ሰው ማሰራት",
+      "በፈተና ሰዓት ከሌላ ተማሪ መኮረጅ",
+      "ከትምህርት እየቀሩ በግል ማጥናት",
+      "በፕሮግራም ጠንክሮ ማጥናት"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ «በፕሮግራም ጠንክሮ ማጥናት» ነው። በእቅድና በፕሮግራም መማር ዕውቀትን ያጎለብታል፤ ጥሩ ውጤትም ያስገኛል። መኮረጅና አሳይመንት በሌላ ሰው ማሰራት ሐቀኝነት የጎደላቸው ድርጊቶች ናቸው። ከትምህርት መቅረትም ትምህርትን ስለሚያስተጓጉል ለላቀ ውጤት አይረዳም።"
+    },
+    {
+     "id": "g6-am-moral-004",
+     "topic": "Punctuality",
+     "question": "ሰዓትን ማክበር የምን መገለጫ ነው?",
+     "options": [
+      "ጥሩ የስራ ባህል",
+      "የስንፍና መገለጫ",
+      "መዋያ ማጣት",
+      "የጊዜ መግደያ"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ «ጥሩ የስራ ባህል» ነው። ሰዓትን የሚያከብር ሰው ሥራውን በጊዜው ይጀምራል፤ በጊዜውም ያጠናቅቃል፤ ይህም የጠንካራ የሥራ ባህል ምልክት ነው። «የስንፍና መገለጫ» የሚለው ትክክል አይደለም፤ ሰነፍ ሰው ነው ሰዓትን የማያከብረው።"
+    },
+    {
+     "id": "g6-am-moral-005",
+     "topic": "Work culture",
+     "question": "የአደጉ ሃገራት በሳይንስ፣በቴክኖሎጅና በመሰረተ ልማት ካላደጉ ሃገሮች የተሻሉ ናቸው። ይህ የዕድገት ልዩነት እንዲፈጠር ምክንያቱ ምንድን ነው?",
+     "options": [
+      "ባላቸው የሕዝብ ብዛት",
+      "በሚናገሩት የቋንቋ ዓይነት",
+      "በሚኖሩበት መልከዓ ምድር",
+      "ባዳበሩት ጠንካራ የስራ ባህል"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ «ባዳበሩት ጠንካራ የስራ ባህል» ነው። የአደጉ ሀገራት ሕዝብ ጠንክሮ በመሥራት፣ ጊዜን በማክበርና ሥራን በመውደድ ለውጥ አምጥቷል። የሕዝብ ብዛት፣ የቋንቋ ዓይነትና መልክዓ ምድር የዕድገት ልዩነት ዋና ምክንያቶች አይደሉም፤ ብዙ ሕዝብ ያላቸው ሀገራት እንኳ ጠንክረው ካልሠሩ ድሃ ሊሆኑ ይችላሉ።"
+    },
+    {
+     "id": "g6-am-moral-006",
+     "topic": "Work culture",
+     "question": "በኢትዮጵያ በተለያዩ አከባቢዎች ስራን በጋራ (በደቦ/ወንፈል) ሲሰሩ ይታያል። ይህ ተግባር ከስራ ባህል አንጻር እንዴት ይገመገማል?",
+     "options": [
+      "መበረታት ያለበት ጠንካራ የስራ ባህል መገለጫ ነው",
+      "መወገድ ያለበት ኋላ ቀር የስራ ባህል ማሳያ ነው",
+      "በጋራ መስራት ጠንካራ የስራ ባህልን አይገልፅም",
+      "ለውጥ የማያመጣ መጥፎ የስራ ባህል ነው"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ «መበረታት ያለበት ጠንካራ የስራ ባህል መገለጫ ነው» የሚለው ነው። ደቦና ወንፈል ሰዎች እርስ በርስ ተረዳድተው ሥራን በፍጥነት የሚያጠናቅቁበት መልካም ባህል ነው፤ ትብብርንና አንድነትንም ያጠናክራል። ስለዚህ መወገድ አለበት ወይም ጥቅም የለውም የሚሉት አማራጮች ስህተት ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-007",
+     "topic": "Reading",
+     "question": "ከሚከተሉት ውስጥ የንባብ ጥቅም የሆነው የትኛው ነው?",
+     "options": [
+      "የዕውቀት አድማስን ይገድባል።",
+      "ጥልቅ ውሳኔ ለመወሰን ያስችላል።",
+      "ለኋላ ቀር አስተሳሰቦች ተገዥ ያደርጋል።",
+      "የተዛባ አስተያየት ለመስጠት ያስችላል።"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ «ጥልቅ ውሳኔ ለመወሰን ያስችላል» ነው። ማንበብ ዕውቀትንና መረጃን ስለሚያስገኝ ነገሮችን ከብዙ አቅጣጫ ተመልክተን በጥንቃቄ እንድንወስን ይረዳናል። «የዕውቀት አድማስን ይገድባል» የሚለው ስህተት ነው፤ ንባብ የዕውቀት አድማስን ያሰፋል እንጂ አይገድብም።"
+    },
+    {
+     "id": "g6-am-moral-008",
+     "topic": "Moral decision-making",
+     "question": "ከሚከተሉት ውስጥ የግብረገባዊ ውሳኔ አሰጣጥን ትርጉም ሊገልጽ የሚችለው ሃሳብ የትኛው ነው?",
+     "options": [
+      "ዘፈቀዳዊነት የተሞላ ብይን መስጠት",
+      "ኃላፊነት የጎደለው ሃሳብ መሰንዘር",
+      "ሚዛናዊነት የጎደለው ፍርድ መስጠት",
+      "ጥንቃቄ የተሞላበት ውሳኔን መተግበር"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ «ጥንቃቄ የተሞላበት ውሳኔን መተግበር» ነው። ግብረገባዊ ውሳኔ ማለት ትክክለኛውንና ስህተቱን ለይቶ፣ የውሳኔውን ውጤት አስቦ በጥንቃቄ መወሰን ነው። በዘፈቀደ፣ ያለ ኃላፊነትና ያለ ሚዛናዊነት መወሰን ግን የግብረገባዊ ውሳኔ ተቃራኒ ነው።"
+    },
+    {
+     "id": "g6-am-moral-009",
+     "topic": "Moral decision-making",
+     "question": "አንድ የጠና ህመም የገጠመው ግለሰብ የፋርማሲ ባለሙያውን ያለሃኪም ማዘዣ ወረቀት መድሃኒት እንዲሸጥለት ጠየቀው። ባለሙያውም \"ከሃኪም ትዕዛዝ ወረቀት ውጭ አልሸጥም\" ብሎ ከለከለው፣ ይህን የፋርማሲ ባለሙያውን ግብረገባዊ ውሳኔ እንዴት ታዩታላችሁ?",
+     "options": [
+      "ከሃኪም ትዕዛዝ ውጭ መድሃኒት መሸጥ ጉዳት ያስከትላል።",
+      "ማንም ሰው የፈለገውን መድሃኒት ገዝቶ መጠቀም ይችላል።",
+      "ባለሙያው ለሰውየው መድሃኒት ቢሸጥለት ችግር የለውም።",
+      "መድሃኒት እንደ ምግብ ስለሚቆጠር ጉዳት አያስከትልም።"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ «ከሃኪም ትዕዛዝ ውጭ መድሃኒት መሸጥ ጉዳት ያስከትላል» የሚለው ነው። ያለ ሐኪም ትዕዛዝ የሚወሰድ መድሃኒት የታማሚውን ሕይወት ሊጎዳ ስለሚችል ባለሙያው ሕግንና ሙያዊ ግዴታውን በማክበር ትክክለኛ ውሳኔ ወስኗል። «መድሃኒት እንደ ምግብ ነው» የሚለው ስህተት ነው፤ ምክንያቱም መድሃኒት በትክክል ካልተወሰደ ጉዳት ያስከትላል።"
+    },
+    {
+     "id": "g6-am-moral-010",
+     "topic": "Honesty",
+     "question": "ጓደኞቻችሁ የሌላ ተማሪ እስክርቢቶ ሲሰርቁ ብታዩ ምን ታደርጋላችሁ?",
+     "options": [
+      "ከእርሱ/ሷ ጋር እስማማለሁ።",
+      "እንዲመልስለት እመክራለሁ።",
+      "በድርጊቱ አብሬ እሳተፋለሁ።",
+      "ድርጊቱን በዝምታ አሳልፋለሁ።"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ «እንዲመልስለት እመክራለሁ» ነው። መስረቅ መጥፎ ድርጊት ስለሆነ መልካም ተማሪ ጓደኛውን መክሮ ንብረቱን እንዲመልስ ያደርጋል። ከሌባው ጋር መስማማት፣ አብሮ መሳተፍ ወይም በዝምታ ማለፍ ስህተቱን መደገፍ ስለሆነ ትክክል አይደለም።"
+    },
+    {
+     "id": "g6-am-moral-011",
+     "topic": "Peer pressure",
+     "question": "የጓደኞች ግፊት በስነ-ምግባራዊ ውሳኔ ላይ እንዴት ተግዳሮትን ይፈጥራል?",
+     "options": [
+      "ለመምሰል ስንል የተሳሳተ ውሳኔ እንድንወስን ስለሚያደርገን",
+      "አማራጭ የውሳኔ ሃሳቦችን እንድንመርጥ ስለሚያችለን",
+      "የተረጋጋና የተገናዘበ ውሳኔ እንድንወስን ስለሚያደርገን",
+      "ትክክለኛ ውሳኔ እንድንወስን እድል ስለሚሰጠን"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ «ለመምሰል ስንል የተሳሳተ ውሳኔ እንድንወስን ስለሚያደርገን» ነው። በጓደኞች ግፊት ሰዎች ከቡድኑ ላለመለየት ሲሉ መጥፎ ነገር ሊያደርጉ ይችላሉ፤ ይህ ለግብረገባዊ ውሳኔ ተግዳሮት ነው። የተረጋጋና ትክክለኛ ውሳኔ ማስወሰን የግፊት ውጤት አይደለም፤ ስለዚህ ሌሎቹ አማራጮች አይስማሙም።"
+    },
+    {
+     "id": "g6-am-moral-012",
+     "topic": "Environment",
+     "question": "በየአመቱ የአረንጓዴ ልማት ተግባራትን እንሰራለን፤ ይህ ተግባር በዋናነት ለምን ይጠቅማል?",
+     "options": [
+      "በቂ ዝናብ እንድናገኝ ያስችላል።",
+      "የተፈጥሮ ሃብቶችን ያመናምናል።",
+      "ከሌሎች ሃገራት ውዳሴን ያጎናጽፋል።",
+      "ከለጋሽ ድርጅቶች እርዳታን ያስገኛል።"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ «በቂ ዝናብ እንድናገኝ ያስችላል» ነው። ዛፍ መትከልና አረንጓዴ ልማት የአየር ንብረትን ያሻሽላል፤ ዝናብን ይጨምራል፤ አፈርንም ይጠብቃል። የተፈጥሮ ሃብትን ያመናምናል የሚለው ስህተት ነው፤ ምክንያቱም አረንጓዴ ልማት ሃብትን ይጠብቃል እንጂ አያጠፋም። ውዳሴና እርዳታ ዋና ዓላማው አይደሉም።"
+    },
+    {
+     "id": "g6-am-moral-013",
+     "topic": "Public property",
+     "question": "የትምህርት ቤታችሁ የቧንቧ ውሃ እየፈሰሰ ብትመለከት/ች ምን ታደርጋለህ/ታደርጊያለሽ?",
+     "options": [
+      "አልፌ እሄዳለሁ።",
+      "ውሃውን እዘጋዋለሁ።",
+      "አይቼ እተወዋለሁ።",
+      "ውሃውን እጫወትበታለሁ።"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ «ውሃውን እዘጋዋለሁ» ነው። ውሃ ውድ የጋራ ሃብት ስለሆነ እንዳይባክን መንከባከብ የእያንዳንዱ ተማሪ ኃላፊነት ነው። አልፎ መሄድ ወይም አይቶ መተው ግዴለሽነት ነው፤ ውሃውን ለጨዋታ መጠቀም ደግሞ ማባከን ነው፤ ስለዚህ እነዚህ ትክክል አይደሉም።"
+    },
+    {
+     "id": "g6-am-moral-014",
+     "topic": "Environment",
+     "question": "በአካባቢ እንክብካቤና በምርት መካከል ያለው ግንኙነት ምንድ ነው?",
+     "options": [
+      "የአካባቢ መጎዳት ምርትን ይጨምራል።",
+      "የአካባቢ ጥበቃ ከምርት ጋር አይገናኝም።",
+      "የአካባቢ ጥበቃ ምርትን በእጅጉ ያሻሽላል።",
+      "ምርታማነት የአካባቢን ስነምህዳር ይጎዳል።"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ «የአካባቢ ጥበቃ ምርትን በእጅጉ ያሻሽላል» ነው። አፈር፣ ውሃና ደን ሲጠበቁ መሬት ለም ሆኖ ምርት ይጨምራል። አካባቢ ሲጎዳ ግን አፈር ይሸረሸራል፤ ምርትም ይቀንሳል፤ ስለዚህ «የአካባቢ መጎዳት ምርትን ይጨምራል» የሚለው ስህተት ነው።"
+    },
+    {
+     "id": "g6-am-moral-015",
+     "topic": "Social media",
+     "question": "ማህበራዊ ሚዲያ ለግለሰቦች የሚሰጠው አዎንታዊ ጥቅም የትኛው ነው?",
+     "options": [
+      "ጊዜን ለማባከን",
+      "ግጭት ለመፍጠሪያ",
+      "ውሸትን ለማስፋፋት",
+      "መረጃ ለመለዋወጥ"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ «መረጃ ለመለዋወጥ» ነው። ማህበራዊ ሚዲያ ሰዎች በፍጥነት እንዲገናኙ፣ እንዲማሩና እውነተኛ መረጃ እንዲለዋወጡ ይረዳል። ጊዜ ማባከን፣ ግጭት መፍጠርና ውሸት ማሰራጨት ደግሞ የማህበራዊ ሚዲያ አላግባብ አጠቃቀም አሉታዊ ውጤቶች ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-016",
+     "topic": "Social media",
+     "question": "ከሚከተሉት ውስጥ የማህበራዊ ሚዲያ አጠቃቀም መርህ የሆነው የትኛው ነው?",
+     "options": [
+      "የሰዎችን ስራ በቀጥታ መገልበጥ",
+      "ለሰዎች ሀሰተኛ መረጃዎችን ማጋራት",
+      "የሰዎች ፈቃድ በማግኘት መረጃ ማጋራት",
+      "ግጭትን የሚቀሰቅስ መልዕክት ማጋራት"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ «የሰዎች ፈቃድ በማግኘት መረጃ ማጋራት» ነው። የሌሎችን መረጃ ወይም ፎቶ ከማጋራታችን በፊት ፈቃዳቸውን መጠየቅ የግላዊነት መብታቸውን ማክበር ነው። የሰዎችን ሥራ መገልበጥ፣ ሀሰተኛ መረጃ ማጋራትና ግጭት መቀስቀስ ግን የተከለከሉና ግብረገብ የጎደላቸው ተግባራት ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-017",
+     "topic": "Social media",
+     "question": "ግብረገብነት የጎደለው ማህበራዊ ሚዲያን መጠቀም ስህተት የሚሆነው ለምንድን ነው?",
+     "options": [
+      "ትምህርታዊ መረጃን ስለሚያጋራን",
+      "የሌሎችን ስም ማጥፋት ስለሚችል",
+      "እውነተኛ መረጃ መስጠት ስለሚችል",
+      "የሰዎችን ክብር የሚጠብቅ በመሆኑ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ «የሌሎችን ስም ማጥፋት ስለሚችል» ነው። ግብረገብ በጎደለው መንገድ ሲጠቀሙ ሀሰተኛ ወሬና ስድብ በማሰራጨት የሰዎችን ስምና ክብር ማጉደፍ ይቻላል። ትምህርታዊና እውነተኛ መረጃ ማጋራት እንዲሁም የሰዎችን ክብር መጠበቅ ጥሩ ነገሮች ስለሆኑ ስህተት የሚሆኑበት ምክንያት አይደሉም።"
+    },
+    {
+     "id": "g6-am-moral-018",
+     "topic": "Respect for culture",
+     "question": "ወላጅ አባትህ/ሽ የባህል ፌስቲቫል ዝግጅት ላይ ወስዶ የተለያዩ ማህበረሰብ የባህል ዝግጅቶችን በሰፊው ተመለከታችሁ። ይህንን የባህል ፌስቲቫል እንዴት አየኸው/ሽው?",
+     "options": [
+      "የሌሎቹ ባህል ኋላቀር መሆናቸው",
+      "የሌሎች ባህል ከኛ ባህል ያነሰ መሆኑ",
+      "የራሴ ባህል ከሌላው የበለጠ እንደሆነ",
+      "ለተለያዩ ባህሎች ክብር መስጠት እንዳለብን"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ «ለተለያዩ ባህሎች ክብር መስጠት እንዳለብን» ነው። እያንዳንዱ ባህል የራሱ ዋጋና ውበት ስላለው ሁሉም እኩል ክብር ይገባዋል። የሌሎችን ባህል ኋላቀር ወይም ዝቅተኛ ማለት እንዲሁም የራስን ባህል ከሌላው ማብለጥ አድሎአዊና ኩራት የተሞላበት አመለካከት ነው።"
+    },
+    {
+     "id": "g6-am-moral-019",
+     "topic": "Conflict resolution",
+     "question": "በአካባቢያችን የሚካሄዱ የሽምግልና ተግባራት በባህል መካከል ለሚኖር አዎንታዊ ግንኙነት እንዴት ይጠቅማሉ?",
+     "options": [
+      "የግለሰቦችን ጊዜያዊ ችግር ያወሳስባል።",
+      "የባህል ክፍተቶች እንዲሰፉ ያደርጋል።",
+      "ለተጋጩ ወገኖች ዘለቄታዊ ሰላምን ያመጣል።",
+      "የሽምግልና ስርዓት ዘመናዊነትን ያደናቅፋል።"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ «ለተጋጩ ወገኖች ዘለቄታዊ ሰላምን ያመጣል» ነው። ሽምግልና ተጋጭተው የነበሩ ወገኖችን አስታርቆ በመካከላቸው ፍቅርና መከባበር እንዲኖር ያደርጋል። ችግርን ማወሳሰብ ወይም የባህል ክፍተትን ማስፋት የሽምግልና ውጤት አይደለም፤ ተቃራኒው ነው።"
+    },
+    {
+     "id": "g6-am-moral-020",
+     "topic": "Good citizenship",
+     "question": "እንደ አንድ መልካም ዜጋ አንድ በቋንቋ ልዩነት ያለው ሰው ቢገጥምህ/ሽ ምን ታደርጋለህ/ሽ?",
+     "options": [
+      "የሰውየውን ቋንቋ ግምት ውስጥ ማስገባትና መርዳት",
+      "የውሸት መረጃዎችን በመስጠት ሰውየውን ማሳሳት",
+      "ሰውየውን ከናካቴው አለማየትና መርዳት አለመፈለግ",
+      "ሰውየውን በጥርጣሬ በማየት ከመርዳት መቆጠብ"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ «የሰውየውን ቋንቋ ግምት ውስጥ ማስገባትና መርዳት» ነው። መልካም ዜጋ የቋንቋ ልዩነትን አክብሮ ለሰው በትዕግስት ድጋፍ ይሰጣል። ማሳሳት፣ ችላ ማለትና በጥርጣሬ ማየት ደግሞ የሰዎችን ክብር የሚነኩ ግብረገብ የጎደላቸው ድርጊቶች ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-021",
+     "topic": "Honesty",
+     "question": "ከሚከተሉት ውስጥ የታማኝ ሰው ባህሪን የሚገልጸው የትኛው ነው?",
+     "options": [
+      "ለጓደኛ አለመታመን",
+      "ስህተትን አለማመን",
+      "ውሸትን መናገር",
+      "እውነትን መናገር"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ «እውነትን መናገር» ነው። ታማኝ ሰው ሁልጊዜ እውነትን ይናገራል፤ ቃሉንም ይጠብቃል፤ ስለዚህ ሰዎች ያምኑታል። ውሸት መናገር፣ ለጓደኛ አለመታመን እና ስህተትን አለማመን ደግሞ የታማኝነት ተቃራኒ ባህሪያት ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-022",
+     "topic": "Respect",
+     "question": "ሁለት ጓደኞችህ/ሽ ከመኖርያ ቤትህ/ሽ አንተን/አንችን ለመጠየቅ ቢመጡ፣ እንደ አንድ ትሁት ተማሪ ምን ታደርጋለህ/ሽ?",
+     "options": [
+      "ጥላቻን ማሳየት",
+      "በአክብሮት መቀበል",
+      "ዝቅ አድርጎ ማየት",
+      "አክብሮት መንፈግ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ «በአክብሮት መቀበል» ነው። ትሁት ተማሪ እንግዳን በፈገግታና በመልካም አቀባበል ያስተናግዳል፤ ይህም ፍቅርንና መከባበርን ያሳያል። ጥላቻ ማሳየት፣ ዝቅ አድርጎ ማየትና አክብሮት መንፈግ ከትህትና ጋር የሚጣረሱ ባህሪያት ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-023",
+     "topic": "Honesty",
+     "question": "እንደ አንድ ግብረገባዊ ሃቀኛ ተማሪ አንድ ሰው የጓደኛችሁን ስም በከንቱ ሲያጠፋ ብትሰሙ ምን ታደርጋላችሁ?",
+     "options": [
+      "አብሬ አማለሁ።",
+      "ሚስጢር አባክናለሁ።",
+      "ድርጊቱን እቃወማለሁ።",
+      "ለታማው ሰው እነግረዋለሁ።"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ «ድርጊቱን እቃወማለሁ» ነው። ሃቀኛ ተማሪ ሐሰተኛ ወሬን አይቀበልም፤ የጓደኛውንም መልካም ስም ይጠብቃል። አብሮ ማማት የስም ማጥፋት ተባባሪ መሆን ነው፤ ሚስጢር ማባከንም ስህተት ነው፤ ስለዚህ እነዚህ አማራጮች ትክክል አይደሉም።"
+    },
+    {
+     "id": "g6-am-moral-024",
+     "topic": "Hard work",
+     "question": "እንደ ተማሪነትህ/ሽ ወደ ሰባተኛ ክፍል በተሻለ ውጤት ለመሸጋገር አንተ/ች ምን ማድረግ አለብህ/ሽ?",
+     "options": [
+      "አጠገቤ ከሚቀመጥ ተማሪ መኮረጅ",
+      "ያለምንም ዝግጅት ፈተና መቀመጥ",
+      "ጠንክሬ በማንበብ ለፈተና መቅረብ",
+      "ቴክኖሎጅን በመጠቀም መልስ መቅዳት"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ «ጠንክሬ በማንበብ ለፈተና መቅረብ» ነው። በራስ ጥረት ተዘጋጅቶ መፈተን እውነተኛ ዕውቀትና የተሻለ ውጤት ያስገኛል። መኮረጅ፣ መልስ መቅዳትና ያለ ዝግጅት መፈተን ደግሞ ሐቀኝነት የጎደላቸው ወይም ውጤት የማያመጡ ተግባራት ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-025",
+     "topic": "Respect for rules",
+     "question": "ከሚከተሉት ውስጥ ህግን የሚያከብር ሰው ባህሪ የሆነው የትኛው ነው?",
+     "options": [
+      "የእንቢተኝነት ስሜት መያዝ",
+      "የግል ጥቅምን ማስቀደም",
+      "በኃይል/በጉልበት መመካት",
+      "በሕግና በመመሪያ መገዛት"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ «በሕግና በመመሪያ መገዛት» ነው። ሕግን የሚያከብር ሰው ደንቦችንና መመሪያዎችን ያለ ማንገራገር ይፈጽማል። እንቢተኝነት፣ የግል ጥቅምን ማስቀደምና በጉልበት መመካት ሕግን መጣስ ስለሆኑ የሕግ አክባሪ ባህሪ አይደሉም።"
+    },
+    {
+     "id": "g6-am-moral-026",
+     "topic": "Taxes",
+     "question": "ከሚከተሉት ውስጥ የግብር ስወራ ተግባር የሆነው የትኛው ነው?",
+     "options": [
+      "ትክክለኛ መረጃ መስጠት",
+      "ግብርን በወቅቱ መክፈል",
+      "ደረሰኝ አልባ መገበያየት",
+      "የመሸጫን ዋጋ ማሳወቅ"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ «ደረሰኝ አልባ መገበያየት» ነው። ደረሰኝ ሳይሰጥና ሳይቀበሉ መገበያየት የሽያጩ መጠን እንዳይታወቅ ስለሚያደርግ ግብር ለመደበቅ ይጠቅማል፤ ይህ ደግሞ የግብር ስወራ ነው። ትክክለኛ መረጃ መስጠት፣ በወቅቱ መክፈልና የመሸጫ ዋጋን ማሳወቅ ግን ግብርን በታማኝነት መክፈል ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-027",
+     "topic": "Rule of law",
+     "question": "በአንድ ሀገር ውስጥ ዜጎች በህግ ከመገዛት ይልቅ በራሳቸው መንገድ ፍትህን ለማስፈን ቢሞክሩ ምን የሚፈጠር ይመስላችኋል?",
+     "options": [
+      "የዜጎች መብት ይጣሳል።",
+      "ብልሹ አሰራሮች ይቀንሳል።",
+      "የዜጎች ደህንነት ይረጋገጣል።",
+      "ችግሮች በሰላማዊ መንገድ ይፈታሉ።"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ «የዜጎች መብት ይጣሳል» ነው። ሰዎች ከሕግ ውጭ በራሳቸው ፍርድ ሲሰጡ ንጹሕ ሰዎች ሊጎዱ ይችላሉ፤ ሁከትም ይፈጠራል። ደህንነትና ሰላማዊ መፍትሔ የሚገኙት በሕግ አግባብ ነው፤ ስለዚህ «የዜጎች ደህንነት ይረጋገጣል» የሚለው ስህተት ነው።"
+    },
+    {
+     "id": "g6-am-moral-028",
+     "topic": "Good character",
+     "question": "አቶ አበበ በሰፈሩ የታወቀ ሐቀኛና ደግ ሰው ነው። ይህንን የአቶ አበበን ባህሪ እንዴት ትገመግማለህ/ያለሽ?",
+     "options": [
+      "በሰዎች መካከል ቅራኔን ይፈጥራል።",
+      "የሰዎችን መልካም ግንኙነት ያሳድጋል።",
+      "ሰዎች ተጠራጥረው እንዲኖሩ ያስችላል።",
+      "በሌሎች ሰዎች ዘንድ ንቀትን ያስከትላል።"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ «የሰዎችን መልካም ግንኙነት ያሳድጋል» ነው። ሐቀኛና ደግ ሰው በሰዎች ዘንድ ይታመናል፤ ይከበራልም፤ ይህም መተማመንና ፍቅርን ያዳብራል። ቅራኔ፣ ጥርጣሬና ንቀት የሚፈጠሩት በሐቀኝነትና በደግነት እጦት ስለሆነ እነዚህ አማራጮች ስህተት ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-029",
+     "topic": "Good character",
+     "question": "መልካም ባህሪን ማዳበር ለሰዎች የሚሰጠው ጥቅም የትኛው ነው?",
+     "options": [
+      "ተፈራርቆ ለየብቻ ለመኖር",
+      "ተግባብቶ በፍቅር ለመኖር",
+      "በንቀት አይን ለመተያየት",
+      "በጥላቻ መንፈስ ለመቀራረብ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ «ተግባብቶ በፍቅር ለመኖር» ነው። መልካም ባህሪ ያላቸው ሰዎች እርስ በርስ ይከባበራሉ፤ ይተባበራሉም፤ በሰላምም ይኖራሉ። መፈራራት፣ መናቅና መጥላት መጥፎ ባህሪ ውጤቶች ናቸው፤ ስለዚህ ሌሎቹ አማራጮች ትክክል አይደሉም።"
+    },
+    {
+     "id": "g6-am-moral-030",
+     "topic": "Self-control",
+     "question": "ራስን የመግዛት ጥቅም የሆነው የትኛው ነው?",
+     "options": [
+      "ፍላጎትን ልቅ ለማድረግ",
+      "የሌሎችን ሃሳብ ለመንቀፍ",
+      "መጥፎ ባህሪን ለማረቅ",
+      "ራስን ከአደጋ ለመክተት"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ «መጥፎ ባህሪን ለማረቅ» ነው። ራስን መግዛት ንዴትንና ስሜትን መቆጣጠር ስለሆነ መጥፎ ልማዶችን ለማስተካከል ይረዳል። ፍላጎትን ልቅ ማድረግ ራስን አለመግዛት ነው፤ ራስን ለአደጋ መክተትም የራስን መግዛት ጥቅም ሳይሆን ጉዳት ነው።"
+    },
+    {
+     "id": "g6-am-moral-031",
+     "topic": "School rules",
+     "question": "በትምህርት ቤታችሁ ሰላማዊ የመማር ማስተማር እንዲኖር ምን ምን ተግባራት ታከናውናላችሁ?",
+     "options": [
+      "የደንብ ልብስን ለብሶ መገኘት",
+      "የቤት ስራን ከሌላ ጓደኛ መግልበጥ",
+      "በትምህርት ሰዓት በክፍል መገኘት",
+      "የትምህርት ቁሳቁስ ሳያመጡ መምጣት"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ «የደንብ ልብስን ለብሶ መገኘት» ነው። የትምህርት ቤቱን ደንብ ማክበር ሰላማዊ የመማር ማስተማር ሁኔታን ይፈጥራል። የቤት ሥራን መገልበጥና የትምህርት ቁሳቁስ ሳይዙ መምጣት ደንብን መጣስና ኃላፊነት አለመወጣት ናቸው፤ ስለዚህ ስህተት ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-032",
+     "topic": "Community participation",
+     "question": "የአካባቢው አስተዳደር የችግኝ ተከላ መርሃ ግብር ተግባር ላይ እንድንሳተፍ ጠየቀ። ከኛ የሚጠበቀው ተግባር ምን ሊሆን ይችላል?",
+     "options": [
+      "ለይስሙላ ለመታየት መሄድ",
+      "በሰበብ አስባብ ከተግባሩ መቅረት",
+      "ሰዎች እንዳይተባበሩ መቀስቀስ",
+      "በቀናነት በተግባሩ ላይ መሳተፍ"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ «በቀናነት በተግባሩ ላይ መሳተፍ» ነው። ችግኝ መትከል ለሁሉም የሚጠቅም የጋራ ሥራ ስለሆነ ከልብና በፈቃደኝነት መሳተፍ ይገባል። ለይስሙላ መሄድ፣ በሰበብ መቅረትና ሌሎችን ማስቀረት ግን ኃላፊነት የጎደላቸው ድርጊቶች ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-033",
+     "topic": "Common good",
+     "question": "በትርፍ ጊዜያችሁ የጋራ ጥቅምን ለማረጋገጥ ምን ምን ተግባራትን ታከናውናላችሁ?",
+     "options": [
+      "ቴሌቪዥን መመልከት",
+      "ቤት ውስጥ መተኛት",
+      "ቤተ-መጻሕፍት ማጽዳት",
+      "ለብቻ ሆኖ መጫዎት"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ «ቤተ-መጻሕፍት ማጽዳት» ነው። ቤተ-መጻሕፍት የብዙ ተማሪዎች የጋራ ንብረት ስለሆነ በትርፍ ጊዜ ማጽዳት ለሁሉም ይጠቅማል። ቴሌቪዥን ማየት፣ መተኛትና ለብቻ መጫወት የግል ጥቅም ብቻ የሚያስገኙ ተግባራት ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-034",
+     "topic": "Development",
+     "question": "በግብርና ልማት እና በመንገድ ግንባታ መካከል ያለው ትስስር ምንድን ነው?",
+     "options": [
+      "የመንገድ ልማት የግብርናን ተግባር ይጎዳል",
+      "የግብርና እና የመንገድ ስራዎች አይገናኙም",
+      "ግብርና ለመንገድ ግንባታ ምንም አይጠቅምም",
+      "የመንገድ ግንባታ የግብርና ምርት ግብይትን ያፋጥናል"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ «የመንገድ ግንባታ የግብርና ምርት ግብይትን ያፋጥናል» ነው። መንገድ ሲኖር ገበሬዎች ምርታቸውን ወደ ገበያ በቀላሉና በፍጥነት ማድረስ እንዲሁም ግብዓት ማግኘት ይችላሉ። ስለዚህ ሁለቱ ልማቶች የተሳሰሩ ናቸው፤ «አይገናኙም» ወይም «ይጎዳል» የሚሉት አማራጮች ስህተት ናቸው።"
+    },
+    {
+     "id": "g6-am-moral-035",
+     "topic": "Patriotism",
+     "question": "አንድ ኢትዮጵያዊ ወጣት የሃገሩን ሚስጢር ለባዕድ ሃገር ዜጋ አሳልፎ ሲሠጥ ብትመለከቱ ምን ታደርጋለህ/ታደርጊያለሽ?",
+     "options": [
+      "ያላዩ መስሎ በዝምታ ማለፍ",
+      "የልጁን ድርጊት በጭፍን መደገፍ",
+      "የልጁን ተግባር በጥሩ ማመስገን",
+      "ለሚመለከተው መረጃ መስጠት"
+     ],
+     "answer": 3,
+     "explanation": "ትክክለኛው መልስ «ለሚመለከተው መረጃ መስጠት» ነው። የሀገርን ሚስጢር አሳልፎ መስጠት ሀገርን መክዳት ስለሆነ ሀገር ወዳድ ዜጋ ለሚመለከተው የፍትሕ ወይም የጸጥታ አካል ያሳውቃል። በዝምታ ማለፍ፣ መደገፍና ማመስገን ደግሞ ክህደቱን መተባበር ስለሆነ ትክክል አይደሉም።"
+    },
+    {
+     "id": "g6-am-moral-036",
+     "topic": "Patriotism",
+     "question": "ሀገር ወዳድ መሆን ለሃገር የሚያሰጠውን ጥቅም የሚገልጸው የትኛው ነው?",
+     "options": [
+      "የሃገርን ሉዓላዊነት ያስከብራል።",
+      "ብልሹ አሰራር እንዲሰፍን ያስችላል።",
+      "ሃገር በድህነት እንድትወድቅ ያስችላል።",
+      "አጭበርባሪዎች እንዲበራከቱ ያደርጋል።"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ «የሃገርን ሉዓላዊነት ያስከብራል» ነው። ሀገሩን የሚወድ ዜጋ ድንበሯንና ነጻነቷን ይጠብቃል፤ ለእድገቷም ይሠራል። ብልሹ አሰራርን ማስፋፋት፣ ሀገርን ማደህየት እና አጭበርባሪዎችን ማበራከት ግን ሀገር ወዳድነት ተቃራኒ ነው።"
+    },
+    {
+     "id": "g6-am-moral-037",
+     "topic": "Patriotism",
+     "question": "ከሚከተሉት ውስጥ የትኛው የሃገር መወደድን ሃሳብ ይገልጻል?",
+     "options": [
+      "ለሌሎች ሰዎች አለማሰብ",
+      "የዜጎችን መብት ማክበር",
+      "የሰዎችን መብት መጣስ",
+      "ሃሳብን በሌሎች መጫን"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ «የዜጎችን መብት ማክበር» ነው። ሀገርን መውደድ ማለት የወገኖችን መብትና ክብር መጠበቅና ለጋራ ጥቅም መሥራት ነው። ለሌሎች አለማሰብ፣ መብት መጣስና ሃሳብን በሌሎች ላይ መጫን ሀገርን መውደድ ሳይሆን ዜጎችን መጉዳት ነው።"
+    },
+    {
+     "id": "g6-am-moral-038",
+     "topic": "Peace",
+     "question": "የሰላም መደፍረስ ማህበረሰቡን እንዴት ሊጎዳ ይችላል?",
+     "options": [
+      "የዜጎች ሕይወት አደጋ ላይ የሚወድቅ በመሆኑ",
+      "ሰዎች ያላቸውን ሃብት እንዲጠቀሙ ስለሚያደርግ",
+      "የተሻለ የኢኮኖሚ እንቅስቃሴ እንዲኖር ስለሚያስችል",
+      "ዜጎች በነጻነት ተንቀሳቅሰው መስራት የሚችሉ በመሆናቸው"
+     ],
+     "answer": 0,
+     "explanation": "ትክክለኛው መልስ «የዜጎች ሕይወት አደጋ ላይ የሚወድቅ በመሆኑ» ነው። ሰላም ሲደፈርስ ሰዎች ይገደላሉ፤ ይፈናቀላሉ፤ ንብረትም ይወድማል። ሌሎቹ አማራጮች ሰላም ሲኖር የሚገኙ ጥቅሞችን ስለሚገልጹ የሰላም መደፍረስ ጉዳት አይደሉም።"
+    },
+    {
+     "id": "g6-am-moral-039",
+     "topic": "Peace",
+     "question": "ከሚከተሉት ውስጥ የትኛው በሠላምና በሃገር ዕድገት መካከል ያለውን ትስስር ያሳያል?",
+     "options": [
+      "ሠላም የሚጠቅመው ግለሰቦችን እንጅ ሀገርን አይደለም",
+      "ሠላም ሲኖር ልማት፣ አንድነት እና ዕድገት ይጠናከራል",
+      "ሠላም ቢኖርም ባይኖርም በልማት ላይ ምንም ለውጥ የለውም",
+      "ሰዎች ሰላምን ባያስጠብቁም ልማትን በቀላሉ ሊያመጡ ይችላሉ"
+     ],
+     "answer": 1,
+     "explanation": "ትክክለኛው መልስ «ሠላም ሲኖር ልማት፣ አንድነት እና ዕድገት ይጠናከራል» ነው። ሰላም ባለበት ቦታ ሰዎች በነጻነት ይሠራሉ፤ ኢንቨስትመንት ይጨምራል፤ ሀገርም ያድጋል። «ሰላም ለልማት ለውጥ የለውም» የሚሉት አማራጮች ስህተት ናቸው፤ ምክንያቱም ያለ ሰላም ልማት አይመጣም።"
+    },
+    {
+     "id": "g6-am-moral-040",
+     "topic": "Peace",
+     "question": "ሠላም ለሃገር ምን ጠቀሜታ ይኖረዋል?",
+     "options": [
+      "ኋላ ቀር ማኅበረሰብ እንዲፈጠር ያግዛል",
+      "ጥገኛና ተረጅ ሃገር እንዲኖር ያደርጋል",
+      "ጠንካራና የበለጸገች ሃገር ይፈጥራል",
+      "በሁከት የተሞላች ሃገር ይፈጥራል"
+     ],
+     "answer": 2,
+     "explanation": "ትክክለኛው መልስ «ጠንካራና የበለጸገች ሃገር ይፈጥራል» ነው። ሰላም ሲኖር ዜጎች ተረጋግተው ይሠራሉ፤ ኢኮኖሚው ያድጋል፤ ሀገርም ትበለጽጋለች። ኋላ ቀርነት፣ ጥገኝነትና ሁከት ደግሞ የሰላም እጦት ውጤቶች ናቸው።"
+    }
+   ]
+  }
+ ]
+}

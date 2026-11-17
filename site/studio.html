@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f8fa">
+  <title>Content Studio | Habesha Exam Center</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/pages.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <script src="js/core/config.js"></script>
+</head>
+<body data-page="studio">
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="index.html">Habesha Exam Center<small>LEARN · PRACTICE · SUCCEED</small></a>
+      <a class="top-link" href="apply-contributors.html">Contribute</a>
+    </div>
+  </header>
+
+  <main class="resources-page container">
+    <section class="resources-header">
+      <div>
+        <div class="eyebrow">For contributors</div>
+        <h1>Content Studio</h1>
+        <p>Fill in the form and copy the JSON it produces into the right file in <code>data/</code>. This page checks your entry as you type. It cannot publish by itself: you commit the text it produces (see <code>docs/CONTENT-GUIDE.md</code>).</p>
+      </div>
+    </section>
+
+    <div class="subject-tabs" role="tablist" aria-label="What to add">
+      <button type="button" role="tab" data-tab="material" aria-selected="true">Video, note or text book</button>
+      <button type="button" role="tab" data-tab="playlist" aria-selected="false">Playlist</button>
+      <button type="button" role="tab" data-tab="exam" aria-selected="false">Exam paper</button>
+    </div>
+
+    <section id="tab-material" class="panel subject-pane" role="tabpanel">
+      <div class="resources-toolbar">
+        <div><label for="mType">Type</label><select id="mType"></select></div>
+        <div><label for="mGrade">Grade</label><select id="mGrade"></select></div>
+        <div id="mStreamWrap"><label for="mStream">Stream</label><select id="mStream"></select></div>
+        <div><label for="mSubject">Subject</label><select id="mSubject"></select></div>
+        <div class="resources-search"><label for="mTitle">Title</label><input id="mTitle" placeholder="e.g. Motion in a straight line, part 1"></div>
+        <div class="resources-search"><label for="mUrl">Link (https)</label><input id="mUrl" placeholder="https://www.youtube.com/watch?v=…"></div>
+        <div><label for="mLang">Language</label><select id="mLang"><option value="">Not stated</option><option value="en">English</option><option value="am">Amharic</option><option value="om">Afaan Oromo</option></select></div>
+        <div><label for="mUnit">Unit</label><input id="mUnit" type="number" min="1" placeholder="1"></div>
+        <div><label for="mTopic">Topic</label><input id="mTopic" placeholder="speed and velocity"></div>
+        <div><label for="mSource">Made by</label><input id="mSource" placeholder="Teacher or channel"></div>
+        <div><label for="mPermission">Permission</label><select id="mPermission"><option value="">Not stated</option><option value="own">Our own content</option><option value="embed-allowed">Embedding allowed</option><option value="link-only">Link only</option></select></div>
+      </div>
+      <div id="mChecks" class="studio-checks" aria-live="polite"></div>
+    </section>
+
+    <section id="tab-playlist" class="panel subject-pane" role="tabpanel" hidden>
+      <p class="muted">Choose the type, grade and subject on the first tab, then paste one video per line as <code>https://… | Title</code>. Entries are numbered in order.</p>
+      <label for="pLines">Videos</label>
+      <textarea id="pLines" rows="8" style="width:100%" placeholder="https://www.youtube.com/watch?v=AAAAAAAAAAA | Lesson 1&#10;https://www.youtube.com/watch?v=BBBBBBBBBBB | Lesson 2"></textarea>
+      <div class="resources-toolbar"><div><label for="pName">Playlist name</label><input id="pName" placeholder="unit1"></div></div>
+      <div id="pChecks" class="studio-checks" aria-live="polite"></div>
+    </section>
+
+    <section id="tab-exam" class="panel subject-pane" role="tabpanel" hidden>
+      <div class="resources-toolbar">
+        <div><label for="eLevel">Level</label><select id="eLevel"></select></div>
+        <div><label for="eSubject">Subject</label><select id="eSubject"></select></div>
+        <div><label for="eYear">Year (E.C.)</label><select id="eYear"></select></div>
+        <div><label for="eKind">Kind</label><select id="eKind"><option value="past-paper">Past paper</option><option value="model">Model exam</option><option value="chapter-quiz">Chapter quiz</option><option value="mock">Mock</option></select></div>
+        <div><label for="eAnswers">Answers are</label><select id="eAnswers"><option value="reasoned">Worked out independently (unofficial)</option><option value="official">From an official key</option></select></div>
+        <div><label for="eMinutes">Minutes</label><input id="eMinutes" type="number" min="15" max="120" value="60"></div>
+        <div class="resources-search"><label for="eTitle">Paper title</label><input id="eTitle" placeholder="2017 E.C. Regional Examination"></div>
+      </div>
+      <label for="eRows">Questions: one per line as <code>question | A | B | C | D | answer letter | explanation | topic</code></label>
+      <textarea id="eRows" rows="8" style="width:100%"></textarea>
+      <div id="eChecks" class="studio-checks" aria-live="polite"></div>
+    </section>
+
+    <section class="panel" aria-labelledby="outHeading">
+      <h2 id="outHeading">Result</h2>
+      <p id="outWhere" class="muted">Fill in the form above.</p>
+      <textarea id="out" rows="14" style="width:100%;font-family:ui-monospace,monospace" readonly></textarea>
+      <div class="resource-detail-actions">
+        <button type="button" class="btn primary" id="copyBtn">Copy</button>
+        <button type="button" class="btn secondary" id="downloadBtn">Download updated file</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="hec-footer">Habesha Exam Center · Learn Today · Build Tomorrow</footer>
+  <script src="js/core/util.js"></script>
+  <script src="js/core/store.js"></script>
+  <script src="js/core/sync.js"></script>
+  <script src="js/core/auth.js"></script>
+  <script src="js/core/catalogue.js"></script>
+  <script src="js/core/content.js"></script>
+  <script src="js/core/shell.js"></script>
+  <script src="js/core/video.js"></script>
+  <script src="js/pages/studio.js"></script>
+</body>
+</html>
