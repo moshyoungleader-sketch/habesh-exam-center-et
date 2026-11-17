@@ -8,7 +8,6 @@
     "validate": "node tools/validate-content.js",
     "check": "node tools/build-indexes.js && node tools/validate-content.js",
     "test": "node tools/parity-test.js",
-    "serve": "python3 -m http.server 8080 --directory site",
-    "mock": "node tools/mock-supabase.js"
+    "serve": "python3 -m http.server 8080 --directory site"
   }
 }
