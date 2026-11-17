@@ -5,11 +5,8 @@
 
   HEC.config = Object.freeze({
     schemaVersion: 1,
-    /* Accounts and results online (Supabase). Leave both empty to keep everything in this browser, as before.
-       Paste the Project URL and the "anon" / "publishable" key (never the service_role key). See docs/SUPABASE-SETUP.md. */
-    /* Online requests go through this site (/supabase, see _redirects) so the login forms send data to the same address they came from. */
-    supabaseUrl: (window.location.protocol === "https:" ? window.location.origin + "/supabase" : "https://evscdzahzfwzchmabxtl.supabase.co"),
-    supabaseKey: "sb_publishable_-vsGKZl8IcyHEUXM6c_4EQ_4kpOFoK-",
+    /* Accounts and results are saved on this site's own server (/api, Neon Postgres). Set to false to keep everything in this browser only. */
+    accountsOnline: true,
     saveMockAttempts: true,     // addendum section 3: Mock Exam attempts are saved like Practice attempts
     examYears: [2017, 2018],    // addendum section 2: years offered after Practice / Mock is chosen (E.C.)
     googleFormUrl: window.HEC_GOOGLE_FORM_URL || "",         // contributor application form (https://docs.google.com/forms/...)

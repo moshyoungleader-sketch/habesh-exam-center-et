@@ -1,4 +1,4 @@
-/* Accounts. With Supabase configured (config.js) they are real online accounts; otherwise demo accounts kept in this browser.
+/* Accounts. With accountsOnline set in config.js they are real online accounts on our server; otherwise demo accounts kept in this browser.
    Browser-only mode: Passwords are hashed with PBKDF2 (Web Crypto) when the browser allows it;
    accounts that still hold a plain-text password are upgraded the next time their owner signs in.
    This stops casual reading of stored passwords. It is NOT real account security (see docs/CONTENT-GUIDE.md). */
