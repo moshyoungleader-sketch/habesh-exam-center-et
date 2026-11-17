@@ -1,0 +1,14 @@
+{
+  "name": "habesha-exam-center",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Static site. Publish the site/ folder.",
+  "scripts": {
+    "build": "node tools/build-indexes.js",
+    "validate": "node tools/validate-content.js",
+    "check": "node tools/build-indexes.js && node tools/validate-content.js",
+    "test": "node tools/parity-test.js",
+    "serve": "python3 -m http.server 8080 --directory site",
+    "mock": "node tools/mock-supabase.js"
+  }
+}
